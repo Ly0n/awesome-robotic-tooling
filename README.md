@@ -57,6 +57,7 @@ https://github.com/ucla-vision/xivo
 https://github.com/rpng/R-VIO
 https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
+https://github.com/srv/viso2
 
 ## Commandline
 https://github.com/orhun/pkgtop
