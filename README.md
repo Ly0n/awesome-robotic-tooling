@@ -2,6 +2,7 @@
 
 A collection of awesome in an ROS environment for your professional robotic development
 
+**ONLY Packages that are still maintained!**
 
 * [Example Format](#example-format)
 * [Development Environment](#development-environment)
@@ -141,6 +142,7 @@ https://github.com/rfjakob/gocryptfs
 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 https://github.com/CISOfy/lynis
 https://github.com/WireGuard/WireGuard
+https://github.com/ncsa/ssh-auditor
 
 ## Safety
 https://github.com/udacity/CarND-Functional-Safety-Project
