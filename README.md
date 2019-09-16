@@ -92,6 +92,8 @@ https://github.com/cruise-automation/webviz
 https://github.com/rfjakob/gocryptfs
 ### Lint
 https://github.com/danmar/cppcheck
+### Safe Datatypes
+https://github.com/boostorg/safe_numerics
 
 ## Git
 https://github.com/kaiw/meld
