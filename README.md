@@ -41,6 +41,7 @@ https://github.com/benhutchins/docker-taiga
 https://github.com/kubeflow/kubeflow
 https://github.com/AliyunContainerService/log-pilot
 https://github.com/containous/traefik
+https://github.com/Graylog2/graylog2-server
 
 ### Debugging and Tracing
 https://github.com/khamidou/lptrace
@@ -49,8 +50,8 @@ https://github.com/khamidou/lptrace
 
 ## Point Cloud Processing
 https://github.com/kzampog/cilantro
-
 https://github.com/intel-isl/Open3D
+https://github.com/BichenWuUCB/SqueezeSeg
 
 ## Parallel Processing
 https://github.com/dask/dask
@@ -75,39 +76,55 @@ https://github.com/stefanhaustein/TerminalImageViewer
 ### Tmux
 https://github.com/zolrath/wemux
 
+
 ## Mapping
 https://github.com/eliemichel/MapsModelsImporter
 
+
 ## Network Analysis
 https://github.com/KimiNewt/pyshark
+https://github.com/laixintao/pingtop
+https://github.com/gcla/termshark
 
 ## System Monitoring
 https://github.com/Atoptool/atop
 https://github.com/giampaolo/psutil
 
+
 ## Robotic Frameworks
 https://github.com/commaai/openpilot
 https://github.com/facebookresearch/pyrobot
 
-## Planning and Control
+## Hardware
+https://github.com/AcutronicRobotics/HRIM
+
+## Robotic Functions
+### Planning and Control
 https://github.com/RoboJackets/rrt
 https://github.com/larics/pure_pursuit
 
-## Visualiation
-https://github.com/cruise-automation/webviz
 
-## Security
+### Visualiation
+https://github.com/cruise-automation/webviz
+https://github.com/RoboStack/jupyter-ros
+
+### Security
 https://github.com/rfjakob/gocryptfs
+
 
 ## Safety
 https://github.com/udacity/CarND-Functional-Safety-Project
+
 ### Lint
 https://github.com/danmar/cppcheck
+
 ### Safe Datatypes
 https://github.com/boostorg/safe_numerics
 
+
 ## Git
 https://github.com/kaiw/meld
+
 
 ## Localisation
 https://github.com/Sciumo/GeographicLib
