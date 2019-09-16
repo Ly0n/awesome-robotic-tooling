@@ -4,6 +4,8 @@ A collection of awesome robotic development tools in an ROS environment
 
 
 * [Development Environment](#development-environment)
+  * [Backbone](#backbone)
+  * [Docker](#docker)
 * [Dataprocessing](#data-processing)
   * [Image Processing](#image-processing)
   * [Point Cloud Processing](#point-cloud-processing)
@@ -12,10 +14,12 @@ A collection of awesome robotic development tools in an ROS environment
   * [Spreadsheet](#spreadsheet)
 * [Security](#security)
 * [Safety](#safety)
+* [Documentation](#documentation)
 * [Commandline]
-* [Localisation]
-* [Detection]
-
+* [Robotic Functions]
+  * [Localisation]
+  * [Detection]
+  * [Planning]
 ----
 
 
@@ -23,3 +27,39 @@ A collection of awesome robotic development tools in an ROS environment
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
+
+
+## Development Enviroment
+### Cloud
+https://github.com/kubeflow/kubeflow
+
+## Point Cloud Processing
+https://github.com/kzampog/cilantro
+
+https://github.com/intel-isl/Open3D
+
+## Documentation
+https://github.com/gsantner/markor
+
+## SLAM
+https://github.com/ucla-vision/xivo
+
+https://github.com/hyye/lio-mapping
+
+## Commandline
+https://github.com/orhun/pkgtop
+
+## Mapping
+https://github.com/eliemichel/MapsModelsImporter
+
+## Network Analysis
+https://github.com/KimiNewt/pyshark
+
+## System Monitoring
+https://github.com/Atoptool/atop
+
+## Complete Robotic Stacks
+https://github.com/commaai/openpilot
+
+## Planning 
+https://github.com/RoboJackets/rrt
