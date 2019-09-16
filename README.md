@@ -21,6 +21,7 @@ A collection of awesome in an ROS environment for your professional robotic deve
   * [Localisation]
   * [Detection]
   * [Planning]
+  * [Decision]
 ----
 
 
@@ -64,6 +65,7 @@ https://github.com/rpng/R-VIO
 https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
 https://github.com/srv/viso2
+https://github.com/googlecartographer/cartographer_ros
 
 ## Commandline
 https://github.com/orhun/pkgtop
