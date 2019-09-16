@@ -1,8 +1,9 @@
 # Awesome Robotic Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome robotic development tools in an ROS environment 
+A collection of awesome in an ROS environment for your professional robotic development
 
 
+* [Example Format](#example-format)
 * [Development Environment](#development-environment)
   * [Backbone](#backbone)
   * [Docker](#docker)
@@ -23,10 +24,15 @@ A collection of awesome robotic development tools in an ROS environment
 ----
 
 
-## Package Managers
+## Example Format
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
+
+
+
+## Project Management
+https://github.com/benhutchins/docker-taiga
 
 
 ## Development Enviroment
@@ -105,3 +111,5 @@ https://github.com/kaiw/meld
 https://github.com/Sciumo/GeographicLib
 https://github.com/cra-ros-pkg/robot_localization
 
+## Other awesome lists
+https://github.com/stanislaw/awesome-safety-critical
