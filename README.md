@@ -37,16 +37,29 @@ https://github.com/benhutchins/docker-taiga
 
 
 ## Development Enviroment
-### Cloud
+### Database
+https://github.com/borgbackup/borg
+
+### Cloud Computation
 https://github.com/kubeflow/kubeflow
 https://github.com/AliyunContainerService/log-pilot
 https://github.com/containous/traefik
 https://github.com/Graylog2/graylog2-server
+https://github.com/ansible/ansible
+https://github.com/docker/docker-py
+https://github.com/novnc/noVNC
 
 ### Debugging and Tracing
 https://github.com/khamidou/lptrace
 
 ## Data Analysis
+
+## Image Processing
+https://github.com/Beep6581/RawTherapee
+https://github.com/lagadic/visp
+https://github.com/Tencent/FeatherCNN
+https://github.com/NVlabs/Deep_Object_Pose
+https://github.com/facebookresearch/DetectAndTrack
 
 ## Point Cloud Processing
 https://github.com/kzampog/cilantro
@@ -60,18 +73,11 @@ https://github.com/dask/dask
 https://github.com/gsantner/markor
 https://github.com/peterbrittain/asciimatics
 
-## SLAM
-https://github.com/ucla-vision/xivo
-https://github.com/rpng/R-VIO
-https://github.com/hyye/lio-mapping
-https://github.com/HKUST-Aerial-Robotics/A-LOAM
-https://github.com/srv/viso2
-https://github.com/googlecartographer/cartographer_ros
-
 ## Commandline
 https://github.com/orhun/pkgtop
 https://github.com/jroimartin/gocui
 https://github.com/stefanhaustein/TerminalImageViewer
+https://github.com/dheera/rosshow
 
 ### Tmux
 https://github.com/zolrath/wemux
@@ -79,7 +85,7 @@ https://github.com/zolrath/wemux
 
 ## Mapping
 https://github.com/eliemichel/MapsModelsImporter
-
+https://github.com/fzi-forschungszentrum-informatik/Lanelet2
 
 ## Network Analysis
 https://github.com/KimiNewt/pyshark
@@ -95,7 +101,8 @@ https://github.com/giampaolo/psutil
 https://github.com/commaai/openpilot
 https://github.com/facebookresearch/pyrobot
 
-## Hardware
+## Hardware Disciption
+https://github.com/OTL/urdf-viz
 https://github.com/AcutronicRobotics/HRIM
 
 ## Robotic Functions
@@ -103,14 +110,37 @@ https://github.com/AcutronicRobotics/HRIM
 https://github.com/RoboJackets/rrt
 https://github.com/larics/pure_pursuit
 
+### Localisation
+#### Transformation
+https://github.com/Sciumo/GeographicLib
+
+#### Fusion
+https://github.com/cra-ros-pkg/robot_localization
+https://github.com/locusrobotics/fuse
+
+#### SLAM
+https://github.com/ucla-vision/xivo
+https://github.com/rpng/R-VIO
+https://github.com/hyye/lio-mapping
+https://github.com/HKUST-Aerial-Robotics/A-LOAM
+https://github.com/srv/viso2
+https://github.com/googlecartographer/cartographer_ros
+
+### Behavior and Decision
+https://github.com/BehaviorTree/BehaviorTree.CPP
 
 ### Visualiation
 https://github.com/cruise-automation/webviz
 https://github.com/RoboStack/jupyter-ros
+https://github.com/plotly/plotly.py
+https://github.com/swri-robotics/mapviz
+https://github.com/facontidavide/PlotJuggler
 
 ### Security
 https://github.com/rfjakob/gocryptfs
-
+https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+https://github.com/CISOfy/lynis
+https://github.com/WireGuard/WireGuard
 
 ## Safety
 https://github.com/udacity/CarND-Functional-Safety-Project
@@ -126,9 +156,7 @@ https://github.com/boostorg/safe_numerics
 https://github.com/kaiw/meld
 
 
-## Localisation
-https://github.com/Sciumo/GeographicLib
-https://github.com/cra-ros-pkg/robot_localization
-
 ## Other awesome lists
 https://github.com/stanislaw/awesome-safety-critical
+
+
