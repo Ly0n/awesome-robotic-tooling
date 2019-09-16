@@ -3,10 +3,10 @@
 A collection of awesome robotic development tools in an ROS environment 
 
 
-* [Development Environment](#development environment)
+* [Development Environment](#development-environment)
 * [Dataprocessing](#data-processing)
   * [Image Processing](#image-processing)
-  * [Point Cloud Processing](point cloud processing)
+  * [Point Cloud Processing](#point-cloud-processing)
 * [Middleware](#package-managers)
   * [Timeline](#timeline)
   * [Spreadsheet](#spreadsheet)
