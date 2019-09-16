@@ -1,10 +1,20 @@
 # Awesome Robotic Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome robotic development tools [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
+A collection of awesome robotic development tools in an ROS environment 
 
-* [Package Managers](#package-managers)
+
+* [Development Environment](#development environment)
+* [Dataprocessing](#data-processing)
+  * [Image Processing](#image-processing)
+  * [Point Cloud Processing](point cloud processing)
+* [Middleware](#package-managers)
   * [Timeline](#timeline)
   * [Spreadsheet](#spreadsheet)
+* [Security](#security)
+* [Safety](#safety)
+* [Commandline]
+* [Localisation]
+* [Detection]
 
 ----
 
