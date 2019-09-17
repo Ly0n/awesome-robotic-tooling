@@ -53,7 +53,11 @@ https://github.com/novnc/noVNC
 ### Debugging and Tracing
 https://github.com/khamidou/lptrace
 
-## Data Analysis
+## Data Analysis and Processing
+
+
+## Machine Learning
+https://github.com/davisking/dlib
 
 ## Image Processing
 https://github.com/Beep6581/RawTherapee
