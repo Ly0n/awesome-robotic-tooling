@@ -31,7 +31,8 @@ A collection of awesome in an ROS environment for your professional robotic deve
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
 
-
+## System Integration
+https://github.com/clearpathrobotics/robot_upstart
 
 ## Project Management
 https://github.com/benhutchins/docker-taiga
@@ -84,6 +85,7 @@ https://github.com/intel-isl/Open3D
 https://github.com/BichenWuUCB/SqueezeSeg
 https://github.com/ANYbotics/point_cloud_io
 https://github.com/strawlab/python-pcl
+https://github.com/koide3/hdl_people_tracking
 
 ## Parallel Processing
 https://github.com/dask/dask
@@ -116,7 +118,7 @@ https://github.com/ebroecker/canmatrix
 https://github.com/Atoptool/atop
 https://github.com/giampaolo/psutil
 https://github.com/anderskm/gputil
-
+https://github.com/wookayin/gpustat
 
 ## Robotic Frameworks
 https://github.com/commaai/openpilot
@@ -165,15 +167,22 @@ https://github.com/fzi-forschungszentrum-informatik/Lanelet2
 https://github.com/BehaviorTree/BehaviorTree.CPP
 https://github.com/DLR-RM/RAFCON
 
-### Visualiation
+### Data Visualiation
 https://github.com/cruise-automation/webviz
 https://github.com/RoboStack/jupyter-ros
 https://github.com/plotly/plotly.py
-https://github.com/swri-robotics/mapviz
 https://github.com/facontidavide/PlotJuggler
 https://github.com/googlecartographer/point_cloud_viewer
 https://github.com/AIS-Bonn/rviz_cinematographer
+https://github.com/bokeh/bokeh
+
+
+#### RVIZ
+https://github.com/swri-robotics/mapviz
 https://github.com/gareth-cross/rviz_satellite
+https://github.com/PickNikRobotics/rviz_visual_tools
+https://github.com/AIS-Bonn/rviz_cinematographer
+
 
 ### Security
 https://github.com/rfjakob/gocryptfs
