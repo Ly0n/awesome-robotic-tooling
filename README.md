@@ -44,6 +44,8 @@ https://github.com/jgm/pandoc
 https://github.com/commaai/openpilot
 https://github.com/facebookresearch/pyrobot
 https://github.com/ApolloAuto/apollo
+https://gitlab.com/autowarefoundation/autoware.ai
+https://github.com/emmjaykay/stanford_self_driving_car_code
 
 ## Development Enviroment
 ### Database
@@ -61,6 +63,10 @@ https://github.com/novnc/noVNC
 https://github.com/SchedMD/slurm
 https://github.com/jupyterhub/jupyterhub
 
+### IDE
+https://github.com/Microsoft/vscode
+https://github.com/atom/atoma
+https://gitlab.com/ApexAI/ade-cli
 
 ## Data Analysis and Processing
 ### Machine Learning
