@@ -63,6 +63,7 @@ https://github.com/docker/docker-py
 https://github.com/novnc/noVNC
 https://github.com/SchedMD/slurm
 https://github.com/jupyterhub/jupyterhub
+https://github.com/portainer/portainer
 
 ### IDE
 https://github.com/Microsoft/vscode
