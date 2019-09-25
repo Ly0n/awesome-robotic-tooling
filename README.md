@@ -235,10 +235,12 @@ https://github.com/fail2ban/fail2ban
 ### Safety
 https://github.com/udacity/CarND-Functional-Safety-Project
 
-#### Lint
+#### Lint and Style Guide
 https://github.com/danmar/cppcheck
 https://github.com/koalaman/shellcheck
 https://github.com/fkie/catkin_lint
+https://github.com/PyCQA/pylint/
+https://github.com/psf/black
 
 #### Safe Datatypes
 https://github.com/boostorg/safe_numerics
