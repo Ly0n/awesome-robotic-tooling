@@ -117,6 +117,7 @@ https://github.com/ethz-asl/kalibr
 https://github.com/carla-simulator/carla
 https://github.com/deepdrive/deepdrive
 https://github.com/uuvsimulator/uuv_simulator
+https://github.com/microsoft/AirSim
 
 ## Robotic Functions
 ### Planning and Control
