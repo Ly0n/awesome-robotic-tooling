@@ -115,6 +115,8 @@ https://github.com/ethz-asl/kalibr
 
 ## Simulation
 https://github.com/carla-simulator/carla
+https://github.com/deepdrive/deepdrive
+https://github.com/uuvsimulator/uuv_simulator
 
 ## Robotic Functions
 ### Planning and Control
@@ -150,6 +152,7 @@ https://github.com/JakobEngel/dso/commits/master
 https://github.com/eliemichel/MapsModelsImporter
 https://github.com/fzi-forschungszentrum-informatik/Lanelet2
 https://github.com/bmwcarit/barefoot
+https://github.com/jianboqi/CSF
 
 ### Behavior and Decision
 https://github.com/BehaviorTree/BehaviorTree.CPP
