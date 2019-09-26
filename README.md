@@ -118,6 +118,7 @@ https://github.com/carla-simulator/carla
 https://github.com/deepdrive/deepdrive
 https://github.com/uuvsimulator/uuv_simulator
 https://github.com/microsoft/AirSim
+https://github.com/jenniferdavid/Gazebo_Harbour_Models
 
 ## Robotic Functions
 ### Planning and Control
