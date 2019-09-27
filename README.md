@@ -165,6 +165,7 @@ https://github.com/DLR-RM/RAFCON
 ## Tools
 
 ### Commandline
+
 https://github.com/cornerman/prompt-hjem
 https://github.com/ggreer/the_silver_searcher
 https://github.com/junegunn/fzf
@@ -175,6 +176,7 @@ https://github.com/dheera/rosshow
 https://github.com/prompt-toolkit/python-prompt-toolkit
 https://github.com/ralish/bash-script-template
 https://github.com/Guake/guake
+https://github.com/tmux-python/tmuxp
 
 #### Tmux
 https://github.com/zolrath/wemux
@@ -256,6 +258,7 @@ https://github.com/boostorg/safe_numerics
 
 
 ## Git
+https://github.com/sameersbn/docker-gitlab
 https://github.com/kaiw/meld
 https://github.com/nvie/gitflow
 https://github.com/jonas/tig
