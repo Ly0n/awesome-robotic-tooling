@@ -34,6 +34,7 @@ A collection of awesome in an ROS environment for your professional robotic deve
 ## Project Management
 https://github.com/benhutchins/docker-taiga
 https://github.com/kanboard/kanboard
+https://github.com/sameersbn/docker-gitlab
 https://gitlab.com/gitlab-org/gitlab
 
 ## Documentation
