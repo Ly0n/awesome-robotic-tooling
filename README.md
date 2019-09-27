@@ -42,6 +42,7 @@ https://github.com/gsantner/markor
 https://github.com/peterbrittain/asciimatics
 https://github.com/jgm/pandoc
 https://typora.io/
+https://github.com/hcodes/yaspeller
 
 ### Robotic Frameworks
 https://github.com/commaai/openpilot
