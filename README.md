@@ -32,17 +32,17 @@ A collection of awesome in an ROS environment for your professional robotic deve
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
 
 ## Project Management
-https://github.com/benhutchins/docker-taiga
-https://github.com/kanboard/kanboard
-https://github.com/sameersbn/docker-gitlab
-https://gitlab.com/gitlab-org/gitlab
+* [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
+* [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
+* [Gitlab](https://github.com/sameersbn/docker-gitlab) - Selfhosted Gitlab Server
 
 ## Documentation
-https://github.com/gsantner/markor
-https://github.com/peterbrittain/asciimatics
-https://github.com/jgm/pandoc
-https://typora.io/
-https://github.com/hcodes/yaspeller
+* [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android
+* [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your Commandline Examples
+* [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+* [Typora](https://typora.io/) - A Minimalist Markdown Editor
+* [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for speel checking
+* [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 
 ### Robotic Frameworks
 https://github.com/commaai/openpilot
