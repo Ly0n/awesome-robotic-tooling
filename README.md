@@ -41,6 +41,7 @@ https://gitlab.com/gitlab-org/gitlab
 https://github.com/gsantner/markor
 https://github.com/peterbrittain/asciimatics
 https://github.com/jgm/pandoc
+https://typora.io/
 
 ### Robotic Frameworks
 https://github.com/commaai/openpilot
