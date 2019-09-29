@@ -75,6 +75,11 @@ https://github.com/atom/atoma
 https://gitlab.com/ApexAI/ade-cli
 https://github.com/RoboStack/jupyter-ros
 
+### Build and Deploy
+https://github.com/ros-infrastructure/bloom
+https://github.com/catkin/catkin_tools
+https://github.com/ros-industrial/industrial_ci
+
 ## Data Analysis and Processing
 ### Machine Learning
 https://github.com/davisking/dlib
@@ -126,7 +131,11 @@ https://github.com/microsoft/AirSim
 https://github.com/jenniferdavid/Gazebo_Harbour_Models
 
 ## Robotic Functions
-### Planning and Control
+
+### Template Nodes
+https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
+
+## Planning and Control
 https://github.com/RoboJackets/rrt
 https://github.com/larics/pure_pursuit
 https://github.com/AtsushiSakai/HybridAStarTrailer
@@ -169,7 +178,7 @@ https://github.com/DLR-RM/RAFCON
 
 ### Commandline
 
-https://github.com/cornerman/prompt-hjem
+https://github.com/cornerman/dotfilesttps://github.com/cornerman/prompt-hjem
 https://github.com/ggreer/the_silver_searcher
 https://github.com/junegunn/fzf
 https://github.com/orhun/pkgtop
