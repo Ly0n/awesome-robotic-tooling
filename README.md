@@ -118,11 +118,14 @@ https://github.com/arrayfire/arrayfire
 ### Hardware Disciption
 https://github.com/OTL/urdf-viz
 https://github.com/AcutronicRobotics/HRIM
+https://github.com/ros/urdf
 
 #### Calibration
 https://github.com/ethz-asl/lidar_align
 https://github.com/ethz-asl/kalibr
 https://github.com/epiception/CalibNet
+https://github.com/ankitdhall/lidar_camera_calibration
+https://github.com/IFL-CAMP/easy_handeye
 
 ## Simulation
 https://github.com/carla-simulator/carla
