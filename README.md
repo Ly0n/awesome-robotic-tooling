@@ -53,13 +53,13 @@ https://github.com/ApolloAuto/apollo
 https://gitlab.com/autowarefoundation/autoware.ai
 https://github.com/emmjaykay/stanford_self_driving_car_code
 
-## Development Enviroment
+## Enviroment
 ### Database
 https://github.com/borgbackup/borg
 https://github.com/swri-robotics/bag-database
 https://gitlab.com/ternaris/marv-robotics
 
-## Cloud Computation
+### Computation
 https://github.com/kubeflow/kubeflow
 https://github.com/AliyunContainerService/log-pilot
 https://github.com/containous/traefik
@@ -71,7 +71,7 @@ https://github.com/SchedMD/slurm
 https://github.com/jupyterhub/jupyterhub
 https://github.com/portainer/portainer
 
-### IDE
+### Code and Run
 https://github.com/Microsoft/vscode
 https://github.com/atom/atoma
 https://gitlab.com/ApexAI/ade-cli
@@ -99,17 +99,7 @@ https://github.com/aleju/imgaug
 
 ### IMU Processing
 https://github.com/gaowenliang/imu_utils
-
-
-### Point Cloud Processing
-https://github.com/kzampog/cilantro
-https://github.com/intel-isl/Open3D
-https://github.com/BichenWuUCB/SqueezeSeg
-https://github.com/ANYbotics/point_cloud_io
-https://github.com/strawlab/python-pcl
-https://github.com/koide3/hdl_people_tracking
-https://github.com/ethz-asl/libpointmatcher
-https://github.com/PRBonn/depth_clustering
+https://github.com/rpng/kalibr_allan
 
 ### Parallel Processing
 https://github.com/dask/dask
@@ -117,7 +107,7 @@ https://github.com/cupy/cupy
 https://github.com/thrust/thrust
 https://github.com/arrayfire/arrayfire
 
-### Hardware Disciption
+## Hardware
 https://github.com/OTL/urdf-viz
 https://github.com/AcutronicRobotics/HRIM
 https://github.com/ros/urdf
@@ -137,18 +127,13 @@ https://github.com/microsoft/AirSim
 https://github.com/jenniferdavid/Gazebo_Harbour_Models
 
 ## Robotic Functions
-
-### Template Nodes
+### Template
 https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
-
-## Planning and Control
-https://github.com/RoboJackets/rrt
-https://github.com/larics/pure_pursuit
-https://github.com/AtsushiSakai/HybridAStarTrailer
-https://github.com/karlkurzer/path_planner
+https://github.com/ralish/bash-script-template
+https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
+https://wiki.ros.org/urdf/Examples
 
 ### Localisation
-#### Transformation and Evaluation
 https://github.com/Sciumo/GeographicLib
 https://github.com/MichaelGrupp/evo
 
@@ -156,20 +141,29 @@ https://github.com/MichaelGrupp/evo
 https://github.com/cra-ros-pkg/robot_localization
 https://github.com/locusrobotics/fuse
 
+#### Point Cloud Processing
+https://github.com/kzampog/cilantro
+https://github.com/intel-isl/Open3D
+https://github.com/BichenWuUCB/SqueezeSeg
+https://github.com/ANYbotics/point_cloud_io
+https://github.com/strawlab/python-pcl
+https://github.com/koide3/hdl_people_tracking
+https://github.com/ethz-asl/libpointmatcher
+https://github.com/PRBonn/depth_clustering
+https://github.com/PRBonn/lidar-bonnetal
+
 #### SLAM
 
 ##### Lidar Based
 https://github.com/laboshinl/loam_velodyne
-https://github.com/ucla-vision/xivo
-https://github.com/rpng/R-VIO
 https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
-https://github.com/srv/viso2
 https://github.com/googlecartographer/cartographer_ros
-https://github.com/JakobEngel/dso/
-
 
 #### Camera Based
+https://github.com/JakobEngel/dso/
+https://github.com/srv/viso2
+https://github.com/ucla-vision/xivo
 
 #### Mapping
 https://github.com/eliemichel/MapsModelsImporter
@@ -181,10 +175,20 @@ https://github.com/jianboqi/CSF
 https://github.com/BehaviorTree/BehaviorTree.CPP
 https://github.com/DLR-RM/RAFCON
 
+### Planning and Control
+https://github.com/RoboJackets/rrt
+https://github.com/larics/pure_pursuit
+https://github.com/AtsushiSakai/HybridAStarTrailer
+https://github.com/karlkurzer/path_planner
+
+#### User Interface
+https://wiki.ros.org/dynamic_reconfigure
+https://github.com/MirServer/mir
+https://github.com/spyder-ide/qtpy
+
 ## Tools
 
 ### Commandline
-
 https://github.com/cornerman/dotfiles
 https://github.com/cornerman/prompt-hjem
 https://github.com/ggreer/the_silver_searcher
@@ -196,15 +200,13 @@ https://github.com/dheera/rosshow
 https://github.com/prompt-toolkit/python-prompt-toolkit
 https://github.com/ralish/bash-script-template
 https://github.com/Guake/guake
+https://github.com/zolrath/wemux
 https://github.com/tmux-python/tmuxp
 
-#### Tmux
-https://github.com/zolrath/wemux
-
-### System Integration
+### Integration
 https://github.com/clearpathrobotics/robot_upstart
 
-### Network Analysis and Communication
+### Network 
 https://github.com/KimiNewt/pyshark
 https://github.com/laixintao/pingtop
 https://github.com/gcla/termshark
@@ -213,7 +215,7 @@ https://github.com/ebroecker/canmatrix
 https://github.com/osxfuse/sshfs
 https://github.com/ApexAI/performance_test
 
-### System Monitoring
+### System
 https://github.com/hishamhm/htop
 https://github.com/Atoptool/atop
 https://github.com/giampaolo/psutil
@@ -227,18 +229,18 @@ https://github.com/facebook/pyre-check
 https://github.com/brendangregg/FlameGraph
 https://github.com/mikesart/gpuvis
 
-## Data Annotation
+## Annotation
 https://github.com/RMonica/rviz_cloud_annotation
 https://github.com/abreheret/PixelAnnotationTool
 
-### Data visualization
+### Visualization
 https://github.com/cruise-automation/webviz
 https://github.com/plotly/plotly.py
 https://github.com/facontidavide/PlotJuggler
 https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/bokeh/bokeh
 
-#### Point Cloud Visualization
+#### Point Clouds
 https://github.com/CloudCompare/CloudCompare
 https://github.com/potree/potree
 https://github.com/googlecartographer/point_cloud_viewer
@@ -250,10 +252,6 @@ https://github.com/gareth-cross/rviz_satellite
 https://github.com/PickNikRobotics/rviz_visual_tools
 https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/PickNikRobotics/tf_keyboard_cal
-
-#### GUI
-https://github.com/MirServer/mir
-https://github.com/spyder-ide/qtpy
 
 ### Security
 https://github.com/rfjakob/gocryptfs
@@ -267,6 +265,7 @@ https://github.com/vulnersCom/nmap-vulners
 https://github.com/fail2ban/fail2ban
 
 ### Safety
+https://oas.voyage.auto/
 https://github.com/udacity/CarND-Functional-Safety-Project
 
 #### Lint and Style Guide
