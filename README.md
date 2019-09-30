@@ -1,6 +1,6 @@
 # Awesome Robotic Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome in an ROS environment for your professional robotic development
+Just a bunch of robotics to accelerate your development. Most is open source and active in development.
 
 **ONLY Packages that are still maintained!**
 
@@ -166,7 +166,8 @@ https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
 https://github.com/srv/viso2
 https://github.com/googlecartographer/cartographer_ros
-https://github.com/JakobEngel/dso/commits/master
+https://github.com/JakobEngel/dso/
+
 
 #### Camera Based
 
@@ -184,7 +185,8 @@ https://github.com/DLR-RM/RAFCON
 
 ### Commandline
 
-https://github.com/cornerman/dotfilesttps://github.com/cornerman/prompt-hjem
+https://github.com/cornerman/dotfiles
+https://github.com/cornerman/prompt-hjem
 https://github.com/ggreer/the_silver_searcher
 https://github.com/junegunn/fzf
 https://github.com/orhun/pkgtop
