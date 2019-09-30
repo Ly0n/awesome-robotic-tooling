@@ -122,6 +122,7 @@ https://github.com/AcutronicRobotics/HRIM
 #### Calibration
 https://github.com/ethz-asl/lidar_align
 https://github.com/ethz-asl/kalibr
+https://github.com/epiception/CalibNet
 
 ## Simulation
 https://github.com/carla-simulator/carla
@@ -203,6 +204,7 @@ https://github.com/gcla/termshark
 https://github.com/raboof/nethogs
 https://github.com/ebroecker/canmatrix
 https://github.com/osxfuse/sshfs
+https://github.com/ApexAI/performance_test
 
 ### System Monitoring
 https://github.com/hishamhm/htop
