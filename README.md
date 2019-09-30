@@ -108,11 +108,13 @@ https://github.com/gaowenliang/imu_utils
 https://github.com/rpng/kalibr_allan
 
 ## Simulation
+https://github.com/lgsvl/simulator
 https://github.com/carla-simulator/carla
 https://github.com/deepdrive/deepdrive
 https://github.com/uuvsimulator/uuv_simulator
 https://github.com/microsoft/AirSim
-https://github.com/jenniferdavid/Gazebo_Harbour_Models
+https://github.com/udacity/self-driving-car-sim
+
 
 ## Function
 ### Localisation
