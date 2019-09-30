@@ -269,14 +269,14 @@ https://github.com/udacity/CarND-Functional-Safety-Project
 https://elisa.tech/
 https://github.com/stanislaw/awesome-safety-critical
 https://www.automotivelinux.org/
+https://github.com/boostorg/safe_numerics
 
-#### Lint and Style Guide
+#### Lint
 https://github.com/danmar/cppcheck
 https://github.com/koalaman/shellcheck
 https://github.com/fkie/catkin_lint
 https://github.com/PyCQA/pylint/
 https://github.com/psf/black
-https://github.com/boostorg/safe_numerics
 
 ### Version Control
 https://github.com/sameersbn/docker-gitlab
