@@ -58,6 +58,12 @@ https://github.com/emmjaykay/stanford_self_driving_car_code
 
 ## Enviroment
 
+### Template
+https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
+https://github.com/ralish/bash-script-template
+https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
+https://wiki.ros.org/urdf/Examples
+
 ### Store
 https://github.com/borgbackup/borg
 https://github.com/swri-robotics/bag-database
@@ -109,19 +115,25 @@ https://github.com/microsoft/AirSim
 https://github.com/jenniferdavid/Gazebo_Harbour_Models
 
 ## Function
-### Template
-https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
-https://github.com/ralish/bash-script-template
-https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
-https://wiki.ros.org/urdf/Examples
-
 ### Localisation
 https://github.com/Sciumo/GeographicLib
 https://github.com/MichaelGrupp/evo
-
-#### Fusion
 https://github.com/cra-ros-pkg/robot_localization
 https://github.com/locusrobotics/fuse
+
+### Sensor Processing
+#### Machine Learning
+https://github.com/davisking/dlib
+https://github.com/fastai/fastai
+https://github.com/Tencent/FeatherCNN
+https://github.com/EpistasisLab/tpot
+
+#### Image Processing
+https://github.com/lagadic/visp
+https://github.com/NVlabs/Deep_Object_Pose
+https://github.com/facebookresearch/DetectAndTrack
+https://github.com/tinghuiz/SfMLearner
+https://github.com/aleju/imgaug
 
 #### Point Cloud Processing
 https://github.com/kzampog/cilantro
@@ -133,21 +145,6 @@ https://github.com/koide3/hdl_people_tracking
 https://github.com/ethz-asl/libpointmatcher
 https://github.com/PRBonn/depth_clustering
 https://github.com/PRBonn/lidar-bonnetal
-
-### Sensor Processing
-#### Machine Learning
-https://github.com/davisking/dlib
-https://github.com/fastai/fastai
-https://github.com/Tencent/FeatherCNN
-https://github.com/EpistasisLab/tpot
-
-#### Image Processing
-https://github.com/Beep6581/RawTherapee
-https://github.com/lagadic/visp
-https://github.com/NVlabs/Deep_Object_Pose
-https://github.com/facebookresearch/DetectAndTrack
-https://github.com/tinghuiz/SfMLearner
-https://github.com/aleju/imgaug
 
 #### Parallel Processing
 https://github.com/dask/dask
@@ -271,6 +268,7 @@ https://oas.voyage.auto/
 https://github.com/udacity/CarND-Functional-Safety-Project
 https://elisa.tech/
 https://github.com/stanislaw/awesome-safety-critical
+https://www.automotivelinux.org/
 
 #### Lint and Style Guide
 https://github.com/danmar/cppcheck
@@ -278,10 +276,7 @@ https://github.com/koalaman/shellcheck
 https://github.com/fkie/catkin_lint
 https://github.com/PyCQA/pylint/
 https://github.com/psf/black
-
-#### Safe Datatypes
 https://github.com/boostorg/safe_numerics
-
 
 ### Version Control
 https://github.com/sameersbn/docker-gitlab
