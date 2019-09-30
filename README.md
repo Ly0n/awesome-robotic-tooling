@@ -31,10 +31,10 @@ Just a bunch of awesome robotic development.
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
 
-## Project Management
+## Project
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
-* [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server in Docker
+* [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Woost](https://woost.space/) - Workflow Automatisation
 
 ## Documentation
@@ -46,7 +46,14 @@ Just a bunch of awesome robotic development.
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 
-### Robotic Frameworks
+### Architecture
+https://github.com/true-grue/yed_py
+https://www.yworks.com/products/yed
+https://github.com/plantuml/plantuml-server
+
+### Framework
+https://github.com/ros
+https://github.com/ros2/ros2
 https://github.com/commaai/openpilot
 https://github.com/facebookresearch/pyrobot
 https://github.com/ApolloAuto/apollo
@@ -97,10 +104,6 @@ https://github.com/facebookresearch/DetectAndTrack
 https://github.com/tinghuiz/SfMLearner
 https://github.com/aleju/imgaug
 
-### IMU Processing
-https://github.com/gaowenliang/imu_utils
-https://github.com/rpng/kalibr_allan
-
 ### Parallel Processing
 https://github.com/dask/dask
 https://github.com/cupy/cupy
@@ -118,6 +121,8 @@ https://github.com/ethz-asl/kalibr
 https://github.com/epiception/CalibNet
 https://github.com/ankitdhall/lidar_camera_calibration
 https://github.com/IFL-CAMP/easy_handeye
+https://github.com/gaowenliang/imu_utils
+https://github.com/rpng/kalibr_allan
 
 ## Simulation
 https://github.com/carla-simulator/carla
@@ -126,7 +131,7 @@ https://github.com/uuvsimulator/uuv_simulator
 https://github.com/microsoft/AirSim
 https://github.com/jenniferdavid/Gazebo_Harbour_Models
 
-## Robotic Functions
+## Function
 ### Template
 https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
 https://github.com/ralish/bash-script-template
@@ -153,14 +158,13 @@ https://github.com/PRBonn/depth_clustering
 https://github.com/PRBonn/lidar-bonnetal
 
 #### SLAM
-
-##### Lidar Based
+##### Lidar
 https://github.com/laboshinl/loam_velodyne
 https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
 https://github.com/googlecartographer/cartographer_ros
 
-#### Camera Based
+#### Camera
 https://github.com/JakobEngel/dso/
 https://github.com/srv/viso2
 https://github.com/ucla-vision/xivo
@@ -188,7 +192,7 @@ https://github.com/spyder-ide/qtpy
 
 ## Tools
 
-### Commandline
+### Command Line
 https://github.com/cornerman/dotfiles
 https://github.com/cornerman/prompt-hjem
 https://github.com/ggreer/the_silver_searcher
@@ -245,7 +249,6 @@ https://github.com/CloudCompare/CloudCompare
 https://github.com/potree/potree
 https://github.com/googlecartographer/point_cloud_viewer
 
-
 #### RVIZ 
 https://github.com/swri-robotics/mapviz
 https://github.com/gareth-cross/rviz_satellite
@@ -267,6 +270,8 @@ https://github.com/fail2ban/fail2ban
 ### Safety
 https://oas.voyage.auto/
 https://github.com/udacity/CarND-Functional-Safety-Project
+https://elisa.tech/
+https://github.com/stanislaw/awesome-safety-critical
 
 #### Lint and Style Guide
 https://github.com/danmar/cppcheck
@@ -287,8 +292,5 @@ https://github.com/jonas/tig
 https://github.com/GNOME/gitg
 https://github.com/python-gitlab/python-gitlab
 
-
-## Other awesome lists
-https://github.com/stanislaw/awesome-safety-critical
 
 
