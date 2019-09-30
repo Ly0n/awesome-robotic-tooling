@@ -34,7 +34,8 @@ A collection of awesome in an ROS environment for your professional robotic deve
 ## Project Management
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
-* [Gitlab](https://github.com/sameersbn/docker-gitlab) - Selfhosted Gitlab Server
+* [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server in Docker
+* [Woost](https://woost.space/) - Workflow Automatisation
 
 ## Documentation
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android
