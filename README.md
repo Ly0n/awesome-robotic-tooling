@@ -43,6 +43,7 @@ A collection of awesome in an ROS environment for your professional robotic deve
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
 * [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for speel checking
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
+* [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
 
 ### Robotic Frameworks
 https://github.com/commaai/openpilot
