@@ -241,13 +241,16 @@ https://github.com/potree/potree
 https://github.com/googlecartographer/point_cloud_viewer
 
 
-#### RVIZ
+#### RVIZ 
 https://github.com/swri-robotics/mapviz
 https://github.com/gareth-cross/rviz_satellite
 https://github.com/PickNikRobotics/rviz_visual_tools
 https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/PickNikRobotics/tf_keyboard_cal
 
+#### GUI
+https://github.com/MirServer/mir
+https://github.com/spyder-ide/qtpy
 
 ### Security
 https://github.com/rfjakob/gocryptfs
@@ -279,6 +282,8 @@ https://github.com/sameersbn/docker-gitlab
 https://github.com/kaiw/meld
 https://github.com/nvie/gitflow
 https://github.com/jonas/tig
+https://github.com/GNOME/gitg
+https://github.com/python-gitlab/python-gitlab
 
 
 ## Other awesome lists
