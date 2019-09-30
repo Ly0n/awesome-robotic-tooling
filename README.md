@@ -1,6 +1,6 @@
 # Awesome Robotic Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Just a bunch of robotics to accelerate your development. Most is open source and active in development.
+Just a bunch of awesome robotics to accelerate your development. Most of it is open source and active.
 
 **ONLY Packages that are still maintained!**
 
