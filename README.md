@@ -26,11 +26,6 @@ Just a bunch of awesome robotic development.
 ----
 
 
-## Example Format
-*Host the JavaScript libraries and provide tools for fetching and packaging them.*
-
-* [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
-
 ## Project
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
@@ -50,6 +45,7 @@ Just a bunch of awesome robotic development.
 https://github.com/true-grue/yed_py
 https://www.yworks.com/products/yed
 https://github.com/plantuml/plantuml-server
+https://wiki.ros.org/rqt_graph
 
 ### Framework
 https://github.com/ros
@@ -61,12 +57,13 @@ https://gitlab.com/autowarefoundation/autoware.ai
 https://github.com/emmjaykay/stanford_self_driving_car_code
 
 ## Enviroment
-### Database
+
+### Store
 https://github.com/borgbackup/borg
 https://github.com/swri-robotics/bag-database
 https://gitlab.com/ternaris/marv-robotics
 
-### Computation
+### Analyse
 https://github.com/kubeflow/kubeflow
 https://github.com/AliyunContainerService/log-pilot
 https://github.com/containous/traefik
@@ -89,26 +86,6 @@ https://github.com/ros-infrastructure/bloom
 https://github.com/catkin/catkin_tools
 https://github.com/ros-industrial/industrial_ci
 
-## Data Analysis and Processing
-### Machine Learning
-https://github.com/davisking/dlib
-https://github.com/fastai/fastai
-https://github.com/Tencent/FeatherCNN
-https://github.com/EpistasisLab/tpot
-
-### Image Processing
-https://github.com/Beep6581/RawTherapee
-https://github.com/lagadic/visp
-https://github.com/NVlabs/Deep_Object_Pose
-https://github.com/facebookresearch/DetectAndTrack
-https://github.com/tinghuiz/SfMLearner
-https://github.com/aleju/imgaug
-
-### Parallel Processing
-https://github.com/dask/dask
-https://github.com/cupy/cupy
-https://github.com/thrust/thrust
-https://github.com/arrayfire/arrayfire
 
 ## Hardware
 https://github.com/OTL/urdf-viz
@@ -156,6 +133,28 @@ https://github.com/koide3/hdl_people_tracking
 https://github.com/ethz-asl/libpointmatcher
 https://github.com/PRBonn/depth_clustering
 https://github.com/PRBonn/lidar-bonnetal
+
+### Sensor Processing
+#### Machine Learning
+https://github.com/davisking/dlib
+https://github.com/fastai/fastai
+https://github.com/Tencent/FeatherCNN
+https://github.com/EpistasisLab/tpot
+
+#### Image Processing
+https://github.com/Beep6581/RawTherapee
+https://github.com/lagadic/visp
+https://github.com/NVlabs/Deep_Object_Pose
+https://github.com/facebookresearch/DetectAndTrack
+https://github.com/tinghuiz/SfMLearner
+https://github.com/aleju/imgaug
+
+#### Parallel Processing
+https://github.com/dask/dask
+https://github.com/cupy/cupy
+https://github.com/thrust/thrust
+https://github.com/arrayfire/arrayfire
+
 
 #### SLAM
 ##### Lidar
@@ -284,7 +283,7 @@ https://github.com/psf/black
 https://github.com/boostorg/safe_numerics
 
 
-## Git
+### Version Control
 https://github.com/sameersbn/docker-gitlab
 https://github.com/kaiw/meld
 https://github.com/nvie/gitflow
