@@ -55,6 +55,7 @@ https://github.com/commaai/openpilot
 https://github.com/facebookresearch/pyrobot
 https://github.com/ApolloAuto/apollo
 https://gitlab.com/autowarefoundation/autoware.ai
+https://autowareauto.gitlab.io/AutowareAuto/
 https://github.com/emmjaykay/stanford_self_driving_car_code
 
 ## Enviroment
