@@ -100,6 +100,9 @@ https://github.com/catkin/catkin_tools
 https://github.com/ros-industrial/industrial_ci
 https://gitlab.com/gitlab-org/gitlab-runner
 
+### Support
+https://github.com/helpyio/helpy
+
 
 ## Hardware
 https://github.com/OTL/urdf-viz
@@ -237,6 +240,7 @@ https://github.com/esnet/iperf
 https://github.com/linux-can/can-utils
 https://github.com/ros-industrial/ros_canopen
 https://github.com/JWhitleyAStuff/decanstructor
+https://discourse.ros.org/uploads/short-url/gVQHzWTRCL5R1aMKVmhmw83iZaA.pdf
 
 ### System
 https://github.com/hishamhm/htop
@@ -255,6 +259,7 @@ https://github.com/mikesart/gpuvis
 ### Real Time
 https://elinux.org/Realtime_Testing_Best_Practices
 https://elisa.tech/
+https://github.com/eProsima/Fast-RTPS
 
 ## Annotation
 https://github.com/RMonica/rviz_cloud_annotation
