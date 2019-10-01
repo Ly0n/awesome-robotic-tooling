@@ -132,6 +132,7 @@ https://github.com/MichaelGrupp/evo
 https://github.com/cra-ros-pkg/robot_localization
 https://github.com/locusrobotics/fuse
 https://www.ros.org/reps/rep-0105.html
+https://igs.bkg.bund.de/ntrip/download
 
 ### Sensor Processing
 #### Machine Learning
