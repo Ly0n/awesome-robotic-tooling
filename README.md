@@ -104,6 +104,7 @@ https://gitlab.com/gitlab-org/gitlab-runner
 https://github.com/OTL/urdf-viz
 https://github.com/AcutronicRobotics/HRIM
 https://github.com/ros/urdf
+https://github.com/ros/solidworks_urdf_exporter
 
 ## Calibration
 https://github.com/ethz-asl/lidar_align
