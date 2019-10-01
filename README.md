@@ -230,6 +230,8 @@ https://github.com/ApexAI/performance_test
 https://github.com/appneta/tcpreplay
 https://github.com/esnet/iperf
 https://github.com/linux-can/can-utils
+https://github.com/ros-industrial/ros_canopen
+https://github.com/JWhitleyAStuff/decanstructor
 
 ### System
 https://github.com/hishamhm/htop
