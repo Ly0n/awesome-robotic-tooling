@@ -97,6 +97,7 @@ http://wiki.ros.org/IDEs
 https://github.com/ros-infrastructure/bloom
 https://github.com/catkin/catkin_tools
 https://github.com/ros-industrial/industrial_ci
+https://gitlab.com/gitlab-org/gitlab-runner
 
 
 ## Hardware
@@ -282,8 +283,10 @@ https://github.com/stanislaw/awesome-safety-critical
 https://www.automotivelinux.org/
 https://github.com/boostorg/safe_numerics
 
-#### Unit Testing
+#### Unit and Integration Test
 https://wiki.ros.org/Quality/Tutorials/UnitTesting
+https://github.com/google/googletest
+https://docs.python.org/3/library/unittest.html
 
 #### Lint
 https://github.com/danmar/cppcheck
