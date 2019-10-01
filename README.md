@@ -267,6 +267,8 @@ https://github.com/eProsima/Fast-RTPS
 ## Annotation
 https://github.com/RMonica/rviz_cloud_annotation
 https://github.com/abreheret/PixelAnnotationTool
+https://github.com/tzutalin/labelImg
+https://github.com/CPFL/3d_labeling_tools
 
 ### Visualization
 https://github.com/cruise-automation/webviz
