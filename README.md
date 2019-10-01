@@ -33,7 +33,7 @@ Just a bunch of awesome robotic development resources and tools
 * [Woost](https://woost.space/) - Workflow Automatisation
 
 ## Documentation
-* [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android
+* [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your Commandline Examples
 * [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
