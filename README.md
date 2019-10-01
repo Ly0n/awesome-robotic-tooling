@@ -325,6 +325,7 @@ https://github.com/nvie/gitflow
 https://github.com/jonas/tig
 https://github.com/GNOME/gitg
 https://github.com/python-gitlab/python-gitlab
+https://github.com/rtyley/bfg-repo-cleaner
 
 ### Map Processing
 https://github.com/openstreetmap/merkaartor
