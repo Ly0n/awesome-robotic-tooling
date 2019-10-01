@@ -288,12 +288,13 @@ https://wiki.ros.org/Quality/Tutorials/UnitTesting
 https://github.com/google/googletest
 https://docs.python.org/3/library/unittest.html
 
-#### Lint
+#### Lint and Format
 https://github.com/danmar/cppcheck
 https://github.com/koalaman/shellcheck
 https://github.com/fkie/catkin_lint
 https://github.com/PyCQA/pylint/
 https://github.com/psf/black
+https://github.com/llvm-mirror/clang
 
 ### Version Control
 https://github.com/sameersbn/docker-gitlab
