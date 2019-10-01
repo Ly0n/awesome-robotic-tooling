@@ -148,6 +148,7 @@ https://github.com/davisking/dlib
 https://github.com/fastai/fastai
 https://github.com/Tencent/FeatherCNN
 https://github.com/EpistasisLab/tpot
+https://github.com/DEAP/deap
 
 #### Image Processing
 https://github.com/lagadic/visp
