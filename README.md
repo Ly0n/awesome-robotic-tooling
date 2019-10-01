@@ -92,6 +92,7 @@ https://gitlab.com/ApexAI/ade-cli
 https://github.com/RoboStack/jupyter-ros
 https://github.com/ros-industrial/ros_qtc_plugin
 http://wiki.ros.org/IDEs
+https://www.sublimetext.com/
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom
