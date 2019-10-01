@@ -186,6 +186,7 @@ https://github.com/RoboJackets/rrt
 https://github.com/larics/pure_pursuit
 https://github.com/AtsushiSakai/HybridAStarTrailer
 https://github.com/karlkurzer/path_planner
+https://github.com/ros-geographic-info/open_street_map
 
 #### User Interface
 https://wiki.ros.org/dynamic_reconfigure
@@ -208,6 +209,7 @@ https://github.com/ralish/bash-script-template
 https://github.com/Guake/guake
 https://github.com/zolrath/wemux
 https://github.com/tmux-python/tmuxp
+https://github.com/rastapasta/mapscii
 
 ### Integration
 https://github.com/clearpathrobotics/robot_upstart
@@ -292,5 +294,8 @@ https://github.com/jonas/tig
 https://github.com/GNOME/gitg
 https://github.com/python-gitlab/python-gitlab
 
-
+### Map Processing
+https://github.com/openstreetmap/merkaartor
+https://github.com/ethz-asl/segmap
+https://github.com/umap-project/umap
 
