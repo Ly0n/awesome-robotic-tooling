@@ -40,7 +40,7 @@ Just a bunch of awesome robotic development resources and tools
 * [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for speel checking
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
-* [Translation](https://deepl.com) - Translate 
+* [DeepL](https://deepl.com) - Translate complete emails better than most humans
 
 ### Architecture
 https://github.com/true-grue/yed_py
