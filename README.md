@@ -90,6 +90,8 @@ https://github.com/Microsoft/vscode
 https://github.com/atom/atoma
 https://gitlab.com/ApexAI/ade-cli
 https://github.com/RoboStack/jupyter-ros
+https://github.com/ros-industrial/ros_qtc_plugin
+http://wiki.ros.org/IDEs
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom
@@ -126,6 +128,7 @@ https://github.com/Sciumo/GeographicLib
 https://github.com/MichaelGrupp/evo
 https://github.com/cra-ros-pkg/robot_localization
 https://github.com/locusrobotics/fuse
+https://www.ros.org/reps/rep-0105.html
 
 ### Sensor Processing
 #### Machine Learning
@@ -278,6 +281,9 @@ https://elisa.tech/
 https://github.com/stanislaw/awesome-safety-critical
 https://www.automotivelinux.org/
 https://github.com/boostorg/safe_numerics
+
+#### Unit Testing
+https://wiki.ros.org/Quality/Tutorials/UnitTesting
 
 #### Lint
 https://github.com/danmar/cppcheck
