@@ -208,6 +208,8 @@ https://github.com/ros-geographic-info/open_street_map
 https://wiki.ros.org/dynamic_reconfigure
 https://github.com/MirServer/mir
 https://github.com/spyder-ide/qtpy
+https://github.com/Hjdskes/cage
+https://github.com/PySimpleGUI/PySimpleGUI
 
 ## Tools
 
