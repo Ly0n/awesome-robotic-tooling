@@ -69,7 +69,7 @@ https://github.com/ralish/bash-script-template
 https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
 https://wiki.ros.org/urdf/Examples
 
-### Store
+### Storage
 https://github.com/borgbackup/borg
 https://github.com/swri-robotics/bag-database
 https://gitlab.com/ternaris/marv-robotics
