@@ -97,6 +97,7 @@ https://github.com/ros-industrial/ros_qtc_plugin
 http://wiki.ros.org/IDEs
 https://www.sublimetext.com/
 https://github.com/zxqfl/TabNine
+https://kite.com/
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom
