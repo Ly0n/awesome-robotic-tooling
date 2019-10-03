@@ -132,6 +132,7 @@ https://github.com/deepdrive/deepdrive
 https://github.com/uuvsimulator/uuv_simulator
 https://github.com/microsoft/AirSim
 https://github.com/udacity/self-driving-car-sim
+https://github.com/code-iai/ROSIntegration
 
 
 ## Function
