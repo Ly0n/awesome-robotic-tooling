@@ -47,6 +47,7 @@ https://github.com/true-grue/yed_py
 https://www.yworks.com/products/yed
 https://github.com/plantuml/plantuml-server
 https://wiki.ros.org/rqt_graph
+https://github.com/FreeCAD/FreeCAD
 
 ### Framework
 https://github.com/ros
