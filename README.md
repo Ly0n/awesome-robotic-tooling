@@ -98,6 +98,7 @@ http://wiki.ros.org/IDEs
 https://www.sublimetext.com/
 https://github.com/zxqfl/TabNine
 https://kite.com/
+https://github.com/davidhalter/jedi
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom
