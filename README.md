@@ -185,17 +185,19 @@ https://github.com/laboshinl/loam_velodyne
 https://github.com/hyye/lio-mapping
 https://github.com/HKUST-Aerial-Robotics/A-LOAM
 https://github.com/googlecartographer/cartographer_ros
+https://github.com/EdwardLiuyc/StaticMapping
 
 #### Camera
 https://github.com/JakobEngel/dso/
 https://github.com/srv/viso2
 https://github.com/ucla-vision/xivo
 
-#### Mapping
+#### Static Map Creation and Matching
 https://github.com/eliemichel/MapsModelsImporter
 https://github.com/fzi-forschungszentrum-informatik/Lanelet2
 https://github.com/bmwcarit/barefoot
 https://github.com/jianboqi/CSF
+
 
 ### Behavior and Decision
 https://github.com/BehaviorTree/BehaviorTree.CPP
