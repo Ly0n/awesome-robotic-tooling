@@ -42,7 +42,7 @@ Just a bunch of awesome robotic development resources and tools
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 
-### Architecture
+### Architecture and Design
 https://github.com/true-grue/yed_py
 https://www.yworks.com/products/yed
 https://github.com/plantuml/plantuml-server
