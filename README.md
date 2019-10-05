@@ -31,6 +31,7 @@ Just a bunch of awesome robotic development resources and tools
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Woost](https://woost.space/) - Workflow Automatisation
+* [Wekan](https://github.com/wekan/wekan) Meteor based Kanban Board
 
 ## Documentation
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
