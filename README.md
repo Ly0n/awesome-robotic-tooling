@@ -1,6 +1,6 @@
-# Awesome Robotic Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Robotic Development ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Just a bunch of awesome robotic development resources and tools
+Just a bunch of powerful robotic development resources and tools for professional robot development.
 
 **ONLY Packages that are still maintained!**
 
@@ -26,68 +26,56 @@ Just a bunch of awesome robotic development resources and tools
 ----
 
 
-## Project
+## Coordination
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
+* [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
 * [Woost](https://woost.space/) - Workflow Automatisation
-* [Wekan](https://github.com/wekan/wekan) Meteor based Kanban Board
+* [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
+* [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
+* [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
+* [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
+
+
 
 ## Documentation
-* [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
-* [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your Commandline Examples
-* [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
-* [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for speel checking
+* [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
+* [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+* [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for spell checking
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
+* [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
 
-### Architecture and Design
-https://github.com/true-grue/yed_py
-https://www.yworks.com/products/yed
-https://github.com/plantuml/plantuml-server
-https://wiki.ros.org/rqt_graph
-https://github.com/FreeCAD/FreeCAD
+## Architecture and Design
+* [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
+* [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
+* [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
+* [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
 
-### Framework
-https://github.com/ros
-https://github.com/ros2/ros2
-https://github.com/commaai/openpilot
-https://github.com/facebookresearch/pyrobot
-https://github.com/ApolloAuto/apollo
-https://gitlab.com/autowarefoundation/autoware.ai
-https://autowareauto.gitlab.io/AutowareAuto/
-https://github.com/emmjaykay/stanford_self_driving_car_code
+## Framework
+* [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
+* [ROS2](https://github.com/ros2/ros2) - ROS2 is the next generation robot operating system, and is actively being developed to fully replace ROS1 in the near future
+* [OpenPilot](https://github.com/commaai/openpilot) - Open Source Aaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
+* [Apollo](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
+* [Autoware.ai](https://gitlab.com/autowarefoundation/autoware.ai) - Autoware.AI is the world's first "All-in-One" open-source software for autonomous driving technology
+* [AutowareAuto](https://autowareauto.gitlab.io/AutowareAuto/) - It is a clean slate rewrite of Autoware. Autoware.Auto applies best-in-class software engineering.
+* [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 
-## Enviroment
 
-## Operation System
-https://git.yoctoproject.org/
+## Development Environment
+
+### Operation System
+* [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
+* [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
 
 ### Template
-https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template
-https://github.com/ralish/bash-script-template
-https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
-https://wiki.ros.org/urdf/Examples
-
-### Storage
-https://github.com/borgbackup/borg
-https://github.com/swri-robotics/bag-database
-https://gitlab.com/ternaris/marv-robotics
-https://github.com/nextcloud/server
-
-### Analyse
-https://github.com/kubeflow/kubeflow
-https://github.com/AliyunContainerService/log-pilot
-https://github.com/containous/traefik
-https://github.com/Graylog2/graylog2-server
-https://github.com/ansible/ansible
-https://github.com/docker/docker-py
-https://github.com/novnc/noVNC
-https://github.com/SchedMD/slurm
-https://github.com/jupyterhub/jupyterhub
-https://github.com/portainer/portainer
+https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template - Template for ROS node standardization in C++ 
+https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects - Templates on how to create launch files for larger projects
+https://github.com/ralish/bash-script-template - A bash scripting template incorporating best practices & several useful functions
+https://wiki.ros.org/urdf/Examples - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
 
 ### Code and Run
 https://github.com/Microsoft/vscode
@@ -107,17 +95,14 @@ https://github.com/catkin/catkin_tools
 https://github.com/ros-industrial/industrial_ci
 https://gitlab.com/gitlab-org/gitlab-runner
 
-### Support
-https://github.com/helpyio/helpy
-
-
 ## Hardware
 https://github.com/OTL/urdf-viz
 https://github.com/AcutronicRobotics/HRIM
 https://github.com/ros/urdf
 https://github.com/ros/solidworks_urdf_exporter
+https://github.com/FreeCAD/FreeCAD
 
-## Calibration
+### Calibration
 https://github.com/ethz-asl/lidar_align
 https://github.com/ethz-asl/kalibr
 https://github.com/epiception/CalibNet
@@ -137,13 +122,13 @@ https://github.com/code-iai/ROSIntegration
 
 
 ## Function
-### Localisation
+### Localization
 https://github.com/MichaelGrupp/evo
 https://github.com/cra-ros-pkg/robot_localization
 https://github.com/locusrobotics/fuse
 https://www.ros.org/reps/rep-0105.html
 
-## Global Localisation
+## Global Localization
 https://github.com/Sciumo/GeographicLib
 https://igs.bkg.bund.de/ntrip/download
 https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/raumbezug/sapos/index.html
@@ -200,6 +185,12 @@ https://github.com/fzi-forschungszentrum-informatik/Lanelet2
 https://github.com/bmwcarit/barefoot
 https://github.com/jianboqi/CSF
 
+### Map Integration
+
+https://github.com/openstreetmap/merkaartor
+https://github.com/ethz-asl/segmap
+https://github.com/umap-project/umap
+
 
 ### Behavior and Decision
 https://github.com/BehaviorTree/BehaviorTree.CPP
@@ -237,8 +228,25 @@ https://github.com/zolrath/wemux
 https://github.com/tmux-python/tmuxp
 https://github.com/rastapasta/mapscii
 
-### Integration
-https://github.com/clearpathrobotics/robot_upstart
+### Storage
+
+https://github.com/borgbackup/borg - Deduplicating archiver with compression and authenticated encryption
+https://github.com/swri-robotics/bag-database - A server that catalogs bag files and provides a web-based UI for accessing them
+https://gitlab.com/ternaris/marv-robotics - MARV Robotics is a powerful and extensible data management platform
+https://github.com/nextcloud/server - Nextcloud is a suite of client-server software for creating and using file hosting services.
+
+### High Performance Computing 
+
+https://github.com/kubeflow/kubeflow
+https://github.com/AliyunContainerService/log-pilot
+https://github.com/containous/traefik
+https://github.com/Graylog2/graylog2-server
+https://github.com/ansible/ansible
+https://github.com/docker/docker-py
+https://github.com/novnc/noVNC
+https://github.com/SchedMD/slurm
+https://github.com/jupyterhub/jupyterhub
+https://github.com/portainer/portainer	
 
 ### Network 
 https://github.com/KimiNewt/pyshark
@@ -268,6 +276,10 @@ https://github.com/khamidou/lptrace
 https://github.com/facebook/pyre-check
 https://github.com/brendangregg/FlameGraph
 https://github.com/mikesart/gpuvis
+
+### Support
+
+https://github.com/helpyio/helpy
 
 ### Real Time
 https://elinux.org/Realtime_Testing_Best_Practices
@@ -335,14 +347,8 @@ https://github.com/llvm-mirror/clang
 ### Version Control
 https://github.com/sameersbn/docker-gitlab
 https://github.com/kaiw/meld
-https://github.com/nvie/gitflow
 https://github.com/jonas/tig
 https://github.com/GNOME/gitg
 https://github.com/python-gitlab/python-gitlab
 https://github.com/rtyley/bfg-repo-cleaner
-
-### Map Processing
-https://github.com/openstreetmap/merkaartor
-https://github.com/ethz-asl/segmap
-https://github.com/umap-project/umap
 
