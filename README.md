@@ -1,6 +1,6 @@
-# Awesome Robotic Development ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Robotic System Development ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Just a bunch of powerful robotic development resources and tools for professional robot development.
+Just a bunch of powerful robotic development resources and tools for professional robotic development.
 
 **ONLY Packages that are still maintained!**
 
@@ -37,8 +37,6 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 
-
-
 ## Documentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
@@ -72,136 +70,153 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
 
 ### Template
-https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template - Template for ROS node standardization in C++ 
-https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects - Templates on how to create launch files for larger projects
-https://github.com/ralish/bash-script-template - A bash scripting template incorporating best practices & several useful functions
-https://wiki.ros.org/urdf/Examples - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
+* [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
+* [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) Templates on how to create launch files for larger projects
+
+* [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
+
+* [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
+
+* [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 
 ### Code and Run
-https://github.com/Microsoft/vscode
-https://github.com/atom/atoma
-https://gitlab.com/ApexAI/ade-cli
-https://github.com/RoboStack/jupyter-ros
-https://github.com/ros-industrial/ros_qtc_plugin
-http://wiki.ros.org/IDEs
-https://www.sublimetext.com/
-https://github.com/zxqfl/TabNine
-https://kite.com/
-https://github.com/davidhalter/jedi
+
+[Vim](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc			
+[Atom](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
+https://github.com/atom/atom - Hackable text editor for the 21st century
+https://www.sublimetext.com/ - A sophisticated text editor for
+code, markup and prose
+https://gitlab.com/ApexAI/ade-cli - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional
+volume images
+https://github.com/RoboStack/jupyter-ros - Jupyter widget helpers for ROS, the Robot Operating System
+https://github.com/ros-industrial/ros_qtc_plugin - The ROS Qt Creator Plug-in 	
+http://wiki.ros.org/IDEs - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
+https://github.com/zxqfl/TabNine - The all-language autocompleter
+https://kite.com/ - Use machine learning to give you 
+ useful code completions for Python
+https://github.com/davidhalter/jedi - Autocompletion and static analysis library for python
 
 ### Build and Deploy
-https://github.com/ros-infrastructure/bloom
-https://github.com/catkin/catkin_tools
-https://github.com/ros-industrial/industrial_ci
-https://gitlab.com/gitlab-org/gitlab-runner
+https://github.com/ros-infrastructure/bloom - A release automation tool which makes releasing catkin packages easier
+https://github.com/catkin/catkin_tools - Command line tools for working with catkin
+https://github.com/ros-industrial/industrial_ci - Easy continuous integration repository for ROS repositories
+https://gitlab.com/gitlab-org/gitlab-runner - It runs tests and sends the results to GitLab
+https://github.com/colcon/colcon-core - command line tool to improve the workflow of building, testing and using multiple software packages
 
 ## Hardware
-https://github.com/OTL/urdf-viz
-https://github.com/AcutronicRobotics/HRIM
-https://github.com/ros/urdf
-https://github.com/ros/solidworks_urdf_exporter
-https://github.com/FreeCAD/FreeCAD
+https://github.com/AcutronicRobotics/HRIM - An information model for robot hardware
+https://github.com/ros/urdf - Repository for URDF parsing code
+
+https://github.com/OTL/urdf-viz - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
+
+https://github.com/ros/solidworks_urdf_exporter - SolidWorks to URDF Exporter
+https://github.com/FreeCAD/FreeCAD - Your own 3D parametric modeler
 
 ### Calibration
-https://github.com/ethz-asl/lidar_align
-https://github.com/ethz-asl/kalibr
-https://github.com/epiception/CalibNet
-https://github.com/ankitdhall/lidar_camera_calibration
-https://github.com/IFL-CAMP/easy_handeye
-https://github.com/gaowenliang/imu_utils
-https://github.com/rpng/kalibr_allan
+https://github.com/ethz-asl/lidar_align - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
+https://github.com/ethz-asl/kalibr - The Kalibr visual-inertial calibration toolbox
+https://github.com/epiception/CalibNet - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
+https://github.com/ankitdhall/lidar_camera_calibration - ROS package to find a rigid-body transformation between a LiDAR and a camera
+https://github.com/IFL-CAMP/easy_handeye - Simple, straighforward ROS library for hand-eye calibration
+https://github.com/gaowenliang/imu_utils - A ROS package tool to analyze the IMU performance
+https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 
 ## Simulation
-https://github.com/lgsvl/simulator
-https://github.com/carla-simulator/carla
-https://github.com/deepdrive/deepdrive
-https://github.com/uuvsimulator/uuv_simulator
-https://github.com/microsoft/AirSim
-https://github.com/udacity/self-driving-car-sim
-https://github.com/code-iai/ROSIntegration
-
+https://github.com/lgsvl/simulator - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+https://github.com/carla-simulator/carla - Open-source simulator for autonomous driving research
+https://github.com/deepdrive/deepdrive - End-to-end simulation for self-driving cars 
+https://github.com/uuvsimulator/uuv_simulator - Gazebo/ROS packages for underwater robotics simulation
+https://github.com/microsoft/AirSim - Open source simulator for autonomous vehicles built on Unreal Engine 
+https://github.com/udacity/self-driving-car-sim - A self-driving car simulator built with Unity
+https://github.com/code-iai/ROSIntegration - Unreal Engine Plugin to enable ROS Support
 
 ## Function
+
+https://github.com/jslee02/awesome-robotics-libraries
+
 ### Localization
-https://github.com/MichaelGrupp/evo
-https://github.com/cra-ros-pkg/robot_localization
-https://github.com/locusrobotics/fuse
-https://www.ros.org/reps/rep-0105.html
+https://github.com/MichaelGrupp/evo - Python package for the evaluation of odometry and SLAM
+https://github.com/cra-ros-pkg/robot_localization - robot_localization is a package of nonlinear state estimation nodes
+https://github.com/locusrobotics/fuse - General architecture for performing sensor fusion live on a 
+robot.
+https://www.ros.org/reps/rep-0105.html - Naming conventions and semantic meaning for
+coordinate frames of mobile platforms used with ROS.
 
 ## Global Localization
-https://github.com/Sciumo/GeographicLib
-https://igs.bkg.bund.de/ntrip/download
-https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/raumbezug/sapos/index.html
+https://github.com/Sciumo/GeographicLib - A C++ library for geographic projections.
+https://igs.bkg.bund.de/ntrip/download - Open Source Ntrip software 
 
 ### Sensor Processing
 #### Machine Learning
-https://github.com/davisking/dlib
-https://github.com/fastai/fastai
-https://github.com/Tencent/FeatherCNN
-https://github.com/EpistasisLab/tpot
-https://github.com/DEAP/deap
+https://github.com/davisking/dlib - A toolkit for making real world machine learning and data analysis applications in C++
+https://github.com/fastai/fastai - The fastai library simplifies training fast and accurate neural nets using modern best practices.
+https://github.com/EpistasisLab/tpot - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+https://github.com/DEAP/deap - Distributed Evolutionary Algorithms in Python
 
 #### Image Processing
-https://github.com/lagadic/visp
-https://github.com/NVlabs/Deep_Object_Pose
-https://github.com/facebookresearch/DetectAndTrack
-https://github.com/tinghuiz/SfMLearner
-https://github.com/aleju/imgaug
+https://github.com/lagadic/visp - Open Source Visual Servoing Platform
+https://github.com/NVlabs/Deep_Object_Pose - Deep Object Pose Estimation
+https://github.com/facebookresearch/DetectAndTrack - Detect-and-Track: Efficient Pose
+https://github.com/tinghuiz/SfMLearner - An unsupervised learning framework for depth and ego-motion estimation
+https://github.com/aleju/imgaug - Image augmentation for machine learning experiments
 
 #### Point Cloud Processing
-https://github.com/kzampog/cilantro
-https://github.com/intel-isl/Open3D
-https://github.com/BichenWuUCB/SqueezeSeg
-https://github.com/ANYbotics/point_cloud_io
-https://github.com/strawlab/python-pcl
-https://github.com/koide3/hdl_people_tracking
-https://github.com/ethz-asl/libpointmatcher
-https://github.com/PRBonn/depth_clustering
-https://github.com/PRBonn/lidar-bonnetal
+https://github.com/kzampog/cilantro - A lean C++ library for working with point cloud data
+https://github.com/intel-isl/Open3D - Open3D: A Modern Library for 3D Data Processing
+https://github.com/BichenWuUCB/SqueezeSeg - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
+https://github.com/ANYbotics/point_cloud_io - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
+https://github.com/strawlab/python-pcl - Python bindings to the pointcloud library
+https://github.com/ethz-asl/libpointmatcher - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
+https://github.com/PRBonn/depth_clustering - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
+https://github.com/PRBonn/lidar-bonnetal - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
+
+https://github.com/jianboqi/CSF - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 
 #### Parallel Processing
-https://github.com/dask/dask
-https://github.com/cupy/cupy
-https://github.com/thrust/thrust
-https://github.com/arrayfire/arrayfire
+https://github.com/dask/dask - Parallel computing with task scheduling for Python
+https://github.com/cupy/cupy - NumPy-like API accelerated with CUDA
+https://github.com/thrust/thrust - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+https://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
 
 #### SLAM
 ##### Lidar
-https://github.com/laboshinl/loam_velodyne
-https://github.com/hyye/lio-mapping
-https://github.com/HKUST-Aerial-Robotics/A-LOAM
-https://github.com/googlecartographer/cartographer_ros
-https://github.com/EdwardLiuyc/StaticMapping
+https://github.com/laboshinl/loam_velodyne - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
+https://github.com/hyye/lio-mapping - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
+https://github.com/HKUST-Aerial-Robotics/A-LOAM - Advanced implementation of LOAM
+https://github.com/googlecartographer/cartographer_ros - Provides ROS integration for Cartographer
+https://github.com/EdwardLiuyc/StaticMapping - Use LiDAR to map the static world
 
 #### Camera
-https://github.com/JakobEngel/dso/
-https://github.com/srv/viso2
-https://github.com/ucla-vision/xivo
+https://github.com/JakobEngel/dso/ - Direct Sparse Odometry
+https://github.com/srv/viso2 - A ROS wrapper for libviso2, a library for visual odometry
+https://github.com/ucla-vision/xivo - X Inertial-aided Visual Odometry
 
 #### Static Map Creation and Matching
-https://github.com/eliemichel/MapsModelsImporter
-https://github.com/fzi-forschungszentrum-informatik/Lanelet2
-https://github.com/bmwcarit/barefoot
-https://github.com/jianboqi/CSF
+https://github.com/eliemichel/MapsModelsImporter - A Blender add-on to import models from google maps
+https://github.com/fzi-forschungszentrum-informatik/Lanelet2 - Map handling framework for automated driving
+https://github.com/bmwcarit/barefoot -  Online and Offline map matching that can be used stand-alone and in the cloud
 
 ### Map Integration
 
-https://github.com/openstreetmap/merkaartor
-https://github.com/ethz-asl/segmap
-https://github.com/umap-project/umap
+[iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
+https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
 
+* [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
+
+[osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
 ### Behavior and Decision
-https://github.com/BehaviorTree/BehaviorTree.CPP
-https://github.com/DLR-RM/RAFCON
+
+https://github.com/BehaviorTree/BehaviorTree.CPP - Behavior Trees Library in C++
+https://github.com/DLR-RM/RAFCON - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 
 ### Planning and Control
-https://github.com/RoboJackets/rrt
-https://github.com/larics/pure_pursuit
+https://github.com/RoboJackets/rrt - C++ RRT (Rapidly-exploring Random Tree) implementation
 https://github.com/AtsushiSakai/HybridAStarTrailer
 https://github.com/karlkurzer/path_planner
 https://github.com/ros-geographic-info/open_street_map
+https://github.com/eleurent/highway-env	
 
 #### User Interface
 https://wiki.ros.org/dynamic_reconfigure
@@ -211,7 +226,6 @@ https://github.com/Hjdskes/cage
 https://github.com/PySimpleGUI/PySimpleGUI
 
 ## Tools
-
 ### Command Line
 https://github.com/cornerman/dotfiles
 https://github.com/cornerman/prompt-hjem
@@ -263,42 +277,20 @@ https://github.com/ros-industrial/ros_canopen
 https://github.com/JWhitleyAStuff/decanstructor
 https://discourse.ros.org/uploads/short-url/gVQHzWTRCL5R1aMKVmhmw83iZaA.pdf
 
-### System
-https://github.com/hishamhm/htop
-https://github.com/Atoptool/atop
-https://github.com/giampaolo/psutil
-https://github.com/anderskm/gputil
-https://github.com/wookayin/gpustat
-https://github.com/Syllo/nvtop
-
-### Debugging and Tracing
-https://github.com/khamidou/lptrace
-https://github.com/facebook/pyre-check
-https://github.com/brendangregg/FlameGraph
-https://github.com/mikesart/gpuvis
-
-### Support
-
-https://github.com/helpyio/helpy
-
-### Real Time
-https://elinux.org/Realtime_Testing_Best_Practices
-https://elisa.tech/
-https://github.com/eProsima/Fast-RTPS
-https://wiki.linuxfoundation.org/realtime/documentation/start
-
-## Annotation
+### Annotation
 https://github.com/RMonica/rviz_cloud_annotation
 https://github.com/abreheret/PixelAnnotationTool
 https://github.com/tzutalin/labelImg
 https://github.com/CPFL/3d_labeling_tools
 
 ### Visualization
-https://github.com/cruise-automation/webviz
+https://github.com/cruise-automation/webviz			
 https://github.com/plotly/plotly.py
 https://github.com/facontidavide/PlotJuggler
 https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/bokeh/bokeh
+
+https://github.com/stevenlovegrove/Pangolin
 
 #### Point Clouds
 https://github.com/CloudCompare/CloudCompare
@@ -331,12 +323,13 @@ https://github.com/stanislaw/awesome-safety-critical
 https://www.automotivelinux.org/
 https://github.com/boostorg/safe_numerics
 
-#### Unit and Integration Test
+### Unit and Integration Test
+
 https://wiki.ros.org/Quality/Tutorials/UnitTesting
 https://github.com/google/googletest
 https://docs.python.org/3/library/unittest.html
 
-#### Lint and Format
+### Lint and Format
 https://github.com/danmar/cppcheck
 https://github.com/koalaman/shellcheck
 https://github.com/fkie/catkin_lint
@@ -351,4 +344,33 @@ https://github.com/jonas/tig
 https://github.com/GNOME/gitg
 https://github.com/python-gitlab/python-gitlab
 https://github.com/rtyley/bfg-repo-cleaner
+
+## System
+https://github.com/hishamhm/htop
+https://github.com/Atoptool/atop
+https://github.com/giampaolo/psutil
+https://github.com/anderskm/gputil
+https://github.com/wookayin/gpustat
+https://github.com/Syllo/nvtop
+
+### Debugging and Tracing
+https://github.com/khamidou/lptrace
+https://github.com/facebook/pyre-check
+https://github.com/brendangregg/FlameGraph
+https://github.com/mikesart/gpuvis
+
+### Support
+https://github.com/helpyio/helpy
+
+### Real Time
+https://elinux.org/Realtime_Testing_Best_Practices
+https://elisa.tech/
+https://github.com/eProsima/Fast-RTPS
+https://wiki.linuxfoundation.org/realtime/documentation/start
+
+[spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
+
+
+
+### 
 
