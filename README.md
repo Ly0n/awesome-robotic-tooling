@@ -358,6 +358,7 @@ https://github.com/khamidou/lptrace
 https://github.com/facebook/pyre-check
 https://github.com/brendangregg/FlameGraph
 https://github.com/mikesart/gpuvis
+https://github.com/google/sanitizers
 
 ### Support
 https://github.com/helpyio/helpy
