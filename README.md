@@ -315,6 +315,7 @@ https://github.com/scipag/vulscan
 https://github.com/x90skysn3k/brutespray
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/fail2ban/fail2ban
+https://github.com/lirantal/is-website-vulnerable
 
 ### Safety
 https://oas.voyage.auto/
