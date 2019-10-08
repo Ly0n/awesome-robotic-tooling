@@ -95,6 +95,7 @@ https://github.com/zxqfl/TabNine - The all-language autocompleter
 https://kite.com/ - Use machine learning to give you 
  useful code completions for Python
 https://github.com/davidhalter/jedi - Autocompletion and static analysis library for python
+https://github.com/gramaziokohler/roslibpy
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom - A release automation tool which makes releasing catkin packages easier
