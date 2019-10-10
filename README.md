@@ -80,7 +80,6 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 
 ### Code and Run
-
 [Vim](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc			
 [Atom](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
 https://github.com/atom/atom - Hackable text editor for the 21st century
@@ -291,7 +290,7 @@ https://github.com/plotly/plotly.py
 https://github.com/facontidavide/PlotJuggler
 https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/bokeh/bokeh
-
+https://github.com/voila-dashboards/voila
 https://github.com/stevenlovegrove/Pangolin
 
 #### Point Clouds
