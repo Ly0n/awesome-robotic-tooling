@@ -103,6 +103,7 @@ https://github.com/catkin/catkin_tools - Command line tools for working with cat
 https://github.com/ros-industrial/industrial_ci - Easy continuous integration repository for ROS repositories
 https://gitlab.com/gitlab-org/gitlab-runner - It runs tests and sends the results to GitLab
 https://github.com/colcon/colcon-core - command line tool to improve the workflow of building, testing and using multiple software packages
+https://gitlab.com/alelec/gitlab-release
 
 ## Hardware
 https://github.com/AcutronicRobotics/HRIM - An information model for robot hardware
