@@ -37,6 +37,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 https://github.com/web-pal/chronos-timetracker 
+https://gitlab.com/ApexAI/grge
 
 ## Documentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
