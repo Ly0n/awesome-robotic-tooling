@@ -36,6 +36,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
+https://github.com/web-pal/chronos-timetracker 
 
 ## Documentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -46,6 +47,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
+
 
 ## Architecture and Design
 * [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
