@@ -48,6 +48,7 @@ https://gitlab.com/ApexAI/grge
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
+https://github.com/adamzap/landslide
 
 
 ## Architecture and Design
@@ -295,6 +296,7 @@ https://github.com/AIS-Bonn/rviz_cinematographer
 https://github.com/bokeh/bokeh
 https://github.com/voila-dashboards/voila
 https://github.com/stevenlovegrove/Pangolin
+https://github.com/thebjorn/pydeps
 
 #### Point Clouds
 https://github.com/CloudCompare/CloudCompare
