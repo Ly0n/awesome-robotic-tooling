@@ -39,7 +39,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 https://github.com/web-pal/chronos-timetracker 
 https://gitlab.com/ApexAI/grge
 
-## Documentation
+## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
 * [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -48,7 +48,7 @@ https://gitlab.com/ApexAI/grge
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
-https://github.com/adamzap/landslide
+https://github.com/dzello/reveal-hugo
 
 
 ## Architecture and Design
