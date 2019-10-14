@@ -31,6 +31,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
+* [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
 * [Woost](https://woost.space/) - Workflow Automatisation
 * [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
