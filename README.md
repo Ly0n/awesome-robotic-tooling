@@ -48,7 +48,7 @@ https://gitlab.com/ApexAI/grge
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
-https://github.com/dzello/reveal-hugo
+* [REVEAL-HUGO](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 
 
 ## Architecture and Design
