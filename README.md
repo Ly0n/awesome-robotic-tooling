@@ -40,6 +40,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 https://github.com/web-pal/chronos-timetracker 
 https://gitlab.com/ApexAI/grge
 https://docs.gitlab.com/ee/development/contributing/issue_workflow.html
+https://gerrit.googlesource.com/git-repo/
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
