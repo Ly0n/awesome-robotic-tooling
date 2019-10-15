@@ -26,7 +26,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 ----
 
 
-## Coordination
+## Coordination and Communication
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
@@ -39,6 +39,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 https://github.com/web-pal/chronos-timetracker 
 https://gitlab.com/ApexAI/grge
+https://docs.gitlab.com/ee/development/contributing/issue_workflow.html
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
