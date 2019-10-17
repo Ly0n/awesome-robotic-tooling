@@ -163,6 +163,8 @@ https://github.com/davisking/dlib - A toolkit for making real world machine lear
 https://github.com/fastai/fastai - The fastai library simplifies training fast and accurate neural nets using modern best practices.
 https://github.com/EpistasisLab/tpot - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
 https://github.com/DEAP/deap - Distributed Evolutionary Algorithms in Python
+https://github.com/openai/gym - A toolkit for developing and comparing reinforcement learning algorithms.
+
 
 #### Image Processing
 https://github.com/lagadic/visp - Open Source Visual Servoing Platform
@@ -197,6 +199,7 @@ https://github.com/hyye/lio-mapping - Implementation of Tightly Coupled 3D Lidar
 https://github.com/HKUST-Aerial-Robotics/A-LOAM - Advanced implementation of LOAM
 https://github.com/googlecartographer/cartographer_ros - Provides ROS integration for Cartographer
 https://github.com/EdwardLiuyc/StaticMapping - Use LiDAR to map the static world
+https://github.com/hku-mars/loam_livox - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 
 #### Camera
 https://github.com/JakobEngel/dso/ - Direct Sparse Odometry
