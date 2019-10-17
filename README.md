@@ -59,7 +59,9 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
 * [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
 * [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
-https://github.com/pschillinger/rqt_launchtree
+* [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
+* [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format)
+
 
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
@@ -89,28 +91,26 @@ https://github.com/pschillinger/rqt_launchtree
 
 ### Code and Run
 [Vim](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc			
-[Atom](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
-https://github.com/atom/atom - Hackable text editor for the 21st century
-https://www.sublimetext.com/ - A sophisticated text editor for
-code, markup and prose
-https://gitlab.com/ApexAI/ade-cli - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional
-volume images
-https://github.com/RoboStack/jupyter-ros - Jupyter widget helpers for ROS, the Robot Operating System
-https://github.com/ros-industrial/ros_qtc_plugin - The ROS Qt Creator Plug-in 	
-http://wiki.ros.org/IDEs - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
-https://github.com/zxqfl/TabNine - The all-language autocompleter
-https://kite.com/ - Use machine learning to give you 
+[vccode](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
+[atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
+[Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+[ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional volume images
+[Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
+[ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in 	
+[ROS IDEs](http://wiki.ros.org/IDEs) - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
+[TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter
+[kite](https://kite.com/) - Use machine learning to give you 
  useful code completions for Python
-https://github.com/davidhalter/jedi - Autocompletion and static analysis library for python
-https://github.com/gramaziokohler/roslibpy - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
+[jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
+[roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
 
 ### Build and Deploy
-https://github.com/ros-infrastructure/bloom - A release automation tool which makes releasing catkin packages easier
-https://github.com/catkin/catkin_tools - Command line tools for working with catkin
-https://github.com/ros-industrial/industrial_ci - Easy continuous integration repository for ROS repositories
-https://gitlab.com/gitlab-org/gitlab-runner - It runs tests and sends the results to GitLab
-https://github.com/colcon/colcon-core - command line tool to improve the workflow of building, testing and using multiple software packages
-https://gitlab.com/alelec/gitlab-release - Simple python3 script to upload files (from ci) to the current projects release (tag)
+[bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
+[catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
+[industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories
+[gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
+[colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
+[gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
 
 ## Hardware
 https://github.com/AcutronicRobotics/HRIM - An information model for robot hardware
