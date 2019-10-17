@@ -330,6 +330,7 @@ https://github.com/x90skysn3k/brutespray
 https://github.com/vulnersCom/nmap-vulners
 https://github.com/fail2ban/fail2ban
 https://github.com/lirantal/is-website-vulnerable
+https://github.com/jeremylong/DependencyCheck
 
 ### Safety
 https://oas.voyage.auto/
