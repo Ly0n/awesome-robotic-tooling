@@ -59,6 +59,7 @@ https://gerrit.googlesource.com/git-repo/
 * [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
 * [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
 * [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
+https://github.com/pschillinger/rqt_launchtree
 
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
@@ -376,6 +377,7 @@ https://github.com/facebook/pyre-check
 https://github.com/brendangregg/FlameGraph
 https://github.com/mikesart/gpuvis
 https://github.com/google/sanitizers
+https://github.com/andreasfertig/cppinsights
 
 ### Support
 https://github.com/helpyio/helpy
