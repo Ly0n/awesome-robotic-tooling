@@ -37,10 +37,10 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
-https://github.com/web-pal/chronos-timetracker 
-https://gitlab.com/ApexAI/grge
-https://docs.gitlab.com/ee/development/contributing/issue_workflow.html
-https://gerrit.googlesource.com/git-repo/
+* [Chronos - Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
+* [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
+* [Issue Gitlab Goode Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Issue triage policies
+* [Git-repo](https://gerrit.googlesource.com/git-repo/) - Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -83,11 +83,8 @@ https://github.com/pschillinger/rqt_launchtree
 
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) Templates on how to create launch files for larger projects
-
 * [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
-
 * [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
-
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 
 ### Code and Run
@@ -105,7 +102,7 @@ https://github.com/zxqfl/TabNine - The all-language autocompleter
 https://kite.com/ - Use machine learning to give you 
  useful code completions for Python
 https://github.com/davidhalter/jedi - Autocompletion and static analysis library for python
-https://github.com/gramaziokohler/roslibpy
+https://github.com/gramaziokohler/roslibpy - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
 
 ### Build and Deploy
 https://github.com/ros-infrastructure/bloom - A release automation tool which makes releasing catkin packages easier
@@ -113,7 +110,7 @@ https://github.com/catkin/catkin_tools - Command line tools for working with cat
 https://github.com/ros-industrial/industrial_ci - Easy continuous integration repository for ROS repositories
 https://gitlab.com/gitlab-org/gitlab-runner - It runs tests and sends the results to GitLab
 https://github.com/colcon/colcon-core - command line tool to improve the workflow of building, testing and using multiple software packages
-https://gitlab.com/alelec/gitlab-release
+https://gitlab.com/alelec/gitlab-release - Simple python3 script to upload files (from ci) to the current projects release (tag)
 
 ## Hardware
 https://github.com/AcutronicRobotics/HRIM - An information model for robot hardware
