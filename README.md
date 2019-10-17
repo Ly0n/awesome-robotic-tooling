@@ -140,6 +140,7 @@ https://github.com/uuvsimulator/uuv_simulator - Gazebo/ROS packages for underwat
 https://github.com/microsoft/AirSim - Open source simulator for autonomous vehicles built on Unreal Engine 
 https://github.com/udacity/self-driving-car-sim - A self-driving car simulator built with Unity
 https://github.com/code-iai/ROSIntegration - Unreal Engine Plugin to enable ROS Support
+https://github.com/erlerobot/gym-gazebo - An OpenAI gym extension for using Gazebo known as gym-gazebo
 
 ## Function
 
