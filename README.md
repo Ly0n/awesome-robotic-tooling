@@ -342,7 +342,7 @@ https://github.com/boostorg/safe_numerics
 
 https://wiki.ros.org/Quality/Tutorials/UnitTesting
 https://github.com/google/googletest
-https://docs.python.org/3/library/unittest.html
+https://github.com/pytest-dev/pytest/
 
 ### Lint and Format
 https://github.com/danmar/cppcheck
