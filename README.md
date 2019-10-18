@@ -39,7 +39,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Chronos - Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
-* [Issue Gitlab Goode Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Issue triage policies
+* [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Issue triage policies
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 
 ## Documentation and Presentation
