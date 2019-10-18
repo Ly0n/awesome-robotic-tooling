@@ -155,29 +155,29 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Sensor Processing
 #### Machine Learning
-https://github.com/davisking/dlib - A toolkit for making real world machine learning and data analysis applications in C++
-https://github.com/fastai/fastai - The fastai library simplifies training fast and accurate neural nets using modern best practices.
-https://github.com/EpistasisLab/tpot - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
-https://github.com/DEAP/deap - Distributed Evolutionary Algorithms in Python
-https://github.com/openai/gym - A toolkit for developing and comparing reinforcement learning algorithms.
+[DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+[fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
+[tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+[deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
+[gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 
 #### Image Processing
-https://github.com/lagadic/visp - Open Source Visual Servoing Platform
-https://github.com/NVlabs/Deep_Object_Pose - Deep Object Pose Estimation
-https://github.com/facebookresearch/DetectAndTrack - Detect-and-Track: Efficient Pose
-https://github.com/tinghuiz/SfMLearner - An unsupervised learning framework for depth and ego-motion estimation
-https://github.com/aleju/imgaug - Image augmentation for machine learning experiments
+[visp](https://github.com/lagadic/visp) - Open Source Visual Servoing Platform
+[deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation
+[DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
+[SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
+[imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
 
 #### Point Cloud Processing
-https://github.com/kzampog/cilantro - A lean C++ library for working with point cloud data
-https://github.com/intel-isl/Open3D - Open3D: A Modern Library for 3D Data Processing
-https://github.com/BichenWuUCB/SqueezeSeg - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
-https://github.com/ANYbotics/point_cloud_io - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
-https://github.com/strawlab/python-pcl - Python bindings to the pointcloud library
-https://github.com/ethz-asl/libpointmatcher - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
-https://github.com/PRBonn/depth_clustering - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
-https://github.com/PRBonn/lidar-bonnetal - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
+[cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
+[open3d](https://github.com/intel-isl/Open3D) - Open3D: A Modern Library for 3D Data Processing
+[SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
+[point_cloud_io](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
+[python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library
+[libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
+[depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
+[lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
 
 https://github.com/jianboqi/CSF - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 
