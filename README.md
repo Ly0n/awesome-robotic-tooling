@@ -77,9 +77,12 @@ Just a bunch of powerful robotic development resources and tools for professiona
 
 ### Operation System
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
-* [Automotive Graded Linux](https://www.automotivelinux.org/software) - Automotive Grade Linux (AGL) is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
+* [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
 * [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
-* [bitbake](https://github.com/openembedded/bitbake) - BitBake is a generic task execution engine that allows shell and Python tasks to be run efficiently and in parallel while working within complex inter-task dependency constraints.
+* [bitbake](https://github.com/openembedded/bitbake) - is a generic task execution engine that allows shell and Python tasks to be run efficiently and in parallel while working within complex inter-task dependency constraints.
+* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
+* [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
+* [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 
 ### Template
 
@@ -113,48 +116,42 @@ Just a bunch of powerful robotic development resources and tools for professiona
 [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
 
 ## Hardware
-https://github.com/AcutronicRobotics/HRIM - An information model for robot hardware
-https://github.com/ros/urdf - Repository for URDF parsing code
-
-https://github.com/OTL/urdf-viz - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
-
-https://github.com/ros/solidworks_urdf_exporter - SolidWorks to URDF Exporter
-https://github.com/FreeCAD/FreeCAD - Your own 3D parametric modeler
+[HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
+[URDF](https://github.com/ros/urdf) - Repository forUnified Robot Description Format (URDF) parsing code
+[urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
+[solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
+[FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
 
 ### Calibration
-https://github.com/ethz-asl/lidar_align - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
-https://github.com/ethz-asl/kalibr - The Kalibr visual-inertial calibration toolbox
-https://github.com/epiception/CalibNet - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
-https://github.com/ankitdhall/lidar_camera_calibration - ROS package to find a rigid-body transformation between a LiDAR and a camera
-https://github.com/IFL-CAMP/easy_handeye - Simple, straighforward ROS library for hand-eye calibration
-https://github.com/gaowenliang/imu_utils - A ROS package tool to analyze the IMU performance
-https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
+[lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
+[kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
+[Calibnet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
+[lidar_camera_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera
+[easy_handeye](https://github.com/IFL-CAMP/easy_handeye) - Simple, straighforward ROS library for hand-eye calibration
+[imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance
+[kalibr_allan]https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 
 ## Simulation
-https://github.com/lgsvl/simulator - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
-https://github.com/carla-simulator/carla - Open-source simulator for autonomous driving research
-https://github.com/deepdrive/deepdrive - End-to-end simulation for self-driving cars 
-https://github.com/uuvsimulator/uuv_simulator - Gazebo/ROS packages for underwater robotics simulation
-https://github.com/microsoft/AirSim - Open source simulator for autonomous vehicles built on Unreal Engine 
-https://github.com/udacity/self-driving-car-sim - A self-driving car simulator built with Unity
-https://github.com/code-iai/ROSIntegration - Unreal Engine Plugin to enable ROS Support
-https://github.com/erlerobot/gym-gazebo - An OpenAI gym extension for using Gazebo known as gym-gazebo
+[simulator](https://github.com/lgsvl/simulator) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+[carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+[deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
+[uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
+[AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
+[self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
+[ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
+[gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
 
-## Function
-
-https://github.com/jslee02/awesome-robotics-libraries
+## Robotic Functions
 
 ### Localization
-https://github.com/MichaelGrupp/evo - Python package for the evaluation of odometry and SLAM
-https://github.com/cra-ros-pkg/robot_localization - robot_localization is a package of nonlinear state estimation nodes
-https://github.com/locusrobotics/fuse - General architecture for performing sensor fusion live on a 
+[evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
+[robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
+[fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
 robot.
-https://www.ros.org/reps/rep-0105.html - Naming conventions and semantic meaning for
+[rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
 coordinate frames of mobile platforms used with ROS.
-
-## Global Localization
-https://github.com/Sciumo/GeographicLib - A C++ library for geographic projections.
-https://igs.bkg.bund.de/ntrip/download - Open Source Ntrip software 
+[GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
+[ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 
 ### Sensor Processing
 #### Machine Learning
