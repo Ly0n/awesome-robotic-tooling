@@ -302,6 +302,7 @@ https://github.com/bokeh/bokeh
 https://github.com/voila-dashboards/voila
 https://github.com/stevenlovegrove/Pangolin
 https://github.com/thebjorn/pydeps
+https://github.com/futurice/chilipie-kiosk
 
 #### Point Clouds
 https://github.com/CloudCompare/CloudCompare
