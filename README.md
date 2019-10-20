@@ -83,7 +83,6 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 
 ## Development Environment
-
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) Templates on how to create launch files for larger projects
@@ -222,20 +221,18 @@ coordinate frames of mobile platforms used with ROS.
 [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
 [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 
-#### Static Map Creation and Matching
+#### Static Maps
 [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
-
-### Map Integration
-
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
 https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+
 
 ### Behavior and Decision
 
