@@ -39,8 +39,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Chronos - Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
-* [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Issue triage policies
-* [Git-repo](https://gerrit.googlesource.com/git-repo/) - Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
+* [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Gitlabs Issue triage policies
+* [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 
 ## Documentation and Presentation
@@ -153,7 +153,7 @@ https://github.com/rtyley/bfg-repo-cleaner
 [kalibr_allan]https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 
 ## Simulation
-[simulator](https://github.com/lgsvl/simulator) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+[lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
 [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
 [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
 [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
@@ -164,7 +164,6 @@ https://github.com/rtyley/bfg-repo-cleaner
 * [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
 
 ## Robotic Functions
-
 ### Localization
 [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
 [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
@@ -230,7 +229,6 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 
 
 ### Behavior and Decision
-
 * [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
 * [RAFCON](https://github.com/DLR-RM/RAFCON) - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 
@@ -240,7 +238,8 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
 
-#### User Interface
+## Developer Interaction
+### Graphical User Interface
 [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
 [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
@@ -248,7 +247,6 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 [cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
 [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 
-## Tools
 ### Command Line
 https://github.com/cornerman/dotfiles - Powerful zsh and vim dotfiles
 https://github.com/cornerman/prompt-hjem - A beautiful zsh prompt
