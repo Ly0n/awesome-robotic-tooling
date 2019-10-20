@@ -1,6 +1,6 @@
 # Awesome Robotic Tooling ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Just a bunch of powerful robotic development resources and tools for professional robotic development.
+Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
 
 **ONLY Packages that are still maintained!**
 
