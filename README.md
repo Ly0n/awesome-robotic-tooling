@@ -189,6 +189,7 @@ coordinate frames of mobile platforms used with ROS.
 [DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
 [SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
 [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
+https://github.com/ros-perception/vision_opencv - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 
 #### Point Cloud Processing
 [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -200,12 +201,6 @@ coordinate frames of mobile platforms used with ROS.
 [depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
 [lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
 [CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
-
-#### Parallel Processing
-[dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
-[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
-[thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-[Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
 
 #### SLAM
@@ -288,6 +283,12 @@ https://github.com/novnc/noVNC - VNC client using HTML5
 https://github.com/SchedMD/slurm - Slurm: A Highly Scalable Workload Manager
 https://github.com/jupyterhub/jupyterhub - Multi-user server for Jupyter notebooks
 https://github.com/portainer/portainer	 - Making Docker management easy
+
+#### Parallel Processing
+[dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
+[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+[thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+[Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
 ### Network 
 https://github.com/KimiNewt/pyshark - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
