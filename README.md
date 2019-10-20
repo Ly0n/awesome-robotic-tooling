@@ -41,6 +41,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
 * [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Issue triage policies
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
+* [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -117,6 +118,26 @@ Just a bunch of powerful robotic development resources and tools for professiona
 (clang)[https://github.com/llvm-mirror/clang] -  This is a compiler front-end for the C family of languages
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
 compiler infrastructure project
+
+### Unit and Integration Test
+https://wiki.ros.org/Quality/Tutorials/UnitTesting - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
+https://github.com/google/googletest - Google's C++ test framework
+https://github.com/pytest-dev/pytest/ - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
+
+### Lint and Format
+https://github.com/danmar/cppcheck - Static analysis of C/C++ code
+https://github.com/koalaman/shellcheck - a static analysis tool for shell scripts 
+https://github.com/fkie/catkin_lint - catkin_lint checks package configurations for the catkin build system of ROS.
+https://github.com/PyCQA/pylint/ - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+https://github.com/psf/black - The uncompromising Python code formatter 
+
+### Version Control
+https://github.com/sameersbn/docker-gitlab
+https://github.com/kaiw/meld
+https://github.com/jonas/tig
+https://github.com/GNOME/gitg
+https://github.com/python-gitlab/python-gitlab
+https://github.com/rtyley/bfg-repo-cleaner
 
 ## Hardware
 [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -314,6 +335,22 @@ https://github.com/gareth-cross/rviz_satellite - Display internet satellite imag
 https://github.com/PickNikRobotics/rviz_visual_tools - C++ API wrapper for displaying shapes and meshes in Rviz
 https://github.com/PickNikRobotics/tf_keyboard_cal - Allows manual control of a TF through the keyboard or interactive markers
 
+## System
+https://github.com/hishamhm/htop
+https://github.com/Atoptool/atop
+https://github.com/giampaolo/psutil
+https://github.com/anderskm/gputil
+https://github.com/wookayin/gpustat
+https://github.com/Syllo/nvtop
+
+### Debugging and Tracing
+https://github.com/khamidou/lptrace
+https://github.com/facebook/pyre-check
+https://github.com/brendangregg/FlameGraph
+https://github.com/mikesart/gpuvis
+https://github.com/google/sanitizers
+https://github.com/andreasfertig/cppinsights
+
 ### Security
 https://github.com/rfjakob/gocryptfs - Encrypted overlay filesystem written in Go
 https://github.com/imthenachoman/How-To-Secure-A-Linux-Server - An evolving how-to guide for securing a Linux server.
@@ -335,51 +372,11 @@ https://github.com/stanislaw/awesome-safety-critical - List of resources about p
 https://www.automotivelinux.org/ - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 https://github.com/boostorg/safe_numerics - Replacements to standard numeric types which throw exceptions on errors
 
-### Unit and Integration Test
-https://wiki.ros.org/Quality/Tutorials/UnitTesting - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
-https://github.com/google/googletest - Google's C++ test framework
-https://github.com/pytest-dev/pytest/ - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
-
-### Lint and Format
-https://github.com/danmar/cppcheck - Static analysis of C/C++ code
-https://github.com/koalaman/shellcheck - a static analysis tool for shell scripts 
-https://github.com/fkie/catkin_lint - catkin_lint checks package configurations for the catkin build system of ROS.
-https://github.com/PyCQA/pylint/ - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-https://github.com/psf/black - The uncompromising Python code formatter 
-
-### Version Control
-https://github.com/sameersbn/docker-gitlab
-https://github.com/kaiw/meld
-https://github.com/jonas/tig
-https://github.com/GNOME/gitg
-https://github.com/python-gitlab/python-gitlab
-https://github.com/rtyley/bfg-repo-cleaner
-
-## System
-https://github.com/hishamhm/htop
-https://github.com/Atoptool/atop
-https://github.com/giampaolo/psutil
-https://github.com/anderskm/gputil
-https://github.com/wookayin/gpustat
-https://github.com/Syllo/nvtop
-
-### Debugging and Tracing
-https://github.com/khamidou/lptrace
-https://github.com/facebook/pyre-check
-https://github.com/brendangregg/FlameGraph
-https://github.com/mikesart/gpuvis
-https://github.com/google/sanitizers
-https://github.com/andreasfertig/cppinsights
-
-### Support
-https://github.com/helpyio/helpy
-
 ### Real Time
-https://elinux.org/Realtime_Testing_Best_Practices
-https://elisa.tech/
-https://github.com/eProsima/Fast-RTPS
-https://wiki.linuxfoundation.org/realtime/documentation/start
-
+https://elinux.org/Realtime_Testing_Best_Practices - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems. In the first section, please upload or place links to presentations or documentsion on the subject of RT testing for linux.
+https://elisa.tech/ -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
+https://wiki.linuxfoundation.org/realtime/documentation/start - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
+https://github.com/eProsima/Fast-RTPS -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
 [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 
 
