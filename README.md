@@ -232,23 +232,24 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
 [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
 [cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
+[chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 
 ## Tools
 ### Command Line
-https://github.com/cornerman/dotfiles
-https://github.com/cornerman/prompt-hjem
-https://github.com/ggreer/the_silver_searcher
-https://github.com/junegunn/fzf
-https://github.com/orhun/pkgtop
-https://github.com/jroimartin/gocui
-https://github.com/stefanhaustein/TerminalImageViewer
-https://github.com/dheera/rosshow
-https://github.com/prompt-toolkit/python-prompt-toolkit
-https://github.com/ralish/bash-script-template
-https://github.com/Guake/guake
-https://github.com/zolrath/wemux
-https://github.com/tmux-python/tmuxp
-https://github.com/rastapasta/mapscii
+https://github.com/cornerman/dotfiles - Powerful zsh and vim dotfiles
+https://github.com/cornerman/prompt-hjem - A beautiful zsh prompt
+https://github.com/ggreer/the_silver_searcher - A code-searching tool similar to ack, but faster.
+https://github.com/junegunn/fzf - A command-line fuzzy finder
+https://github.com/orhun/pkgtop - Interactive package manager and resource monitor designed for the GNU/Linux.
+https://github.com/jroimartin/gocui - Minimalist Go package aimed at creating Console User Interfaces.
+https://github.com/stefanhaustein/TerminalImageViewer - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+https://github.com/dheera/rosshow - Visualize ROS topics inside a terminal with Unicode/ASCII art
+https://github.com/prompt-toolkit/python-prompt-toolkit - Library for building powerful interactive command line applications in Python
+https://github.com/ralish/bash-script-template - A best practices Bash script template with several useful functions
+https://github.com/Guake/guake - Drop-down terminal for GNOME
+https://github.com/zolrath/wemux - Multi-User Tmux Made Easy
+https://github.com/tmux-python/tmuxp -  tmux session manager. built on libtmux
+https://github.com/rastapasta/mapscii - World map renderer for your console
 
 ### Storage
 
@@ -258,75 +259,71 @@ https://gitlab.com/ternaris/marv-robotics - MARV Robotics is a powerful and exte
 https://github.com/nextcloud/server - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### High Performance Computing 
-
-https://github.com/kubeflow/kubeflow
-https://github.com/AliyunContainerService/log-pilot
-https://github.com/containous/traefik
-https://github.com/Graylog2/graylog2-server
-https://github.com/ansible/ansible
-https://github.com/docker/docker-py
-https://github.com/novnc/noVNC
-https://github.com/SchedMD/slurm
-https://github.com/jupyterhub/jupyterhub
-https://github.com/portainer/portainer	
+https://github.com/kubeflow/kubeflow - Machine Learning Toolkit for Kubernetes
+https://github.com/AliyunContainerService/log-pilot - Collect logs for docker containers
+https://github.com/containous/traefik - The Cloud Native Edge Router 
+https://github.com/Graylog2/graylog2-server - Free and open source log management
+https://github.com/ansible/ansible - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deplo
+https://github.com/docker/docker-py - A Python library for the Docker Engine API 
+https://github.com/novnc/noVNC - VNC client using HTML5
+https://github.com/SchedMD/slurm - Slurm: A Highly Scalable Workload Manager
+https://github.com/jupyterhub/jupyterhub - Multi-user server for Jupyter notebooks
+https://github.com/portainer/portainer	 - Making Docker management easy
 
 ### Network 
-https://github.com/KimiNewt/pyshark
-https://github.com/laixintao/pingtop
-https://github.com/gcla/termshark
-https://github.com/raboof/nethogs
-https://github.com/ebroecker/canmatrix
-https://github.com/osxfuse/sshfs
-https://github.com/ApexAI/performance_test
-https://github.com/appneta/tcpreplay
-https://github.com/esnet/iperf
-https://github.com/linux-can/can-utils
-https://github.com/ros-industrial/ros_canopen
-https://github.com/JWhitleyAStuff/decanstructor
-https://discourse.ros.org/uploads/short-url/gVQHzWTRCL5R1aMKVmhmw83iZaA.pdf
+https://github.com/KimiNewt/pyshark - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
+https://github.com/laixintao/pingtop - Ping multiple servers and show results in a top-like terminal UI
+https://github.com/gcla/termshark - A terminal UI for tshark, inspired by Wireshark
+https://github.com/raboof/nethogs - It groups bandwidth by process
+https://github.com/ebroecker/canmatrix - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+https://github.com/osxfuse/sshfs - File system based on the SSH File Transfer Protocol
+https://github.com/ApexAI/performance_test - Tool to test the performance of pub/sub based communication frameworks.
+https://github.com/appneta/tcpreplay - Pcap editing and replay tools
+https://github.com/esnet/iperf - A TCP, UDP, and SCTP network bandwidth measurement tool
+https://github.com/linux-can/can-utils - Linux-CAN / SocketCAN user space applications
+https://github.com/ros-industrial/ros_canopen - CANopen driver framework for ROS 
+https://github.com/JWhitleyAStuff/decanstructor - The definitive ROS CAN analysis tool.
 
 ### Annotation
-https://github.com/RMonica/rviz_cloud_annotation
-https://github.com/abreheret/PixelAnnotationTool
-https://github.com/tzutalin/labelImg
-https://github.com/CPFL/3d_labeling_tools
+https://github.com/RMonica/rviz_cloud_annotation - Point cloud annotation tool based on RViz
+https://github.com/abreheret/PixelAnnotationTool - Annotate quickly images
+https://github.com/tzutalin/labelImg - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 
 ### Visualization
-https://github.com/cruise-automation/webviz			
-https://github.com/plotly/plotly.py
-https://github.com/facontidavide/PlotJuggler
-https://github.com/AIS-Bonn/rviz_cinematographer
-https://github.com/bokeh/bokeh
-https://github.com/voila-dashboards/voila
-https://github.com/stevenlovegrove/Pangolin
-https://github.com/thebjorn/pydeps
-https://github.com/futurice/chilipie-kiosk
+https://github.com/cruise-automation/webviz - web-based visualization libraries like rviz
+https://github.com/plotly/plotly.py - An open-source, interactive graphing library for Python
+https://github.com/facontidavide/PlotJuggler - The timeseries visualization tool that you deserve 
+https://github.com/bokeh/bokeh - Interactive Data Visualization in the browser, from Python
+https://github.com/voila-dashboards/voila - From Jupyter notebooks to standalone web applications and dashboards
+https://github.com/stevenlovegrove/Pangolin - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+https://github.com/thebjorn/pydeps - Python Module Dependency graphs
 
 #### Point Clouds
-https://github.com/CloudCompare/CloudCompare
-https://github.com/potree/potree
-https://github.com/googlecartographer/point_cloud_viewer
-https://github.com/Kitware/ParaView
+https://github.com/CloudCompare/CloudCompare - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
+https://github.com/potree/potree - WebGL point cloud viewer for large datasets 
+https://github.com/googlecartographer/point_cloud_viewer - makes viewing massive point clouds easy and convenient
+https://github.com/Kitware/ParaView - VTK-based Data Analysis and Visualization Application
 
 #### RVIZ 
-https://github.com/swri-robotics/mapviz
-https://github.com/gareth-cross/rviz_satellite
-https://github.com/PickNikRobotics/rviz_visual_tools
-https://github.com/AIS-Bonn/rviz_cinematographer
-https://github.com/PickNikRobotics/tf_keyboard_cal
+https://github.com/swri-robotics/mapviz - Modular ROS visualization tool for 2D data.
+https://github.com/AIS-Bonn/rviz_cinematographer - Easy to use tools to create and edit trajectories for the rviz camera.
+https://github.com/gareth-cross/rviz_satellite - Display internet satellite imagery in RViz
+https://github.com/PickNikRobotics/rviz_visual_tools - C++ API wrapper for displaying shapes and meshes in Rviz
+https://github.com/PickNikRobotics/tf_keyboard_cal - Allows manual control of a TF through the keyboard or interactive markers
 
 ### Security
-https://github.com/rfjakob/gocryptfs
-https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
-https://github.com/CISOfy/lynis
-https://github.com/WireGuard/WireGuard
-https://github.com/ncsa/ssh-auditor
-https://github.com/scipag/vulscan
-https://github.com/x90skysn3k/brutespray
-https://github.com/vulnersCom/nmap-vulners
-https://github.com/fail2ban/fail2ban
-https://github.com/lirantal/is-website-vulnerable
-https://github.com/jeremylong/DependencyCheck
+https://github.com/rfjakob/gocryptfs - Encrypted overlay filesystem written in Go
+https://github.com/imthenachoman/How-To-Secure-A-Linux-Server - An evolving how-to guide for securing a Linux server.
+https://github.com/CISOfy/lynis - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening
+https://github.com/WireGuard/WireGuard - WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography
+https://github.com/ncsa/ssh-auditor - Scans for weak ssh passwords on your network
+https://github.com/scipag/vulscan - Advanced vulnerability scanning with Nmap NSE
+https://github.com/vulnersCom/nmap-vulners - NSE script based on Vulners.com API
+https://github.com/x90skysn3k/brutespray - Automatically attempts default creds on found services.
+https://github.com/fail2ban/fail2ban - Daemon to ban hosts that cause multiple authentication errors 
+https://github.com/lirantal/is-website-vulnerable - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+https://github.com/jeremylong/DependencyCheck - is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
+https://github.com/thebjorn/pydeps - Python Module Dependency graphs
 
 ### Safety
 https://oas.voyage.auto/
@@ -336,7 +333,6 @@ https://www.automotivelinux.org/
 https://github.com/boostorg/safe_numerics
 
 ### Unit and Integration Test
-
 https://wiki.ros.org/Quality/Tutorials/UnitTesting
 https://github.com/google/googletest
 https://github.com/pytest-dev/pytest/
