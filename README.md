@@ -264,9 +264,9 @@ https://github.com/Guake/guake - Drop-down terminal for GNOME
 https://github.com/zolrath/wemux - Multi-User Tmux Made Easy
 https://github.com/tmux-python/tmuxp -  tmux session manager. built on libtmux
 https://github.com/rastapasta/mapscii - World map renderer for your console
+https://launchpad.net/terminator - The goal of this project is to produce a useful tool for arranging terminals
 
 ### Storage
-
 https://github.com/borgbackup/borg - Deduplicating archiver with compression and authenticated encryption
 https://github.com/swri-robotics/bag-database - A server that catalogs bag files and provides a web-based UI for accessing them
 https://gitlab.com/ternaris/marv-robotics - MARV Robotics is a powerful and extensible data management platform
