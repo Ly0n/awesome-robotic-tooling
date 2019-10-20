@@ -140,6 +140,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
 [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
 [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
+* [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
 
 ## Robotic Functions
 
@@ -161,7 +162,6 @@ coordinate frames of mobile platforms used with ROS.
 [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
-
 #### Image Processing
 [visp](https://github.com/lagadic/visp) - Open Source Visual Servoing Platform
 [deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation
@@ -178,62 +178,60 @@ coordinate frames of mobile platforms used with ROS.
 [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
 [depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
 [lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
-
-https://github.com/jianboqi/CSF - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
+[CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 
 #### Parallel Processing
-https://github.com/dask/dask - Parallel computing with task scheduling for Python
-https://github.com/cupy/cupy - NumPy-like API accelerated with CUDA
-https://github.com/thrust/thrust - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-https://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
+[dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
+[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+[thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+[Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
 
 #### SLAM
 ##### Lidar
-https://github.com/laboshinl/loam_velodyne - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
-https://github.com/hyye/lio-mapping - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
-https://github.com/HKUST-Aerial-Robotics/A-LOAM - Advanced implementation of LOAM
-https://github.com/googlecartographer/cartographer_ros - Provides ROS integration for Cartographer
-https://github.com/EdwardLiuyc/StaticMapping - Use LiDAR to map the static world
-https://github.com/hku-mars/loam_livox - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+[loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
+[lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
+[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+[cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
+[loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 
 #### Camera
-https://github.com/JakobEngel/dso/ - Direct Sparse Odometry
-https://github.com/srv/viso2 - A ROS wrapper for libviso2, a library for visual odometry
-https://github.com/ucla-vision/xivo - X Inertial-aided Visual Odometry
+[dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
+[viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
+[xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 
 #### Static Map Creation and Matching
-https://github.com/eliemichel/MapsModelsImporter - A Blender add-on to import models from google maps
-https://github.com/fzi-forschungszentrum-informatik/Lanelet2 - Map handling framework for automated driving
-https://github.com/bmwcarit/barefoot -  Online and Offline map matching that can be used stand-alone and in the cloud
+[StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+[MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
+[Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
+[barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 
 ### Map Integration
 
-[iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
+* [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
 https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 
-[osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
 ### Behavior and Decision
 
-https://github.com/BehaviorTree/BehaviorTree.CPP - Behavior Trees Library in C++
-https://github.com/DLR-RM/RAFCON - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
+* [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
+* [RAFCON](https://github.com/DLR-RM/RAFCON) - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 
 ### Planning and Control
-https://github.com/RoboJackets/rrt - C++ RRT (Rapidly-exploring Random Tree) implementation
-https://github.com/AtsushiSakai/HybridAStarTrailer
-https://github.com/karlkurzer/path_planner
-https://github.com/ros-geographic-info/open_street_map
-https://github.com/eleurent/highway-env	
+* [rrt](https://github.com/RoboJackets/rrt) - C++ RRT (Rapidly-exploring Random Tree) implementation
+* [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - A path planning algorithm based on Hybrid A* for trailer truck.
+* [path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle
+* [open_street_map](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
 
 #### User Interface
-https://wiki.ros.org/dynamic_reconfigure
-https://github.com/MirServer/mir
-https://github.com/spyder-ide/qtpy
-https://github.com/Hjdskes/cage
-https://github.com/PySimpleGUI/PySimpleGUI
+[dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
+[mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
+[qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
+[rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
+[cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
 
 ## Tools
 ### Command Line
