@@ -73,10 +73,7 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [AutowareAuto](https://autowareauto.gitlab.io/AutowareAuto/) - It is a clean slate rewrite of Autoware. Autoware.Auto applies best-in-class software engineering.
 * [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 
-
-## Development Environment
-
-### Operation System
+## Operation System
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
 * [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
@@ -85,8 +82,9 @@ Just a bunch of powerful robotic development resources and tools for professiona
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 
-### Template
+## Development Environment
 
+### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) Templates on how to create launch files for larger projects
 * [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
@@ -378,8 +376,3 @@ https://elisa.tech/ -  Project is to make it easier for companies to build and c
 https://wiki.linuxfoundation.org/realtime/documentation/start - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 https://github.com/eProsima/Fast-RTPS -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
 [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
-
-
-
-### 
-
