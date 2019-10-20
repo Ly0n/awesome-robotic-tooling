@@ -73,15 +73,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [AutowareAuto](https://autowareauto.gitlab.io/AutowareAuto/) - It is a clean slate rewrite of Autoware. Autoware.Auto applies best-in-class software engineering.
 * [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 
-## Operation System
-* [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
-* [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
-* [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
-* [bitbake](https://github.com/openembedded/bitbake) - is a generic task execution engine that allows shell and Python tasks to be run efficiently and in parallel while working within complex inter-task dependency constraints.
-* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
-* [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
-* [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
-
 ## Development Environment
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
@@ -288,20 +279,6 @@ https://github.com/portainer/portainer	 - Making Docker management easy
 [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
 [Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
-### Network 
-https://github.com/KimiNewt/pyshark - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
-https://github.com/laixintao/pingtop - Ping multiple servers and show results in a top-like terminal UI
-https://github.com/gcla/termshark - A terminal UI for tshark, inspired by Wireshark
-https://github.com/raboof/nethogs - It groups bandwidth by process
-https://github.com/ebroecker/canmatrix - Converting CAN Database Formats .arxml .dbc .dbf .kcd
-https://github.com/osxfuse/sshfs - File system based on the SSH File Transfer Protocol
-https://github.com/ApexAI/performance_test - Tool to test the performance of pub/sub based communication frameworks.
-https://github.com/appneta/tcpreplay - Pcap editing and replay tools
-https://github.com/esnet/iperf - A TCP, UDP, and SCTP network bandwidth measurement tool
-https://github.com/linux-can/can-utils - Linux-CAN / SocketCAN user space applications
-https://github.com/ros-industrial/ros_canopen - CANopen driver framework for ROS 
-https://github.com/JWhitleyAStuff/decanstructor - The definitive ROS CAN analysis tool.
-
 ### Annotation
 https://github.com/RMonica/rviz_cloud_annotation - Point cloud annotation tool based on RViz
 https://github.com/abreheret/PixelAnnotationTool - Annotate quickly images
@@ -336,6 +313,29 @@ https://github.com/giampaolo/psutil
 https://github.com/anderskm/gputil
 https://github.com/wookayin/gpustat
 https://github.com/Syllo/nvtop
+
+## Operation System
+* [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
+* [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
+* [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
+* [bitbake](https://github.com/openembedded/bitbake) - is a generic task execution engine that allows shell and Python tasks to be run efficiently and in parallel while working within complex inter-task dependency constraints.
+* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
+* [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
+* [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
+
+### Network 
+https://github.com/KimiNewt/pyshark - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
+https://github.com/laixintao/pingtop - Ping multiple servers and show results in a top-like terminal UI
+https://github.com/gcla/termshark - A terminal UI for tshark, inspired by Wireshark
+https://github.com/raboof/nethogs - It groups bandwidth by process
+https://github.com/ebroecker/canmatrix - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+https://github.com/osxfuse/sshfs - File system based on the SSH File Transfer Protocol
+https://github.com/ApexAI/performance_test - Tool to test the performance of pub/sub based communication frameworks.
+https://github.com/appneta/tcpreplay - Pcap editing and replay tools
+https://github.com/esnet/iperf - A TCP, UDP, and SCTP network bandwidth measurement tool
+https://github.com/linux-can/can-utils - Linux-CAN / SocketCAN user space applications
+https://github.com/ros-industrial/ros_canopen - CANopen driver framework for ROS 
+https://github.com/JWhitleyAStuff/decanstructor - The definitive ROS CAN analysis tool.
 
 ### Debugging and Tracing
 https://github.com/khamidou/lptrace
