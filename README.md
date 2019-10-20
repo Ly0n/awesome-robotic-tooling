@@ -53,6 +53,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [DeepL](https://deepl.com) - Translate complete documents better than most humans
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
+* [Hugo-Webslides]https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
 
 
 ## Architecture and Design
