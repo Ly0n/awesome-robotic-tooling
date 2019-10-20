@@ -114,6 +114,9 @@ Just a bunch of powerful robotic development resources and tools for professiona
 [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
 [colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
 [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
+(clang)[https://github.com/llvm-mirror/clang] -  This is a compiler front-end for the C family of languages
+(C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
+compiler infrastructure project
 
 ## Hardware
 [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -326,24 +329,23 @@ https://github.com/jeremylong/DependencyCheck - is a software composition analys
 https://github.com/thebjorn/pydeps - Python Module Dependency graphs
 
 ### Safety
-https://oas.voyage.auto/
-https://github.com/udacity/CarND-Functional-Safety-Project
-https://github.com/stanislaw/awesome-safety-critical
-https://www.automotivelinux.org/
-https://github.com/boostorg/safe_numerics
+https://github.com/voyage/open-autonomous-safety - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
+https://github.com/udacity/CarND-Functional-Safety-Project - create functional safety documents udacity project
+https://github.com/stanislaw/awesome-safety-critical - List of resources about programming practices for writing safety-critical software.
+https://www.automotivelinux.org/ - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
+https://github.com/boostorg/safe_numerics - Replacements to standard numeric types which throw exceptions on errors
 
 ### Unit and Integration Test
-https://wiki.ros.org/Quality/Tutorials/UnitTesting
-https://github.com/google/googletest
-https://github.com/pytest-dev/pytest/
+https://wiki.ros.org/Quality/Tutorials/UnitTesting - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
+https://github.com/google/googletest - Google's C++ test framework
+https://github.com/pytest-dev/pytest/ - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 
 ### Lint and Format
-https://github.com/danmar/cppcheck
-https://github.com/koalaman/shellcheck
-https://github.com/fkie/catkin_lint
-https://github.com/PyCQA/pylint/
-https://github.com/psf/black
-https://github.com/llvm-mirror/clang
+https://github.com/danmar/cppcheck - Static analysis of C/C++ code
+https://github.com/koalaman/shellcheck - a static analysis tool for shell scripts 
+https://github.com/fkie/catkin_lint - catkin_lint checks package configurations for the catkin build system of ROS.
+https://github.com/PyCQA/pylint/ - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+https://github.com/psf/black - The uncompromising Python code formatter 
 
 ### Version Control
 https://github.com/sameersbn/docker-gitlab
