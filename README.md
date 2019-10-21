@@ -105,114 +105,113 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
 [colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
 [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
-(clang)[https://github.com/llvm-mirror/clang] -  This is a compiler front-end for the C family of languages
+[clang](https://github.com/llvm-mirror/clang) -  This is a compiler front-end for the C family of languages
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
 compiler infrastructure project
 
 ### Unit and Integration Test
-https://wiki.ros.org/Quality/Tutorials/UnitTesting - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
-https://github.com/google/googletest - Google's C++ test framework
-https://github.com/pytest-dev/pytest/ - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
+[UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
+[googletest](https://github.com/google/googletest) - Google's C++ test framework
+[pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 
 ### Lint and Format
-https://github.com/danmar/cppcheck - Static analysis of C/C++ code
-https://github.com/koalaman/shellcheck - a static analysis tool for shell scripts 
-https://github.com/fkie/catkin_lint - catkin_lint checks package configurations for the catkin build system of ROS.
-https://github.com/PyCQA/pylint/ - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-https://github.com/psf/black - The uncompromising Python code formatter 
+[cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
+[shellcheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts 
+[catkin_lint](https://github.com/fkie/catkin_lint) - catkin_lint checks package configurations for the catkin build system of ROS.
+[pylint](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+[black](https://github.com/psf/black) - The uncompromising Python code formatter 
 
 ### Version Control
-https://github.com/sameersbn/docker-gitlab
-https://github.com/kaiw/meld
-https://github.com/jonas/tig
-https://github.com/GNOME/gitg
-https://github.com/python-gitlab/python-gitlab
-https://github.com/rtyley/bfg-repo-cleaner
+[meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
+[tig](https://github.com/jonas/tig) - Text-mode interface for git 
+[gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
+[python-gitlab](https://github.com/python-gitlab/python-gitlab) - is a Python package providing access to the GitLab server API.
+[bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 
 ## Hardware
-[HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
-[URDF](https://github.com/ros/urdf) - Repository forUnified Robot Description Format (URDF) parsing code
-[urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
-[solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
-[FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
+* [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
+* [URDF](https://github.com/ros/urdf) - Repository forUnified Robot Description Format (URDF) parsing code
+* [urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
+* [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
 
 ### Calibration
-[lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
-[kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
-[Calibnet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
-[lidar_camera_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera
-[easy_handeye](https://github.com/IFL-CAMP/easy_handeye) - Simple, straighforward ROS library for hand-eye calibration
-[imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance
-[kalibr_allan]https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
+* [lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
+* [kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
+* [Calibnet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks
+* [lidar_camera_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera
+* [easy_handeye](https://github.com/IFL-CAMP/easy_handeye) - Simple, straighforward ROS library for hand-eye calibration
+* [imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance
+* [kalibr_allan]https://github.com/rpng/kalibr_allan - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 
 ## Simulation
-[lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
-[carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
-[deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
-[uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
-[AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
-[self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
-[ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
-[gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
+* [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
+* [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+* [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
+* [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
+* [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
+* [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
+* [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
+* [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
 * [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
 
 ## Robotic Functions
 ### Localization
-[evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
-[robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
-[fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
+* [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
+* [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
+* [fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
 robot.
-[rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
+* [rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
 coordinate frames of mobile platforms used with ROS.
-[GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
-[ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
+* [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
+* [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 
 ### Sensor Processing
 #### Machine Learning
-[DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-[fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
-[tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
-[deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
-[gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+* [fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
+* [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
+* [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
+* [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 #### Image Processing
-[visp](https://github.com/lagadic/visp) - Open Source Visual Servoing Platform
-[deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation
-[DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
-[SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
-[imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
+* [visp](https://github.com/lagadic/visp) - Open Source Visual Servoing Platform
+* [deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation
+* [DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
+* [SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
+* [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
 https://github.com/ros-perception/vision_opencv - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 
 #### Point Cloud Processing
-[cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
-[open3d](https://github.com/intel-isl/Open3D) - Open3D: A Modern Library for 3D Data Processing
-[SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
-[point_cloud_io](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
-[python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library
-[libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
-[depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
-[lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
-[CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
+* [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
+* [open3d](https://github.com/intel-isl/Open3D) - Open3D: A Modern Library for 3D Data Processing
+* [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
+* [point_cloud_io](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
+* [python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library
+* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics
+* [depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
+* [lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
+* [CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 
 
 #### SLAM
 ##### Lidar
-[loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
-[lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
-[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
-[cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
-[loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+* [loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
+* [lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
+* [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+* [cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
+* [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 
 #### Camera
-[dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
-[viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
-[xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
+* [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
+* [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
+* [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 
 #### Static Maps
-[StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
-[MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
-[Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
-[barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
+* [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+* [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
+* [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
+* [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
 https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
 
