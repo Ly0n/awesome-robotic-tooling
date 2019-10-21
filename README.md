@@ -84,49 +84,49 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 
 ### Code and Run
-[Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
-[vccode](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
-[atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
-[Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
-[ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional volume images
-[Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
-[ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in 	
-[ROS IDEs](http://wiki.ros.org/IDEs) - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
-[TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter
-[kite](https://kite.com/) - Use machine learning to give you 
+* [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
+* [vccode](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
+* [atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
+* [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+* [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional volume images
+* [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
+* [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in 	
+* [ROS IDEs](http://wiki.ros.org/IDEs) - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
+* [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter
+* [kite](https://kite.com/) - Use machine learning to give you 
  useful code completions for Python
-[jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
-[roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
+* [jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
+* [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
 
 ### Build and Deploy
-[bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
-[catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
-[industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories
-[gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
-[colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
-[gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
-[clang](https://github.com/llvm-mirror/clang) -  This is a compiler front-end for the C family of languages
+* [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
+* [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
+* [industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories
+* [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
+* [colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
+* [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
+* [clang](https://github.com/llvm-mirror/clang) -  This is a compiler front-end for the C family of languages
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
 compiler infrastructure project
 
 ### Unit and Integration Test
-[UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
-[googletest](https://github.com/google/googletest) - Google's C++ test framework
-[pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
+* [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
+* [googletest](https://github.com/google/googletest) - Google's C++ test framework
+* [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 
 ### Lint and Format
-[cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
-[shellcheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts 
-[catkin_lint](https://github.com/fkie/catkin_lint) - catkin_lint checks package configurations for the catkin build system of ROS.
-[pylint](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
-[black](https://github.com/psf/black) - The uncompromising Python code formatter 
+* [cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
+* [shellcheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts 
+* [catkin_lint](https://github.com/fkie/catkin_lint) - catkin_lint checks package configurations for the catkin build system of ROS.
+* [pylint](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+* [black](https://github.com/psf/black) - The uncompromising Python code formatter 
 
 ### Version Control
-[meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
-[tig](https://github.com/jonas/tig) - Text-mode interface for git 
-[gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
-[python-gitlab](https://github.com/python-gitlab/python-gitlab) - is a Python package providing access to the GitLab server API.
-[bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
+* [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
+* [tig](https://github.com/jonas/tig) - Text-mode interface for git 
+* [gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
+* [python-gitlab](https://github.com/python-gitlab/python-gitlab) - is a Python package providing access to the GitLab server API.
+* [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -214,9 +214,7 @@ https://github.com/ros-perception/vision_opencv - Packages for interfacing ROS w
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
 https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
-
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
-
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
 
@@ -232,35 +230,35 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 
 ## Developer Interaction
 ### Graphical User Interface
-[dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
-[mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
-[qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
-[rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
-[cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
-[chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
+* [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
+* [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
+* [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
+* [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
+* [cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
+* [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 
 ### Command Line
-https://github.com/cornerman/dotfiles - Powerful zsh and vim dotfiles
-https://github.com/cornerman/prompt-hjem - A beautiful zsh prompt
-https://github.com/ggreer/the_silver_searcher - A code-searching tool similar to ack, but faster.
-https://github.com/junegunn/fzf - A command-line fuzzy finder
-https://github.com/orhun/pkgtop - Interactive package manager and resource monitor designed for the GNU/Linux.
-https://github.com/jroimartin/gocui - Minimalist Go package aimed at creating Console User Interfaces.
-https://github.com/stefanhaustein/TerminalImageViewer - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
-https://github.com/dheera/rosshow - Visualize ROS topics inside a terminal with Unicode/ASCII art
-https://github.com/prompt-toolkit/python-prompt-toolkit - Library for building powerful interactive command line applications in Python
-https://github.com/ralish/bash-script-template - A best practices Bash script template with several useful functions
-https://github.com/Guake/guake - Drop-down terminal for GNOME
-https://github.com/zolrath/wemux - Multi-User Tmux Made Easy
-https://github.com/tmux-python/tmuxp -  tmux session manager. built on libtmux
-https://github.com/rastapasta/mapscii - World map renderer for your console
-https://launchpad.net/terminator - The goal of this project is to produce a useful tool for arranging terminals
+[dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
+[prompt-hjem](https://github.com/cornerman/prompt-hjem) - A beautiful zsh prompt
+[ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+[fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+[pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
+[gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+[TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer)- Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+[rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art
+[python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+[bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
+[guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+[wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+[tmuxp](https://github.com/tmux-python/tmuxp) -  tmux session manager. built on libtmux
+[mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
+[terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
 
 ### Storage
-https://github.com/borgbackup/borg - Deduplicating archiver with compression and authenticated encryption
-https://github.com/swri-robotics/bag-database - A server that catalogs bag files and provides a web-based UI for accessing them
-https://gitlab.com/ternaris/marv-robotics - MARV Robotics is a powerful and extensible data management platform
-https://github.com/nextcloud/server - Nextcloud is a suite of client-server software for creating and using file hosting services.
+[borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
+[bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
+[marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
+[nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### High Performance Computing 
 https://github.com/kubeflow/kubeflow - Machine Learning Toolkit for Kubernetes
