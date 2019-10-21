@@ -2,27 +2,50 @@
 
 Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
 
-**ONLY Packages that are still maintained!**
-
-* [Example Format](#example-format)
+* [Coordination and Communication](#coordination-and-communication)
+* [Documentation and Presentation](#documentation-and-presentation)
+* [Architecture and Design](#architecture-and-design)
+* [Framework](#framework)
 * [Development Environment](#development-environment)
-  * [Backbone](#backbone)
-  * [Docker](#docker)
-* [Dataprocessing](#data-processing)
+  * [Template](#template)
+  * [Code and Run](#code-and-run)
+  * [Build and Deploy](#build-and-deploy)
+  * [Unit and Integration Test](#unit-and-integration-test)
+  * [Lint and Format](#lint-and-format)
+  * [Version Control](#version-control)
+ * [Hardware](#hardware)
+ * [Calibration](#calibration)
+ * [Simulation](#simulation)
+ * [Robotic Functions](#robotic-functions)
+  * [Localization](#localization)
+  * [Sensor Processing](#sensor-processing)
+  * [Machine Learning](#machine-learning)
   * [Image Processing](#image-processing)
   * [Point Cloud Processing](#point-cloud-processing)
-* [Middleware](#package-managers)
-  * [Timeline](#timeline)
-  * [Spreadsheet](#spreadsheet)
-* [Security](#security)
-* [Safety](#safety)
-* [Documentation](#documentation)
-* [Commandline]
-* [Robotic Functions]
-  * [Localisation]
-  * [Detection]
-  * [Planning]
-  * [Decision]
+  * [SLAM](#slam)
+    * [Lidar](#lidar)
+    * [Camera](#camera)
+    * [Static Maps](#static-maps)
+      * [Behavior and Decision](#behavior-and-decision)
+      * [Planning and Control](#planning-and-control)
+ * [Data Interaction](#developer-interaction)
+   * [Graphical User Interface](#graphical-user-interface)
+   * [Command Line](#command-line)
+   * [Storage](#storage)
+   * [High Performance Computing](#high-performance-computing)
+     * [Parallel Processing](#parallel-processing)
+   * [Annotation](#annotation)
+   * [Visualization](#visualization)
+     * [Point Clouds](#point-clouds)
+     * [RVIZ](#rviz)
+ * [System](#system)
+   * [Operation System](#operation-system)
+   * [Network](#network)
+   * [Debugging and Tracing](#debugging-and-tracing)
+   * [Security](#security)
+   * [Safety](#safety)
+   * [Real Time](#real-time)
+
 ----
 
 
