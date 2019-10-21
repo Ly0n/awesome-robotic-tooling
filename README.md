@@ -238,80 +238,81 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 
 ### Command Line
-[dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
-[prompt-hjem](https://github.com/cornerman/prompt-hjem) - A beautiful zsh prompt
-[ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-[fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-[pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
-[gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-[TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer)- Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
-[rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art
-[python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-[bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
-[guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
-[wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
-[tmuxp](https://github.com/tmux-python/tmuxp) -  tmux session manager. built on libtmux
-[mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
-[terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
+* [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
+* [prompt-hjem](https://github.com/cornerman/prompt-hjem) - A beautiful zsh prompt
+* [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+* [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+* [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
+* [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+* [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer)- Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+* [rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art
+* [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+* [bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
+* [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+* [wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [tmuxp](https://github.com/tmux-python/tmuxp) -  tmux session manager. built on libtmux
+* [mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
+* [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
 
 ### Storage
-[borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
-[bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
-[marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
-[nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
+* [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
+* [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
+* [marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
+* [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### High Performance Computing 
-https://github.com/kubeflow/kubeflow - Machine Learning Toolkit for Kubernetes
-https://github.com/AliyunContainerService/log-pilot - Collect logs for docker containers
-https://github.com/containous/traefik - The Cloud Native Edge Router 
-https://github.com/Graylog2/graylog2-server - Free and open source log management
-https://github.com/ansible/ansible - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deplo
-https://github.com/docker/docker-py - A Python library for the Docker Engine API 
-https://github.com/novnc/noVNC - VNC client using HTML5
-https://github.com/SchedMD/slurm - Slurm: A Highly Scalable Workload Manager
-https://github.com/jupyterhub/jupyterhub - Multi-user server for Jupyter notebooks
-https://github.com/portainer/portainer	 - Making Docker management easy
+* [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+* [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
+* [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
+* [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
+* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deplo
+* [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
+* [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
+* [Slurm](https://github.com/SchedMD/slurm - Slurm: A Highly Scalable Workload Manager
+* [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+* [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 
 #### Parallel Processing
-[dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
-[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
-[thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-[Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
+* [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
+* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+* [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+* [Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
 
 ### Annotation
-https://github.com/RMonica/rviz_cloud_annotation - Point cloud annotation tool based on RViz
-https://github.com/abreheret/PixelAnnotationTool - Annotate quickly images
-https://github.com/tzutalin/labelImg - LabelImg is a graphical image annotation tool and label object bounding boxes in images
+* [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
+* [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Annotate quickly images
+* [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 
 ### Visualization
-https://github.com/cruise-automation/webviz - web-based visualization libraries like rviz
-https://github.com/plotly/plotly.py - An open-source, interactive graphing library for Python
-https://github.com/facontidavide/PlotJuggler - The timeseries visualization tool that you deserve 
-https://github.com/bokeh/bokeh - Interactive Data Visualization in the browser, from Python
-https://github.com/voila-dashboards/voila - From Jupyter notebooks to standalone web applications and dashboards
-https://github.com/stevenlovegrove/Pangolin - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
-https://github.com/thebjorn/pydeps - Python Module Dependency graphs
+* [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
+* [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The timeseries visualization tool that you deserve 
+* [bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+* [voila](https://github.com/voila-dashboards/voila) - From Jupyter notebooks to standalone web applications and dashboards
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 
 #### Point Clouds
-https://github.com/CloudCompare/CloudCompare - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
-https://github.com/potree/potree - WebGL point cloud viewer for large datasets 
-https://github.com/googlecartographer/point_cloud_viewer - makes viewing massive point clouds easy and convenient
-https://github.com/Kitware/ParaView - VTK-based Data Analysis and Visualization Application
+* [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
+* [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
+* [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
+* [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 
 #### RVIZ 
-https://github.com/swri-robotics/mapviz - Modular ROS visualization tool for 2D data.
-https://github.com/AIS-Bonn/rviz_cinematographer - Easy to use tools to create and edit trajectories for the rviz camera.
-https://github.com/gareth-cross/rviz_satellite - Display internet satellite imagery in RViz
-https://github.com/PickNikRobotics/rviz_visual_tools - C++ API wrapper for displaying shapes and meshes in Rviz
-https://github.com/PickNikRobotics/tf_keyboard_cal - Allows manual control of a TF through the keyboard or interactive markers
+* [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
+* [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
+* [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
+* [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
+* [tf_keyboard_cal](https://github.com/PickNikRobotics/tf_keyboard_cal) - Allows manual control of a TF through the keyboard or interactive markers
 
 ## System
-https://github.com/hishamhm/htop
-https://github.com/Atoptool/atop
-https://github.com/giampaolo/psutil
-https://github.com/anderskm/gputil
-https://github.com/wookayin/gpustat
-https://github.com/Syllo/nvtop
+* [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+* [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function
+* [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+* [gputil](https://github.com/anderskm/gputil) - A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python
+* [gpustat](https://github.com/wookayin/gpustat) -  A simple command-line utility for querying and monitoring GPU status
+* [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+* [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 
 ## Operation System
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
@@ -323,51 +324,51 @@ https://github.com/Syllo/nvtop
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 
 ### Network 
-https://github.com/KimiNewt/pyshark - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
-https://github.com/laixintao/pingtop - Ping multiple servers and show results in a top-like terminal UI
-https://github.com/gcla/termshark - A terminal UI for tshark, inspired by Wireshark
-https://github.com/raboof/nethogs - It groups bandwidth by process
-https://github.com/ebroecker/canmatrix - Converting CAN Database Formats .arxml .dbc .dbf .kcd
-https://github.com/osxfuse/sshfs - File system based on the SSH File Transfer Protocol
-https://github.com/ApexAI/performance_test - Tool to test the performance of pub/sub based communication frameworks.
-https://github.com/appneta/tcpreplay - Pcap editing and replay tools
-https://github.com/esnet/iperf - A TCP, UDP, and SCTP network bandwidth measurement tool
-https://github.com/linux-can/can-utils - Linux-CAN / SocketCAN user space applications
-https://github.com/ros-industrial/ros_canopen - CANopen driver framework for ROS 
-https://github.com/JWhitleyAStuff/decanstructor - The definitive ROS CAN analysis tool.
+* [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
+* [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
+* [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+* [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
+* [canmmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+* [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
+* [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based communication frameworks.
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
+* [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
+* [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* [ros_canopen](https://github.com/ros-industrial/ros_canopen) - CANopen driver framework for ROS 
+* [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool.
 
 ### Debugging and Tracing
-https://github.com/khamidou/lptrace
-https://github.com/facebook/pyre-check
-https://github.com/brendangregg/FlameGraph
-https://github.com/mikesart/gpuvis
-https://github.com/google/sanitizers
-https://github.com/andreasfertig/cppinsights
+* [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
+* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) - Visualize profiled code
+* [gpuvis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer
+* [sanitizer](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+* [cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
+* [inspect](https://pymotw.com/2/inspect/) - The inspect module provides functions for learning about live objects, including modules, classes, instances, functions, and methods
 
 ### Security
-https://github.com/rfjakob/gocryptfs - Encrypted overlay filesystem written in Go
-https://github.com/imthenachoman/How-To-Secure-A-Linux-Server - An evolving how-to guide for securing a Linux server.
-https://github.com/CISOfy/lynis - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening
-https://github.com/WireGuard/WireGuard - WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography
-https://github.com/ncsa/ssh-auditor - Scans for weak ssh passwords on your network
-https://github.com/scipag/vulscan - Advanced vulnerability scanning with Nmap NSE
-https://github.com/vulnersCom/nmap-vulners - NSE script based on Vulners.com API
-https://github.com/x90skysn3k/brutespray - Automatically attempts default creds on found services.
-https://github.com/fail2ban/fail2ban - Daemon to ban hosts that cause multiple authentication errors 
-https://github.com/lirantal/is-website-vulnerable - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
-https://github.com/jeremylong/DependencyCheck - is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
-https://github.com/thebjorn/pydeps - Python Module Dependency graphs
+* [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
+* [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+* [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening
+* [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography
+* [ssh-auditor](https://github.com/ncsa/ssh-auditor) - Scans for weak ssh passwords on your network
+* [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
+* [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+* [brutespray](https://github.com/x90skysn3k/brutespray) - Automatically attempts default creds on found services.
+* [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors 
+* [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+* [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
+* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 
 ### Safety
-https://github.com/voyage/open-autonomous-safety - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
-https://github.com/udacity/CarND-Functional-Safety-Project - create functional safety documents udacity project
-https://github.com/stanislaw/awesome-safety-critical - List of resources about programming practices for writing safety-critical software.
-https://www.automotivelinux.org/ - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
-https://github.com/boostorg/safe_numerics - Replacements to standard numeric types which throw exceptions on errors
+* [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
+* [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - create functional safety documents udacity project
+* [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
+* [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
+* [safe_numerics](https://github.com/boostorg/safe_numerics) - Replacements to standard numeric types which throw exceptions on errors
 
 ### Real Time
-https://elinux.org/Realtime_Testing_Best_Practices - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems. In the first section, please upload or place links to presentations or documentsion on the subject of RT testing for linux.
-https://elisa.tech/ -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
-https://wiki.linuxfoundation.org/realtime/documentation/start - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
-https://github.com/eProsima/Fast-RTPS -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
-[spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
+* [Realtime_Testing_Best_Practices](https://elinux.org/Realtime_Testing_Best_Practices) - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems. In the first section, please upload or place links to presentations or documentsion on the subject of RT testing for linux.
+* [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
+* [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
