@@ -77,7 +77,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
-* [pydocstyle](https://github.com/PyCQA/pydocstyle)pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
+* [pydocstyle](https://github.com/PyCQA/pydocstyle) - pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
 
 
 ## Architecture and Design
