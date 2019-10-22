@@ -26,8 +26,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
     * [Lidar](#lidar)
     * [Camera](#camera)
     * [Static Maps](#static-maps)
-  * [Behavior and Decision](#behavior-and-decision)
-  * [Planning and Control](#planning-and-control)
+      * [Behavior and Decision](#behavior-and-decision)
+      * [Planning and Control](#planning-and-control)
  * [Data Interaction](#developer-interaction)
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
@@ -120,6 +120,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
  useful code completions for Python
 * [jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
 * [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
+* [pybind11](https://github.com/davidcaron/pclpy) - Seamless operability between C++11 and Python
 
 ### Build and Deploy
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
@@ -203,7 +204,7 @@ coordinate frames of mobile platforms used with ROS.
 * [DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
 * [SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
 * [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
-* [vision_opencv](https://github.com/ros-perception/vision_opencv) - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
+https://github.com/ros-perception/vision_opencv - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 
 #### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -236,7 +237,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
-* [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
+https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
