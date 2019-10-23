@@ -277,6 +277,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [tmuxp](https://github.com/tmux-python/tmuxp) -  tmux session manager. built on libtmux
 * [mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
 * [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
+* [bat](https://github.com/sharkdp/bat) A cat(1) clone with wings.
 
 ### Storage
 * [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
