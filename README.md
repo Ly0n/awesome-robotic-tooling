@@ -286,6 +286,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### High Performance Computing 
+* [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
 * [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 * [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
 * [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
