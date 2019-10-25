@@ -294,7 +294,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deplo
 * [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
 * [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
-* [Slurm](https://github.com/SchedMD/slurm - Slurm: A Highly Scalable Workload Manager
+* [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 
@@ -302,7 +302,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
 * [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
 * [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-* [Array]Firehttps://github.com/arrayfire/arrayfire - ArrayFire: a general purpose GPU library.
+* [ArrayFire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 
 ### Annotation
 * [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
