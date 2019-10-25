@@ -349,7 +349,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 
-### Network 
+### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -362,6 +362,8 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 * [ros_canopen](https://github.com/ros-industrial/ros_canopen) - CANopen driver framework for ROS 
 * [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool.
+* [ros1_bridge](https://github.com/ros2/ros1_bridge) -  ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2 
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
 
 ### Debugging and Tracing
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
@@ -396,7 +398,6 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [Realtime_Testing_Best_Practices](https://elinux.org/Realtime_Testing_Best_Practices) - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems. In the first section, please upload or place links to presentations or documentsion on the subject of RT testing for linux.
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
-* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
 
 ### Awesome
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
