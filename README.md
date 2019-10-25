@@ -231,6 +231,7 @@ coordinate frames of mobile platforms used with ROS.
 * [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
 * [cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
 * [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+* [YAG (Yet Another Graph) SLAM](https://github.com/safijari/yag-slam) - A python-first and extensible 2D and 2.5D LiDAR SLAM and Localization package born out of OpenKarto (VSLAM one day!)
 
 #### Camera
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
