@@ -252,6 +252,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - A path planning algorithm based on Hybrid A* for trailer truck.
 * [path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
+* [Open Source Car Control](https://github.com/PolySync/oscc) -  is an assemblage of software and hardware designs that enable computer control of modern cars in order to facilitate the development of autonomous vehicle technology
 
 ## Developer Interaction
 ### Graphical User Interface
