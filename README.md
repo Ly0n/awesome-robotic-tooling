@@ -390,6 +390,7 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
 * [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
+* [firejail](https://github.com/netblue30/firejail) - Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
 
 ### Safety
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
