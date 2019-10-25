@@ -414,3 +414,4 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 ### Awesome
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
+* [Papers with code](https://github.com/zziz/pwc) - Sorted by stars. Updated weekly.
