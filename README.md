@@ -284,10 +284,12 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
 * [bat](https://github.com/sharkdp/bat) A cat(1) clone with wings.
 
-### Storage
+### Storage and Record
 * [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
 * [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
 * [marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
+* [kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
+* [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### High Performance Computing 
