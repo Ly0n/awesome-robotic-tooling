@@ -202,6 +202,7 @@ coordinate frames of mobile platforms used with ROS.
 * [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 * [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [tensorflow_ros_cpp](https://github.com/tradr-project/tensorflow_ros_cpp) - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
+* [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 
 #### Image Processing
 * [visp](https://github.com/lagadic/visp) - Open Source Visual Servoing Platform
@@ -225,6 +226,7 @@ coordinate frames of mobile platforms used with ROS.
 * [CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
+* [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
 
 
 #### SLAM
@@ -361,6 +363,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
+* [rosserial](https://github.com/ros-drivers/rosserial) - A ROS client library for small, embedded devices, such as Arduino
 
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
