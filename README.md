@@ -224,6 +224,7 @@ coordinate frames of mobile platforms used with ROS.
 * [lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
 * [CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
+* [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 
 
 #### SLAM
