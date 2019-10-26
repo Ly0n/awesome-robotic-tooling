@@ -87,7 +87,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
 * [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format)
-
+* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
@@ -397,7 +397,6 @@ https://github.com/ethz-asl/segmap - A map representation based on 3D segments
 * [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors 
 * [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
-* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 * [firejail](https://github.com/netblue30/firejail) - Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
 
 ### Safety
