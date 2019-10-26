@@ -236,6 +236,7 @@ coordinate frames of mobile platforms used with ROS.
 * [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
 * [cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
 * [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+* [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 
 #### Camera
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
@@ -243,7 +244,6 @@ coordinate frames of mobile platforms used with ROS.
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 
 #### Static Maps
-* [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
