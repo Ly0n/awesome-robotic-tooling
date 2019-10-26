@@ -243,7 +243,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
-https://github.com/ethz-asl/segmap - A map representation based on 3D segments 
+* [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
