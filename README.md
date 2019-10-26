@@ -298,6 +298,7 @@ coordinate frames of mobile platforms used with ROS.
 * [kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
 * [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
+* [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 
 ### High Performance Computing 
 * [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
