@@ -289,7 +289,7 @@ coordinate frames of mobile platforms used with ROS.
 * [tmuxp](https://github.com/tmux-python/tmuxp) -  tmux session manager. built on libtmux
 * [mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
 * [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
-* [bat](https://github.com/sharkdp/bat) A cat(1) clone with wings.
+* [bat] - (https://github.com/sharkdp/bat) A cat(1) clone with wings.
 
 ### Storage and Record
 * [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
