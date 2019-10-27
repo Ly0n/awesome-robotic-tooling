@@ -250,7 +250,7 @@ coordinate frames of mobile platforms used with ROS.
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 * [rovio](https://github.com/ethz-asl/rovio) - Robust Visual Inertial Odometry Framework
 
-#### Static Maps
+#### Static Map
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
