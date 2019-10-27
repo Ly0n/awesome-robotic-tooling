@@ -7,47 +7,45 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Architecture and Design](#architecture-and-design)
 * [Framework](#framework)
 * [Development Environment](#development-environment)
-  * [Template](#template)
-  * [Code and Run](#code-and-run)
-  * [Build and Deploy](#build-and-deploy)
-  * [Unit and Integration Test](#unit-and-integration-test)
-  * [Lint and Format](#lint-and-format)
-  * [Version Control](#version-control)
- * [Hardware](#hardware)
- * [Calibration](#calibration)
- * [Simulation](#simulation)
- * [Application Layer](#application-layer)
-  * [Localization](#localization)
-  * [Sensor Processing](#sensor-processing)
-  * [Machine Learning](#machine-learning)
-  * [Image Processing](#image-processing)
-  * [Point Cloud Processing](#point-cloud-processing)
-  * [SLAM](#slam)
-    * [Lidar](#lidar)
-    * [Camera](#camera)
-    * [Static Maps](#static-maps)
-  * [Behavior and Decision](#behavior-and-decision)
-  * [Planning and Control](#planning-and-control)
- * [Data Interaction](#developer-interaction)
+   * [Template](#template)
+   * [Code and Run](#code-and-run)
+   * [Build and Deploy](#build-and-deploy)
+   * [Unit and Integration Test](#unit-and-integration-test)
+   * [Lint and Format](#lint-and-format)
+   * [Version Control](#version-control)
+* [Hardware](#hardware)
+   * [Calibration](#calibration)
+* [Simulation](#simulation)
+* [Localization](#localization)
+* [Sensor Processing](#sensor-processing)
+   * [Parallel Processing](#parallel-processing)
+   * [Machine Learning](#machine-learning)
+   * [Image Processing](#image-processing)
+   * [Point Cloud Processing](#point-cloud-processing)
+   * [SLAM](#slam)
+      * [Lidar](#lidar)
+      * [Camera](#camera)
+      * [Static Maps](#static-maps)
+* [Behavior and Decision](#behavior-and-decision)
+* [Planning and Control](#planning-and-control)
+* [Developer Interaction](#developer-interaction)
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
-   * [Storage](#storage)
+   * [Storage and Record](#storage-and-record)
+   * [Network Distributed File Systems](#network-distributed-file-systems)
    * [High Performance Computing](#high-performance-computing)
-     * [Parallel Processing](#parallel-processing)
    * [Annotation](#annotation)
    * [Visualization](#visualization)
-     * [Point Clouds](#point-clouds)
-     * [RVIZ](#rviz)
- * [System](#system)
+   * [Point Clouds](#point-clouds)
+   * [RVIZ](#rviz)
+* [System](#system)
    * [Operation System](#operation-system)
-   * [Network](#network)
+   * [Network and Middleware](#network-and-middleware)
    * [Debugging and Tracing](#debugging-and-tracing)
    * [Security](#security)
    * [Safety](#safety)
    * [Real Time](#real-time)
-
-----
-
+* [Awesome](#awesome)
 
 ## Coordination and Communication
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
@@ -92,7 +90,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
 * [ROS2](https://github.com/ros2/ros2) - ROS2 is the next generation robot operating system, and is actively being developed to fully replace ROS1 in the near future
-* [OpenPilot](https://github.com/commaai/openpilot) - Open Source Aaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
+* [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
 * [Apollo](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
 * [Autoware.ai](https://gitlab.com/autowarefoundation/autoware.ai) - Autoware.AI is the world's first "All-in-One" open-source software for autonomous driving technology
 * [AutowareAuto](https://autowareauto.gitlab.io/AutowareAuto/) - It is a clean slate rewrite of Autoware. Autoware.Auto applies best-in-class software engineering.
@@ -111,7 +109,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [vccode](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
 * [atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
 * [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
-* [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and gitlab to manage environments of per project development tools and optional volume images
+* [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and Gitlab to manage environments of per project development tools and optional volume images
 * [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
 * [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in 	
 * [ROS IDEs](http://wiki.ros.org/IDEs) - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
@@ -262,11 +260,11 @@ coordinate frames of mobile platforms used with ROS.
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 
 
-### Behavior and Decision
+## Behavior and Decision
 * [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
 * [RAFCON](https://github.com/DLR-RM/RAFCON) - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 
-### Planning and Control
+## Planning and Control
 * [rrt](https://github.com/RoboJackets/rrt) - C++ RRT (Rapidly-exploring Random Tree) implementation
 * [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - A path planning algorithm based on Hybrid A* for trailer truck.
 * [path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle
@@ -418,7 +416,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Safety
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
-* [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - create functional safety documents udacity project
+* [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - create functional safety documents Udacity project
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [safe_numerics](https://github.com/boostorg/safe_numerics) - Replacements to standard numeric types which throw exceptions on errors
 
