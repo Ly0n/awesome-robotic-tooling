@@ -237,7 +237,7 @@ coordinate frames of mobile platforms used with ROS.
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
-
+* [ira_laser_tools](https://github.com/iralabdisco/ira_laser_tools) - Tools for laser handling in ROS, in specific the Laserscan Multi Merger and the Laserscan Virtualizer tools.
 
 #### SLAM
 ##### Lidar
