@@ -149,6 +149,7 @@ compiler infrastructure project
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git 
 * [gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
+* [git-cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI
 * [python-gitlab](https://github.com/python-gitlab/python-gitlab) - is a Python package providing access to the GitLab server API.
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. 
