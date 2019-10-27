@@ -195,6 +195,12 @@ coordinate frames of mobile platforms used with ROS.
 ### Sensor Processing
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 
+#### Parallel Processing
+* [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
+* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+* [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+* [ArrayFire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
+
 #### Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
@@ -300,6 +306,11 @@ coordinate frames of mobile platforms used with ROS.
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 
+### Network Distributed File Systems
+* [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
+* [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
+* [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed
+
 ### High Performance Computing 
 * [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
 * [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -312,12 +323,6 @@ coordinate frames of mobile platforms used with ROS.
 * [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
-
-#### Parallel Processing
-* [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
-* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
-* [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-* [ArrayFire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 
 ### Annotation
 * [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
