@@ -346,7 +346,6 @@ coordinate frames of mobile platforms used with ROS.
 * [bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
 * [voila](https://github.com/voila-dashboards/voila) - From Jupyter notebooks to standalone web applications and dashboards
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
-* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 * [rqt_bag](http://wiki.ros.org/rqt_bag) - provides a GUI plugin for displaying and replaying ROS bag files.
 
 ### Point Clouds
