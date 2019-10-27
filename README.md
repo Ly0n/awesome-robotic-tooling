@@ -426,7 +426,7 @@ coordinate frames of mobile platforms used with ROS.
 * [safe_numerics](https://github.com/boostorg/safe_numerics) - Replacements to standard numeric types which throw exceptions on errors
 
 ### Real-Time
-* [Realtime Testing Best Practices](https://elinux.org/Realtime_Testing_Best_Practices) - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems. In the first section, please upload or place links to presentations or documentsion on the subject of RT testing for linux.
+* [Realtime Testing Best Practices](https://elinux.org/Realtime_Testing_Best_Practices) - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems.
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
