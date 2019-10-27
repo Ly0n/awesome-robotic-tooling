@@ -158,7 +158,7 @@ compiler infrastructure project
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
-* [URDF](https://github.com/ros/urdf) - Repository forUnified Robot Description Format (URDF) parsing code
+* [URDF](https://github.com/ros/urdf) - Repository for Unified Robot Description Format (URDF) parsing code
 * [urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
