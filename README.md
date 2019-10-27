@@ -58,7 +58,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
-* [Chronos - Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
+* [Chronos-Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
 * [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Gitlabs Issue triage policies
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
