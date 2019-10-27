@@ -49,7 +49,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Awesome](#awesome)
 
 ## Coordination and Communication
-* [Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  set of cultural norms for developing software
+* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  set of cultural norms for developing software
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
