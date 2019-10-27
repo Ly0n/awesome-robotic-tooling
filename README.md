@@ -17,6 +17,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Calibration](#calibration)
 * [Simulation](#simulation)
 * [Sensor Processing](#sensor-processing)
+   * [Pipeline](#pipeline)
    * [Localization](#localization)
    * [Parallel Processing](#parallel-processing)
    * [Machine Learning](#machine-learning)
@@ -188,7 +189,7 @@ compiler infrastructure project
 
 ## Sensor Processing
 
-## Pipline
+## Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 
 ## Localization
