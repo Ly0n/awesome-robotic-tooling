@@ -253,6 +253,8 @@ coordinate frames of mobile platforms used with ROS.
 * [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
 * [rovio](https://github.com/ethz-asl/rovio) - Robust Visual Inertial Odometry Framework
+* [MIT Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - C++ library for real-time metric-semantic visual-inertial Simultaneous Localization And Mapping (SLAM)
+* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) - LSD-SLAM: Large-Scale Direct Monocular SLAM is a real-time monocular SLAM 
 
 #### Static Map
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
@@ -262,11 +264,6 @@ coordinate frames of mobile platforms used with ROS.
 * [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
-
-#### State of Art Algorithms 
-* [MIT Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - C++ library for real-time metric-semantic visual-inertial Simultaneous Localization And Mapping (SLAM) ([Article](https://arxiv.org/abs/1910.02490))
-* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) - LSD-SLAM: Large-Scale Direct Monocular SLAM is a real-time monocular SLAM ([Official Page](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1))
-
 
 ## Behavior and Decision
 * [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
