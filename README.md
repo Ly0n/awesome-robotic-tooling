@@ -217,6 +217,7 @@ compiler infrastructure project
 * [darknet_ros](https://github.com/leggedrobotics/darknet_ros) - YOLO ROS: Real-Time Object Detection for ROS
 * [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
 * [find-object](https://github.com/introlab/find-object) - Simple Qt interface to try OpenCV implementations of SIFT, SURF, FAST, BRIEF and other feature detectors and descriptors
+* [yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
 
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
