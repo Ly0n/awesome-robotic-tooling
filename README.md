@@ -78,6 +78,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
 * [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
+* [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 
 
 ## Architecture and Design
