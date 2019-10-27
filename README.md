@@ -370,6 +370,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 * [rosserial](https://github.com/ros-drivers/rosserial) - A ROS client library for small, embedded devices, such as Arduino
+* [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications
 
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
