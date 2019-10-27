@@ -61,7 +61,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Chronos-Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
 * [Issue Gitlab Good Practice](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) - Gitlabs Issue triage policies
-* [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 
 ## Documentation and Presentation
@@ -152,6 +151,7 @@ compiler infrastructure project
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. 
 * [Semantic Versioning 2.0.0](https://semver.org/) - a simple set of rules and requirements that dictate how version numbers are assigned and incremented
+* [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
