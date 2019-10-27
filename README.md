@@ -189,7 +189,7 @@ compiler infrastructure project
 
 ## Sensor Processing
 
-## Pipeline
+### Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 
 ### Parallel Processing
