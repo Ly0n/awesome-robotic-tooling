@@ -18,11 +18,11 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Simulation](#simulation)
 * [Sensor Processing](#sensor-processing)
    * [Pipeline](#pipeline)
-   * [Localization](#localization)
    * [Parallel Processing](#parallel-processing)
    * [Machine Learning](#machine-learning)
    * [Image Processing](#image-processing)
    * [Point Cloud Processing](#point-cloud-processing)
+   * [Localization](#localization)
    * [SLAM](#slam)
       * [Lidar](#lidar)
       * [Camera](#camera)
@@ -192,17 +192,6 @@ compiler infrastructure project
 ## Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 
-## Localization
-* [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
-* [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
-* [fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
-robot.
-* [rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
-coordinate frames of mobile platforms used with ROS.
-* [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
-* [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
-* [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
-
 ### Parallel Processing
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
 * [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
@@ -242,6 +231,17 @@ coordinate frames of mobile platforms used with ROS.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
 * [ira_laser_tools](https://github.com/iralabdisco/ira_laser_tools) - Tools for laser handling in ROS, in specific the Laserscan Multi Merger and the Laserscan Virtualizer tools.
+
+## Localization
+* [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
+* [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
+* [fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
+robot.
+* [rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
+coordinate frames of mobile platforms used with ROS.
+* [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
+* [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
+* [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 
 ### SLAM
 #### Lidar
