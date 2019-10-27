@@ -183,6 +183,7 @@ compiler infrastructure project
 * [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
 * [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
 * [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
+* [VREP Interface](http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm) - ROS Bridge for the VREP simulator 
 
 ## Sensor Processing
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
@@ -236,7 +237,7 @@ coordinate frames of mobile platforms used with ROS.
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
-
+* [ira_laser_tools](https://github.com/iralabdisco/ira_laser_tools) - Tools for laser handling in ROS, in specific the Laserscan Multi Merger and the Laserscan Virtualizer tools.
 
 ### SLAM
 #### Lidar
@@ -261,6 +262,10 @@ coordinate frames of mobile platforms used with ROS.
 * [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+
+#### State of Art Algorithms 
+* [MIT Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - C++ library for real-time metric-semantic visual-inertial Simultaneous Localization And Mapping (SLAM) ([Article](https://arxiv.org/abs/1910.02490))
+* [LSD-SLAM](https://github.com/tum-vision/lsd_slam) - LSD-SLAM: Large-Scale Direct Monocular SLAM is a real-time monocular SLAM ([Official Page](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1))
 
 
 ## Behavior and Decision
