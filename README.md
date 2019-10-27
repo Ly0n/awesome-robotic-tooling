@@ -244,7 +244,7 @@ coordinate frames of mobile platforms used with ROS.
 * [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 * [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 
-#### Camera
+##### Camera
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
 * [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
