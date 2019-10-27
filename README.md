@@ -28,7 +28,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
       * [Static Maps](#static-maps)
 * [Behavior and Decision](#behavior-and-decision)
 * [Planning and Control](#planning-and-control)
-* [Developer Interaction](#developer-interaction)
+* [Data Interaction](#data-interaction)
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
    * [Storage and Record](#storage-and-record)
@@ -271,7 +271,7 @@ coordinate frames of mobile platforms used with ROS.
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
 * [Open Source Car Control](https://github.com/PolySync/oscc) -  is an assemblage of software and hardware designs that enable computer control of modern cars in order to facilitate the development of autonomous vehicle technology
 
-## Developer Interaction
+## Data Interaction
 ### Graphical User Interface
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
 * [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
