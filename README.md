@@ -244,6 +244,7 @@ coordinate frames of mobile platforms used with ROS.
 * [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
+* [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
 
 ### SLAM
 #### Lidar
