@@ -360,7 +360,7 @@ coordinate frames of mobile platforms used with ROS.
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
 * [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 
-### RVIZ 
+### RViz 
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
