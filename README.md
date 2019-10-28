@@ -109,6 +109,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
 * [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
+* [ADE](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - is a modular Docker-based tool to ensure that all developers in a project have a common, consistent development environment
 
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
