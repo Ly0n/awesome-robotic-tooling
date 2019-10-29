@@ -62,7 +62,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
 * [Chronos-Timetracker](https://github.com/web-pal/chronos-timetracker)  - Desktop client for JIRA. Track time, upload worklogs without a hassle
 * [Grge](https://gitlab.com/ApexAI/grge) - Grge is a daemon and command line utility augmenting GitLab
-* [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops) - Triage operations for GitLab issues and merge requests
+* [gitlab-triage](https://gitlab.com/gitlab-org/gitlab-triage) - GitLab's issues and merge requests triage, automated!
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 
 ## Documentation and Presentation
