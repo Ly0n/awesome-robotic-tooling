@@ -38,7 +38,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Annotation](#annotation)
    * [Visualization](#visualization)
    * [Point Clouds](#point-clouds)
-   * [RVIZ](#rviz)
+   * [RViz](#rviz)
 * [System](#system)
    * [Operation System](#operation-system)
    * [Network and Middleware](#network-and-middleware)
