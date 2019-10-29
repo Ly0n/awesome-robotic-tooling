@@ -235,7 +235,6 @@ compiler infrastructure project
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
-* [ira_laser_tools](https://github.com/iralabdisco/ira_laser_tools) - Tools for laser handling in ROS, in specific the Laserscan Multi Merger and the Laserscan Virtualizer tools.
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -389,6 +388,7 @@ coordinate frames of mobile platforms used with ROS.
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
 * [rosserial](https://github.com/ros-drivers/rosserial) - A ROS client library for small, embedded devices, such as Arduino
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications
+* [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
