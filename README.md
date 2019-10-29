@@ -112,7 +112,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
-* [vccode](https://github.com/Microsoft/vscode) - Code editor with for edit-build-debug cycle.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
 * [atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
 * [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and Gitlab to manage environments of per project development tools and optional volume images
