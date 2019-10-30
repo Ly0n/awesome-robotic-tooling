@@ -407,6 +407,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
 * [ptpd](https://github.com/ptpd/ptpd) - PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. PTP provides precise time coordination of Ethernet LAN connected computers
 * [wireless](https://github.com/clearpathrobotics/wireless) - Making info about wireless networks available to ROS.
+* [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format 
 
 ### Debugging and Tracing
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
