@@ -75,6 +75,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [DeepL](https://github.com/uinput/deeplator) - DeepL, an online translator that outperforms Google, Microsoft and Facebook
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
+* [inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
 * [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
