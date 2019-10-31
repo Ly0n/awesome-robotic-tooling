@@ -330,6 +330,7 @@ coordinate frames of mobile platforms used with ROS.
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed
 
 ### High Performance Computing 
+* [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
 * [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
 * [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 * [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
