@@ -161,7 +161,7 @@ compiler infrastructure project
 * [python-gitlab](https://github.com/python-gitlab/python-gitlab) - is a Python package providing access to the GitLab server API.
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. 
-* [Semantic Versioning 2.0.0](https://semver.org/) - a simple set of rules and requirements that dictate how version numbers are assigned and incremented
+* [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 
 ## Hardware
