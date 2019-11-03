@@ -298,7 +298,7 @@ coordinate frames of mobile platforms used with ROS.
 * [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
 * [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
-* [cage](https://github.com/Hjdskes/cage) This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
+* [cage](https://github.com/Hjdskes/cage) - This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
 * [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 
 ### Command Line
