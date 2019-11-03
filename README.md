@@ -330,6 +330,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 
 ### Network Distributed File Systems
+* [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 * [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed
@@ -402,7 +403,6 @@ coordinate frames of mobile platforms used with ROS.
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 * [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
 * [canmmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
-* [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 * [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based communication frameworks.
 * [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
 * [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
