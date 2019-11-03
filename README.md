@@ -49,7 +49,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Awesome](#awesome)
 
 ## Coordination and Communication
-* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  set of cultural norms for developing software
+* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
