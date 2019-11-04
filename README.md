@@ -264,6 +264,7 @@ coordinate frames of mobile platforms used with ROS.
 * [cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer
 * [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 * [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+* [semantic_suma](https://github.com/PRBonn/semantic_suma/) - Semantic Mapping using Surfel Mapping and Semantic Segmentation
 
 
 #### Camera
