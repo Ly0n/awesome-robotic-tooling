@@ -352,9 +352,10 @@ coordinate frames of mobile platforms used with ROS.
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 * [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
-* [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed
+* [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
 ### High Performance Computing 
+* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
 * [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
 * [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
