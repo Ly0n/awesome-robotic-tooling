@@ -243,6 +243,7 @@ compiler infrastructure project
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) - Robot-centric elevation mapping for rough terrain navigation
+* [rangenet_lib](https://github.com/PRBonn/rangenet_lib) - contains simple usage explanations of how the RangeNet++ inference works with the TensorRT and C++ interface.
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
