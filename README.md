@@ -15,6 +15,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Unit and Integration Test](#unit-and-integration-test)
    * [Lint and Format](#lint-and-format)
    * [Version Control](#version-control)
+   * [Launch and Monitor](#launch-and-monitor]
 * [Hardware](#hardware)
    * [Calibration](#calibration)
 * [Simulation](#simulation)
