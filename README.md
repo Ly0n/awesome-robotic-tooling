@@ -158,6 +158,9 @@ compiler infrastructure project
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
 * [haros](https://github.com/git-afsantos/haros) - H(igh) A(ssurance) ROS - Static analysis of ROS application code. 
 
+### Launch and Monitor
+* [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon 
+
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git 
