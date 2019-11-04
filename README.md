@@ -55,6 +55,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
+* [DeepL](https://github.com/uinput/deeplator) - DeepL, an online translator that outperforms Google, Microsoft and Facebook
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
@@ -76,7 +77,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for spell checking
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
-* [DeepL](https://github.com/uinput/deeplator) - DeepL, an online translator that outperforms Google, Microsoft and Facebook
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
 * [inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS
