@@ -431,7 +431,7 @@ coordinate frames of mobile platforms used with ROS.
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 * [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
-* [canmmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based communication frameworks.
 * [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
 * [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
