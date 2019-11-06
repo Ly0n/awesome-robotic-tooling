@@ -144,6 +144,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
 compiler infrastructure project
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - Bundle python requirements in a catkin package via virtualenv 
+* [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool 
 
 ### Unit and Integration Test
 * [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
