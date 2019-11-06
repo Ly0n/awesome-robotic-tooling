@@ -154,6 +154,7 @@ compiler infrastructure project
 
 ### Lint and Format
 * [cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
+* [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell 
 * [shellcheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts 
 * [catkin_lint](https://github.com/fkie/catkin_lint) - catkin_lint checks package configurations for the catkin build system of ROS.
 * [pylint](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
