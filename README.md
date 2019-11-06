@@ -368,7 +368,7 @@ coordinate frames of mobile platforms used with ROS.
 * [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
 * [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
 * [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
-* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deplo
+* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
 * [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
 * [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
 * [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
