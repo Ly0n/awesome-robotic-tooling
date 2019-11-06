@@ -86,6 +86,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. 
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
+* [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
 
 
 ## Architecture and Design
