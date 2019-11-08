@@ -302,6 +302,7 @@ coordinate frames of mobile platforms used with ROS.
 * [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) - is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. 
 
 ## Behavior and Decision
 * [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
