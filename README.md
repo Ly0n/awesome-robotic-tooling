@@ -243,6 +243,8 @@ compiler infrastructure project
 * [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
 * [find-object](https://github.com/introlab/find-object) - Simple Qt interface to try OpenCV implementations of SIFT, SURF, FAST, BRIEF and other feature detectors and descriptors
 * [yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
+* [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
+* [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
 
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
