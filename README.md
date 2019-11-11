@@ -491,7 +491,6 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Real-Time
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
-
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
