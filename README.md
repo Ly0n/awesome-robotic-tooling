@@ -333,6 +333,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Command Line
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
+* [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
 * [prompt-hjem](https://github.com/cornerman/prompt-hjem) - A beautiful zsh prompt
 * [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
@@ -490,7 +491,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Real-Time
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
-* [Realtime Testing Best Practices](https://elinux.org/Realtime_Testing_Best_Practices) - This page is intended to serve as a collecting point for presentations, documents, results, links and descriptions about testing Realtime performance of Linux systems.
+
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
