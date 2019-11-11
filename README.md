@@ -146,6 +146,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 compiler infrastructure project
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - Bundle python requirements in a catkin package via virtualenv 
 * [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool 
+* [cross_compile](https://github.com/ros-tooling/cross_compile) - Assets used for ROS2 cross-compilation 
 
 ### Unit and Integration Test
 * [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
