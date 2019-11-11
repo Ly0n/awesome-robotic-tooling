@@ -399,14 +399,15 @@ coordinate frames of mobile platforms used with ROS.
 * [qgis_ros](https://github.com/locusrobotics/qgis_ros) - Access bagged and live topic data in a highly featured GIS environment
 * [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats 
+* [rvizweb](https://github.com/osrf/rvizweb) - RVizWeb provides a convenient way of building and launching a web application with features similar to RViz
 
-### Point Clouds
+#### Point Clouds
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
 * [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 
-### RViz 
+#### RViz 
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
