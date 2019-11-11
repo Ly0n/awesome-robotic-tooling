@@ -166,6 +166,7 @@ compiler infrastructure project
 
 ### Launch and Monitor
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon 
+* [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes
 
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
