@@ -298,6 +298,7 @@ coordinate frames of mobile platforms used with ROS.
 * [LSD-SLAM](https://github.com/tum-vision/lsd_slam) - LSD-SLAM: Large-Scale Direct Monocular SLAM is a real-time monocular SLAM 
 * [CubeSLAM and ORB SLAM](https://github.com/shichaoy/cube_slam) - Monocular 3D Object Detection and SLAM Package of CubeSLAM and ORB SLAM
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - A Robust and Versatile Multi-Sensor Visual-Inertial State Estimator
+* [openvslam](https://github.com/xdspacelab/openvslam)
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
