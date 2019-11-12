@@ -442,25 +442,24 @@ coordinate frames of mobile platforms used with ROS.
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 
 ### Network and Middleware
-* [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors             
-* [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI             
-* [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark             
-* [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process             
-* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd             
-* [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based              communication frameworks.             
-* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools             
-* [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool             
-* [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications             
-* [ros_canopen](https://github.com/ros-industrial/ros_canopen) - CANopen driver framework for ROS              
-* [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool.             
-* [ros1_bridge](https://github.com/ros2/ros1_bridge) -  ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2              
-* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium             
-* [ptpd](https://github.com/ptpd/ptpd) - PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. PTP provides precise time coordination of Ethernet LAN connected computers             
-* [wireless](https://github.com/clearpathrobotics/wireless) - Making info about wireless networks available to ROS.             
-* [wavemon](https://github.com/uoaerg/wavemon) - is an ncurses-based monitoring application for wireless network devices             
-
-* [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format              
-* [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces              
+* [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
+* [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
+* [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+* [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
+* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+* [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based              communication frameworks.
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
+* [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
+* [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* [ros_canopen](https://github.com/ros-industrial/ros_canopen) - CANopen driver framework for ROS
+* [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool.
+* [ros1_bridge](https://github.com/ros2/ros1_bridge) -  ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
+* [ptpd](https://github.com/ptpd/ptpd) - PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. PTP provides precise time coordination of Ethernet LAN connected computers
+* [wireless](https://github.com/clearpathrobotics/wireless) - Making info about wireless networks available to ROS.
+* [wavemon](https://github.com/uoaerg/wavemon) - is an ncurses-based monitoring application for wireless network devices
+* [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
+* [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
 
 ### Debugging and Tracing
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
