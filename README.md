@@ -219,6 +219,7 @@ compiler infrastructure project
 ### Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 * [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
+* [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 
 ### Parallel Processing
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
@@ -233,7 +234,6 @@ compiler infrastructure project
 * [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 * [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [tensorflow_ros_cpp](https://github.com/tradr-project/tensorflow_ros_cpp) - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
-* [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 
 ### Image Processing
 * [vision_visp](https://github.com/lagadic/vision_visp) - Wraps the ViSP moving edge tracker provided by the ViSP visual servoing library into a ROS package
