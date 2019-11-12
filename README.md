@@ -332,6 +332,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
 * [cage](https://github.com/Hjdskes/cage) - This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
 * [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
+* [pencil](https://github.com/evolus/pencil) - tool for making diagrams and GUI prototyping that everyone can use.
 
 ### Command Line
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
