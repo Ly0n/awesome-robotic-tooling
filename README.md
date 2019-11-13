@@ -323,6 +323,7 @@ coordinate frames of mobile platforms used with ROS.
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
 * [Open Source Car Control](https://github.com/PolySync/oscc) -  is an assemblage of software and hardware designs that enable computer control of modern cars in order to facilitate the development of autonomous vehicle technology
 * [fastrack](https://github.com/HJReachability/fastrack) - A ROS implementation of Fast and Safe Tracking (FaSTrack).
+* [commonroad](https://commonroad.in.tum.de/) - Composable benchmarks for motion planning on roads
 
 
 ## Data Interaction
