@@ -251,7 +251,7 @@ compiler infrastructure project
 * [yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
 * [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
 * [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
-* [openvx](https://www.khronos.org/openvx/) - OpenVX enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases 
+* [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases 
 
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
