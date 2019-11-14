@@ -125,7 +125,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and Gitlab to manage environments of per project development tools and optional volume images
 * [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
-* [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in 	
+* [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in for Python
+* [xeus-cling](https://github.com/QuantStack/xeus-cling) - Jupyter kernel for the C++ programming language 
 * [ROS IDEs](http://wiki.ros.org/IDEs) - This page collects experience and advice on using integrated development environments (IDEs) with ROS.
 * [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter
 * [kite](https://kite.com/) - Use machine learning to give you 
