@@ -397,7 +397,7 @@ coordinate frames of mobile platforms used with ROS.
 * [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 
-### Visualization
+### Visualization and Mission Control
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
 * [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The timeseries visualization tool that you deserve 
@@ -410,6 +410,7 @@ coordinate frames of mobile platforms used with ROS.
 * [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats 
 * [rvizweb](https://github.com/osrf/rvizweb) - RVizWeb provides a convenient way of building and launching a web application with features similar to RViz
+* [marvros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station 
 
 #### Point Clouds
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
