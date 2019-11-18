@@ -272,6 +272,7 @@ compiler infrastructure project
 * [rangenet_lib](https://github.com/PRBonn/rangenet_lib) - contains simple usage explanations of how the RangeNet++ inference works with the TensorRT and C++ interface.
 * [pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) - Converts a 3D Point Cloud into a 2D laser scan.
 * [octomap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees
+* [pptk](https://github.com/heremaps/pptk) - Point Processing Toolkit from HEREMaps
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
