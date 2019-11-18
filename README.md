@@ -399,6 +399,7 @@ coordinate frames of mobile platforms used with ROS.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Annotate quickly images
 * [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
+* [point_labeler](https://github.com/jbehley/point_labeler) - Tool for labeling of a single point clouds or a stream of point clouds
 
 ### Visualization and Mission Control
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
