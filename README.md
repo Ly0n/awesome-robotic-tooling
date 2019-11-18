@@ -470,6 +470,7 @@ coordinate frames of mobile platforms used with ROS.
 * [wavemon](https://github.com/uoaerg/wavemon) - is an ncurses-based monitoring application for wireless network devices
 * [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
 * [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
+* [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
 
 ### Debugging and Tracing
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
