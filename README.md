@@ -135,6 +135,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
 * [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
 * [pybind11](https://github.com/davidcaron/pclpy) - Seamless operability between C++11 and Python
+* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - free and open-source cross-platform source explorer
 
 ### Build and Deploy
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
