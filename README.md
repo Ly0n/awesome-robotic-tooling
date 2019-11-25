@@ -73,7 +73,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 
 
 
-
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
@@ -192,6 +191,7 @@ compiler infrastructure project
 * [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
 * [go-semrel-gitab](https://gitlab.com/juhani/go-semrel-gitlab) - Automate version management for Gitlab
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
+* [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
