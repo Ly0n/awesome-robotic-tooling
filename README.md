@@ -68,6 +68,11 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [gitlab-triage](https://gitlab.com/gitlab-org/gitlab-triage) - GitLab's issues and merge requests triage, automated!
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
+* [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
+
+
+
+
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
