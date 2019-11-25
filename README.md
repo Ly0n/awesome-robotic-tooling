@@ -1,4 +1,4 @@
-# Awesome Robotic Tooling ![Awesome]
+# Awesome Robotic Tooling
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
