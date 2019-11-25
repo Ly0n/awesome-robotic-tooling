@@ -156,6 +156,10 @@ compiler infrastructure project
 * [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool 
 * [cross_compile](https://github.com/ros-tooling/cross_compile) - Assets used for ROS2 cross-compilation 
 * [docker_images](https://github.com/osrf/docker_images) - Official Docker images maintained by OSRF on ROS(2) and Gazebo
+* [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
+* [robot_systemd](http://docs.ros.org/kinetic/api/robot_systemd/html/#) - units for managing startup and shutdown of roscore and roslaunch
+* [ryo-iso](https://ryo-iso.readthedocs.io/en/latest/) - is a modern ISO builder that streamlines the process of deploying a complete robot operating system from a yaml config file
+* [network_autoconfig](http://docs.ros.org/kinetic/api/network_autoconfig/html/) - automatic configuration of ROS networking for most use cases without impacting usage that require manual configuration.
 
 ### Unit and Integration Test
 * [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
@@ -450,7 +454,6 @@ coordinate frames of mobile platforms used with ROS.
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
 * [ROSBerryPI](http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi) - Installing ROS Kinetic on the Raspberry Pi
-* [robot_upstart](https://github.com/clearpathrobotics/robot_upstart) - presents a suite of scripts to assist with launching background ROS processes on Ubuntu Linux PCs
 * [bitbake](https://github.com/openembedded/bitbake) - is a generic task execution engine that allows shell and Python tasks to be run efficiently and in parallel while working within complex inter-task dependency constraints.
 * [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
@@ -459,8 +462,6 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
-* [robot_systemd](http://docs.ros.org/kinetic/api/robot_systemd/html/#) - units for managing startup and shutdown of roscore and roslaunch
-* [ryo-iso](https://ryo-iso.readthedocs.io/en/latest/) - is a modern ISO builder that streamlines the process of deploying a complete robot operating system from a yaml config file
 
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
