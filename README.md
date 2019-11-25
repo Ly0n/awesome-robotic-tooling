@@ -470,6 +470,7 @@ coordinate frames of mobile platforms used with ROS.
 * [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based              communication frameworks.
+* [realtime_support](https://github.com/ros2/realtime_support) - Minimal real-time testing utility for measuring jitter and latency.
 * [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
 * [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
 * [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
