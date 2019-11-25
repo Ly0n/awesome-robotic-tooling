@@ -459,6 +459,7 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
+* [robot_systemd](http://docs.ros.org/kinetic/api/robot_systemd/html/#) - units for managing startup and shutdown of roscore and roslaunch
 
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
