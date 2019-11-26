@@ -70,9 +70,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
 * [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
 
-
-
-
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
 * [Markor](https://github.com/gsantner/markor) - A Simple Markdown Editor for your Android Device
@@ -90,7 +87,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. 
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
-
 
 ## Architecture and Design
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
@@ -200,6 +196,7 @@ compiler infrastructure project
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
 * [kicad](http://www.kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
+* [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams
 
 ### Calibration
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
@@ -297,6 +294,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
+* [mola](https://github.com/MOLAorg/mola) - is a Modular system for Localization and Mapping
 
 ### SLAM
 #### Lidar
