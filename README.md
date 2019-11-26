@@ -199,6 +199,7 @@ compiler infrastructure project
 * [urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
+* [kicad](http://www.kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
 
 ### Calibration
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
