@@ -229,6 +229,7 @@ compiler infrastructure project
 * [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
 * [ESIM](https://github.com/uzh-rpg/rpg_esim/) - an Open Event Camera Simulator
 * [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
+* [pedsim_ros](https://github.com/srl-freiburg/pedsim_ros) - Pedestrian simulator powered by the social force model for Gazebo
 
 ## Sensor Processing
 ### Pipeline
