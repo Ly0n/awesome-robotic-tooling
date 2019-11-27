@@ -228,6 +228,7 @@ compiler infrastructure project
 * [sumo](https://github.com/eclipse/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks
 * [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
 * [ESIM](https://github.com/uzh-rpg/rpg_esim/) - an Open Event Camera Simulator
+* [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
 
 ## Sensor Processing
 ### Pipeline
