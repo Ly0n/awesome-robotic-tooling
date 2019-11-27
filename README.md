@@ -197,6 +197,7 @@ compiler infrastructure project
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
 * [kicad](http://www.kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams
+* [PandaPower](http://www.pandapower.org) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 
 ### Calibration
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
