@@ -123,6 +123,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
 * [atom](https://github.com/atom/atom) - Hackable text editor for the 21st century
+* [Teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 * [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and Gitlab to manage environments of per project development tools and optional volume images
 * [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
