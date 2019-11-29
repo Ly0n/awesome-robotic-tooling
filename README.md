@@ -268,6 +268,7 @@ compiler infrastructure project
 * [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
 * [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
 * [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases
+* [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds 
 
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
