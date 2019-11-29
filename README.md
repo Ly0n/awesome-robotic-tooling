@@ -492,6 +492,7 @@ coordinate frames of mobile platforms used with ROS.
 * [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
 
 ### Debugging and Tracing
+* [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
 * [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) - Visualize profiled code
@@ -524,8 +525,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [safe_numerics](https://github.com/boostorg/safe_numerics) - Replacements to standard numeric types which throw exceptions on errors
 
-### Real-Time
-* [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
+### Real-Time Kernels
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
