@@ -48,7 +48,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Debugging and Tracing](#debugging-and-tracing)
    * [Security](#security)
    * [Safety](#safety)
-   * [Real-Time](#real-time)
+   * [Real-Time Kernels](#real-time-kernels)
 * [Awesome](#awesome)
 
 ## Coordination and Communication
