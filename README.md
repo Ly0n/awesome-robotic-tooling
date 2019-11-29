@@ -469,6 +469,10 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 
+### Real-Time Kernels
+* [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
+* [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
+
 ### Network and Middleware
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
@@ -524,10 +528,6 @@ coordinate frames of mobile platforms used with ROS.
 * [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - Create functional safety documents in this Udacity project
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [safe_numerics](https://github.com/boostorg/safe_numerics) - Replacements to standard numeric types which throw exceptions on errors
-
-### Real-Time Kernels
-* [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
-* [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
 ## Awesome
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
