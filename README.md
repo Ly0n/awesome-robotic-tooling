@@ -142,6 +142,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
 * [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
 * [industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories
+* [ros_gitlab_ci](https://gitlab.com/VictorLamoine/ros_gitlab_ci) - contains helper scripts and instructions on how to use Continuous Integration (CI) for ROS projects hosted on a GitLab instance.
 * [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  runs tests and sends the results to GitLab
 * [colcon-core](https://github.com/colcon/colcon-core) - command line tool to improve the workflow of building, testing and using multiple software packages
 * [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
