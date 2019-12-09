@@ -422,6 +422,7 @@ coordinate frames of mobile platforms used with ROS.
 * [point_labeler](https://github.com/jbehley/point_labeler) - Tool for labeling of a single point clouds or a stream of point clouds
 
 ### Visualization and Mission Control
+* [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
 * [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The timeseries visualization tool that you deserve 
