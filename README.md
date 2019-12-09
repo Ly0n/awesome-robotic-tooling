@@ -391,6 +391,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
+* [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
 
 ### Network Distributed File Systems
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
