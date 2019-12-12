@@ -87,6 +87,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. 
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 ## Architecture and Design
 * [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
