@@ -521,6 +521,7 @@ coordinate frames of mobile platforms used with ROS.
 * [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 * [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - is an open source VPN daemon
+* [openfortivpn](https://github.com/adrienverge/openfortivpn) - openfortivpn is a client for PPP+SSL VPN tunnel services and compatible with Fortinet VPNs
 * [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography
 * [ssh-auditor](https://github.com/ncsa/ssh-auditor) - Scans for weak ssh passwords on your network
 * [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
