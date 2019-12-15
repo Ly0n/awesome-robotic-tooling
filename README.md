@@ -69,6 +69,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
 * [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
+* [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
