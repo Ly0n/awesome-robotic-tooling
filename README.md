@@ -398,6 +398,7 @@ coordinate frames of mobile platforms used with ROS.
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 * [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
+* [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
 
 ### Network Distributed File Systems
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
