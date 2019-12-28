@@ -102,8 +102,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [aztarna](https://github.com/aliasrobotics/aztarna) -  a footprinting tool for robots.
 * [draw.io](https://www.draw.io/) - is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams 
 
-
-
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
 * [ROS2](https://github.com/ros2/ros2) - ROS2 is the next generation robot operating system, and is actively being developed to fully replace ROS1 in the near future
@@ -547,3 +545,4 @@ coordinate frames of mobile platforms used with ROS.
 ## Awesome
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
+* [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
