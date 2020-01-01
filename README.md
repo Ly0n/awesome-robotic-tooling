@@ -144,6 +144,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 
 ### Build and Deploy
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
+* [superflore](https://github.com/ros-infrastructure/superflore) - An extended platform release manager for Robot Operating System    
 * [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
 * [industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories
 * [ros_gitlab_ci](https://gitlab.com/VictorLamoine/ros_gitlab_ci) - contains helper scripts and instructions on how to use Continuous Integration (CI) for ROS projects hosted on a GitLab instance.
