@@ -258,6 +258,7 @@ compiler infrastructure project
 * [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 * [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [tensorflow_ros_cpp](https://github.com/tradr-project/tensorflow_ros_cpp) - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
+* [Tensorflow Federated](https://github.com/tensorflow/federated) - TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data
 
 ### Image Processing
 * [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) -  provides a ROS-adaptered runtime framework of neural network which quickly deploys applications and solutions for vision inference
