@@ -458,7 +458,8 @@ coordinate frames of mobile platforms used with ROS.
 * [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
 * [tf_keyboard_cal](https://github.com/PickNikRobotics/tf_keyboard_cal) - Allows manual control of a TF through the keyboard or interactive markers
 
-## System
+## System 
+### Monitoring
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function
 * [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
@@ -468,7 +469,7 @@ coordinate frames of mobile platforms used with ROS.
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
 
-### Operation System
+### Embedded Operation Systems
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
 * [ROSBerryPI](http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi) - Installing ROS Kinetic on the Raspberry Pi
@@ -481,7 +482,7 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 
-#### Real-Time Kernels
+### Real-Time Kernels
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
