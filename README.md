@@ -408,6 +408,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 * [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
 * [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
+* [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 
 ### Network Distributed File Systems
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
