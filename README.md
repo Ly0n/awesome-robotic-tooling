@@ -264,6 +264,7 @@ compiler infrastructure project
 ### Image Processing
 * [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) -  provides a ROS-adaptered runtime framework of neural network which quickly deploys applications and solutions for vision inference
 * [vision_visp](https://github.com/lagadic/vision_visp) - Wraps the ViSP moving edge tracker provided by the ViSP visual servoing library into a ROS package
+* [apriltag_ros](https://github.com/AprilRobotics/apriltag_ros) - A ROS wrapper of the AprilTag 3 visual fiducial detector
 * [deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - Deep Object Pose Estimation
 * [DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - Detect-and-Track: Efficient Pose
 * [SfMLearner](https://github.com/tinghuiz/SfMLearner) - An unsupervised learning framework for depth and ego-motion estimation
