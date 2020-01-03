@@ -78,6 +78,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 * [Yaspeller](https://github.com/hcodes/yaspeller) - Command line tool for spell checking
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
+* [Sphinx](https://github.com/sphinx-doc/sphinx/) - is a tool that makes it easy to create intelligent and beautiful documentation for Python projects
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
