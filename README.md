@@ -494,7 +494,7 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 
-### Real-Time Kernels
+### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
 
