@@ -131,7 +131,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 * [Sublime](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 * [ade-cli](https://gitlab.com/ApexAI/ade-cli) - The ADE Development Environment (ADE) uses docker and Gitlab to manage environments of per project development tools and optional volume images
-* [recipe-wizard](https://github.com/trn84/recipe-wizard) A Dockerfile generator for running OpenGL (GLX) applications with nvidia-docker2, CUDA, ROS, and Gazebo on a remote headless server system
+* [recipe-wizard](https://github.com/trn84/recipe-wizard) - A Dockerfile generator for running OpenGL (GLX) applications with nvidia-docker2, CUDA, ROS, and Gazebo on a remote headless server system
 * [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - Jupyter widget helpers for ROS, the Robot Operating System
 * [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in for Python
 * [xeus-cling](https://github.com/QuantStack/xeus-cling) - Jupyter kernel for the C++ programming language 
