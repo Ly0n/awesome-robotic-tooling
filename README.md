@@ -60,6 +60,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
+* [convert-to-svg](https://image.online-convert.com/convert-to-svg) - Convert your images to the Scalable Vector Graphics for project logos
 * [Woost](https://woost.space/) - Workflow Automation, Collaboration with Externals
 * [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
