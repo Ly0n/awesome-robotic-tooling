@@ -60,7 +60,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
-* [convert-to-svg](https://image.online-convert.com/convert-to-svg) - Convert your images to the Scalable Vector Graphics for project logos
 * [Woost](https://woost.space/) - Workflow Automation, Collaboration with Externals
 * [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
@@ -82,6 +81,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Sphinx](https://github.com/sphinx-doc/sphinx/) - is a tool that makes it easy to create intelligent and beautiful documentation for Python projects
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
+* [convert-to-svg](https://image.online-convert.com/convert-to-svg) - Convert your images to the Scalable Vector Graphics for project logos
 * [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
 * [inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
