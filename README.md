@@ -523,6 +523,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
 
 ### Debugging and Tracing
+* [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
 * [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python
