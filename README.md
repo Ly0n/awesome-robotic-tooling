@@ -522,6 +522,7 @@ coordinate frames of mobile platforms used with ROS.
 * [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
 * [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
 * [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
+* [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
 
 ### Debugging and Tracing
 * [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
