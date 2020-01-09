@@ -39,7 +39,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Network Distributed File Systems](#network-distributed-file-systems)
    * [High Performance Computing](#high-performance-computing)
    * [Annotation](#annotation)
-      * [Visualization](#visualization)
+   * [Visualization](#visualization)
       * [Point Clouds](#point-clouds)
       * [RViz](#rviz)
 * [System](#system)
