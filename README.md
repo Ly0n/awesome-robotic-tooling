@@ -143,7 +143,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
  useful code completions for Python
 * [jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python
 * [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
-* [pybind11](https://github.com/davidcaron/pclpy) - Seamless operability between C++11 and Python
+* [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - free and open-source cross-platform source explorer
 * [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown 
 
