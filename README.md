@@ -105,6 +105,10 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 * [aztarna](https://github.com/aliasrobotics/aztarna) -  a footprinting tool for robots.
 * [draw.io](https://www.draw.io/) - is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams 
+* [capella](https://www.eclipse.org/capella/) - Comprehensive, extensible and field-proven MBSE tool and method
+to successfully design systems architecture
+* [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
+* [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
 
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
