@@ -365,6 +365,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ROSPlan](https://github.com/KCL-Planning/ROSPlan) - Generic framework for task planning in a ROS system
 
 ## Planning and Control
+* [pacmod](https://github.com/astuff/pacmod) -  is designed to allow the user to control a vehicle with the PACMod drive-by-wire system.
 * [mpcc](https://github.com/alexliniger/MPCC) - Model Predictive Contouring Controller for Autonomous Racing
 * [rrt](https://github.com/RoboJackets/rrt) - C++ RRT (Rapidly-exploring Random Tree) implementation
 * [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - A path planning algorithm based on Hybrid A* for trailer truck.
