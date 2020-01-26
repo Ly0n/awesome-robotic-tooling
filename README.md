@@ -109,6 +109,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 to successfully design systems architecture
 * [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
+* [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
 
 ## Framework
 * [ROS](https://github.com/ros) - ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications
