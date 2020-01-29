@@ -486,6 +486,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ## System 
 ### Monitoring
+* [lnav](http://lnav.org/) - is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function
 * [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
