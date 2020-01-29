@@ -178,6 +178,7 @@ compiler infrastructure project
 * [googletest](https://github.com/google/googletest) - Google's C++ test framework
 * [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 * [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+* [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - contains testing tools for C++, and is used in OSRF projects.
 
 ### Lint and Format
 * [cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
