@@ -537,6 +537,7 @@ coordinate frames of mobile platforms used with ROS.
 * [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
 * [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
 * [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
+* [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
 
 ### Debugging and Tracing
 * [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
