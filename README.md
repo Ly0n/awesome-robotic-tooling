@@ -471,6 +471,7 @@ coordinate frames of mobile platforms used with ROS.
 * [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 * [point_labeler](https://github.com/jbehley/point_labeler) - Tool for labeling of a single point clouds or a stream of point clouds
+* [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
 #### Point Clouds
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
