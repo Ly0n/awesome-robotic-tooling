@@ -358,6 +358,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Mapbox](https://github.com/mapbox/mapbox-gl-jsMapbox) - is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds 
+* [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 
 
 ## Behavior and Decision
