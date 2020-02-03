@@ -389,7 +389,7 @@ coordinate frames of mobile platforms used with ROS.
 * [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 * [pencil](https://github.com/evolus/pencil) - A tool for making diagrams and GUI prototyping that everyone can use.
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
-* https://github.com/pal-robotics/ddynamic_reconfigure - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files.
+* [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files.
 
 ### Voice User Interface
 * [rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy (pronounced RAH-SPEE) is an offline, multilingual voice assistant toolkit inspired by Jasper that works well with Home Assistant, Hass.io, and Node-RED.
@@ -485,7 +485,6 @@ coordinate frames of mobile platforms used with ROS.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
 * [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
-* [tf_keyboard_cal](https://github.com/PickNikRobotics/tf_keyboard_cal) - Allows manual control of a TF through the keyboard or interactive markers
 
 ## System 
 ### Monitoring
@@ -498,6 +497,7 @@ coordinate frames of mobile platforms used with ROS.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
+* [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 
 ### Embedded Operation Systems
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
