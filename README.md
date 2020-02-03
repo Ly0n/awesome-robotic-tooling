@@ -121,6 +121,7 @@ to successfully design systems architecture
 * [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 * [astrobee](https://github.com/nasa/astrobee) - Astrobee is a free-flying robot designed to operate as a payload inside the International Space Station (ISS).
 * [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) - enables cooperative automated driving plug-in
+* [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 
 ## Development Environment
 ### Template
@@ -382,7 +383,6 @@ coordinate frames of mobile platforms used with ROS.
 
 ## Interaction
 ### Graphical User Interface
-* [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
 * [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
