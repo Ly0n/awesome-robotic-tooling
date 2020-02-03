@@ -450,6 +450,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ### Data Visualization and Mission Control
 * [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
+* [ros3djs](https://github.com/RobotWebTools/ros3djs) - 3D Visualization Library for use with the ROS JavaScript Libraries
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
 * [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The timeseries visualization tool that you deserve 
