@@ -556,6 +556,7 @@ coordinate frames of mobile platforms used with ROS.
 * [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 
 ### Security
+* [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
 * [RSF](https://github.com/aliasrobotics/RSF) - Robot Security Framework (RSF) is a standardized methodology to perform security assessments in robotics.
 * [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 * [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
