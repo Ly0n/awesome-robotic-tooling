@@ -485,6 +485,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
 * [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
+* [xpp](https://github.com/leggedrobotics/xpp) - visualization of motion-plans for legged robots
 
 ## System 
 ### Monitoring
