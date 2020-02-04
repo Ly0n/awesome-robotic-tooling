@@ -547,6 +547,7 @@ coordinate frames of mobile platforms used with ROS.
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
 
 ### Debugging and Tracing
+* [heaptrack](https://github.com/KDE/heaptrack) - traces all memory allocations and annotates these events with stack traces
 * [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
