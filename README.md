@@ -251,6 +251,7 @@ compiler infrastructure project
 * [ESIM](https://github.com/uzh-rpg/rpg_esim/) - an Open Event Camera Simulator
 * [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
 * [pedsim_ros](https://github.com/srl-freiburg/pedsim_ros) - Pedestrian simulator powered by the social force model for Gazebo
+* [opencrg](http://www.opencrg.org/download.html) -  open file formats and open source tools for the detailed description, creation and evaluation of road surfaces
 
 ## Sensor Processing
 ### Pipeline
