@@ -293,7 +293,6 @@ compiler infrastructure project
 * [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
 * [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
 * [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases
-* [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
 
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -350,6 +349,8 @@ coordinate frames of mobile platforms used with ROS.
 * [CubeSLAM and ORB SLAM](https://github.com/shichaoy/cube_slam) - Monocular 3D Object Detection and SLAM Package of CubeSLAM and ORB SLAM
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - A Robust and Versatile Multi-Sensor Visual-Inertial State Estimator
 * [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
+* [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
+
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
