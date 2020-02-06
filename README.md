@@ -385,6 +385,7 @@ coordinate frames of mobile platforms used with ROS.
 * [fastrack](https://github.com/HJReachability/fastrack) - A ROS implementation of Fast and Safe Tracking (FaSTrack).
 * [commonroad](https://commonroad.in.tum.de/) - Composable benchmarks for motion planning on roads
 * [traffic-editor](https://github.com/osrf/traffic-editor) - A graphical editor for robot traffic flows.
+* [steering_functions](https://github.com/hbanzhaf/steering_functions) - contains a C++ library that implements steering functions for car-like robots with limited turning radius
 
 ## Interaction
 ### Graphical User Interface
