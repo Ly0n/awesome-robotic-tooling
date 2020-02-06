@@ -563,6 +563,7 @@ coordinate frames of mobile platforms used with ROS.
 * [inspect](https://pymotw.com/2/inspect/) - The inspect module provides functions for learning about live objects, including modules, classes, instances, functions, and methods
 * [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
 * [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
+* [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
 
 ### Security
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
