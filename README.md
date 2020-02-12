@@ -71,6 +71,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
 * [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
 * [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
+* [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
+
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -91,7 +93,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. 
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
-* [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 ## Architecture and Design
