@@ -2,7 +2,7 @@
 
 Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
 
-> **Lets build a complete open source robotic development environment together.**
+> **Lets build a complete open source robotic development environment together.**      
 [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software with a bunch of people
 
 * [Coordination and Communication](#coordination-and-communication)
