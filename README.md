@@ -198,6 +198,22 @@ compiler infrastructure project
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon 
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes
 
+### Debugging and Tracing
+* [heaptrack](https://github.com/KDE/heaptrack) - traces all memory allocations and annotates these events with stack traces
+* [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
+* [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
+* [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
+* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) - Visualize profiled code
+* [gpuvis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer
+* [sanitizer](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+* [cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
+* [inspect](https://pymotw.com/2/inspect/) - The inspect module provides functions for learning about live objects, including modules, classes, instances, functions, and methods
+* [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
+* [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
+* [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
+* [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
+
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git 
@@ -555,22 +571,6 @@ coordinate frames of mobile platforms used with ROS.
 * [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
 * [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
-
-### Debugging and Tracing
-* [heaptrack](https://github.com/KDE/heaptrack) - traces all memory allocations and annotates these events with stack traces
-* [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
-* [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material
-* [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running
-* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) - Visualize profiled code
-* [gpuvis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer
-* [sanitizer](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-* [cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
-* [inspect](https://pymotw.com/2/inspect/) - The inspect module provides functions for learning about live objects, including modules, classes, instances, functions, and methods
-* [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
-* [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
-* [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
-* [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
 
 ### Security
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
