@@ -4,6 +4,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 
 > **Lets build a complete open source robotic development environment together.**
 
+* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
+
 * [Coordination and Communication](#coordination-and-communication)
 * [Documentation and Presentation](#documentation-and-presentation)
 * [Architecture and Design](#architecture-and-design)
@@ -96,7 +98,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 ## Architecture and Design
-* [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) -  Set of cultural norms for developing software
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
 * [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
 * [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
