@@ -592,6 +592,7 @@ coordinate frames of mobile platforms used with ROS.
 * [firejail](https://github.com/netblue30/firejail) - Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
 * [RVD](https://github.com/aliasrobotics/RVD) - Robot Vulnerability Database. Community-contributed archive of robot vulnerabilities and weaknesses
 * [ros2_dds_security](http://design.ros2.org/articles/ros2_dds_security.html) - adding security enhancements by defining a Service Plugin Interface (SPI) architecture, a set of builtin implementations of the SPIs, and the security model enforced by the SPIs
+* [Security-Enhanced Linux](https://github.com/SELinuxProject/selinux) - is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC)
 
 ### Safety
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
