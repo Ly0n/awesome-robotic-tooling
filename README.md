@@ -423,6 +423,7 @@ coordinate frames of mobile platforms used with ROS.
 * [mapscii](https://github.com/rastapasta/mapscii) - World map renderer for your console
 * [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+* [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer
 
 ### Storage and Record
 * [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
