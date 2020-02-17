@@ -2,7 +2,8 @@
 
 Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
 
-> [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" 
+> [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - bringing the concepts of modularity and reusability into software engineering practice, 
+> spawning a "software tools" 
 
 * [Coordination and Communication](#coordination-and-communication)
 * [Documentation and Presentation](#documentation-and-presentation)
