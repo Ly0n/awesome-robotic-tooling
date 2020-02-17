@@ -282,7 +282,7 @@ compiler infrastructure project
 
 
 ## Sensor Processing
-### Pipeline
+### Perception Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 * [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
 * [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
