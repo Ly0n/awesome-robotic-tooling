@@ -7,6 +7,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Coordination and Communication](#coordination-and-communication)
 * [Documentation and Presentation](#documentation-and-presentation)
 * [Architecture and Design](#architecture-and-design)
+* [Safety](#safety)
 * [Framework](#framework)
 * [Development Environment](#development-environment)
    * [Template](#template)
@@ -49,8 +50,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Real-Time Kernels](#real-time-kernels)
    * [Network and Middleware](#network-and-middleware)
    * [Security](#security)
-   * [Safety](#safety)
-* [Awesome](#awesome)
 
 ## Coordination and Communication
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
