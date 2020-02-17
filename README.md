@@ -34,7 +34,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
       * [Static Maps](#static-maps)
 * [Behavior and Decision](#behavior-and-decision)
 * [Planning and Control](#planning-and-control)
-* [Data Interaction](#data-interaction)
+* [User Interaction](#user-interaction)
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
    * [Storage and Record](#storage-and-record)
@@ -414,7 +414,7 @@ coordinate frames of mobile platforms used with ROS.
 * [traffic-editor](https://github.com/osrf/traffic-editor) - A graphical editor for robot traffic flows.
 * [steering_functions](https://github.com/hbanzhaf/steering_functions) - contains a C++ library that implements steering functions for car-like robots with limited turning radius
 
-## Interaction
+## User Interaction
 ### Graphical User Interface
 * [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
 * [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
