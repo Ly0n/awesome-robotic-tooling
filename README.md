@@ -10,8 +10,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Safety](#safety)
 * [Framework](#framework)
 * [Development Environment](#development-environment)
-   * [Template](#template)
    * [Code and Run](#code-and-run)
+   * [Template](#template)
    * [Build and Deploy](#build-and-deploy)
    * [Unit and Integration Test](#unit-and-integration-test)
    * [Lint and Format](#lint-and-format)
@@ -134,13 +134,6 @@ to successfully design systems architecture
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 
 ## Development Environment
-### Template
-* [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
-* [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) - Templates on how to create launch files for larger projects
-* [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
-* [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
-* [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
-* [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - The Dockerfile in the minimal-ade project shows a minimal example of how to create a custom base image
 
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
@@ -163,6 +156,14 @@ to successfully design systems architecture
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - free and open-source cross-platform source explorer
 * [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown 
 * [mybinder](https://mybinder.org/) - open notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 
+
+### Template
+* [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
+* [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) - Templates on how to create launch files for larger projects
+* [Bash](https://github.com/ralish/bash-script-template) - A bash scripting template incorporating best practices & several useful functions
+* [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
+* [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
+* [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - The Dockerfile in the minimal-ade project shows a minimal example of how to create a custom base image
 
 ### Build and Deploy
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
@@ -235,6 +236,27 @@ compiler infrastructure project
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
+### Simulation
+* [Drake](https://github.com/RobotLocomotion/drake) - Drake aims to simulate even very complex dynamics of robots
+* [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
+* [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
+* [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+* [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
+* [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
+* [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
+* [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
+* [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
+* [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
+* [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
+* [VREP Interface](http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm) - ROS Bridge for the VREP simulator 
+* [car_demo](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
+* [sumo](https://github.com/eclipse/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks
+* [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
+* [ESIM](https://github.com/uzh-rpg/rpg_esim/) - an Open Event Camera Simulator
+* [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
+* [pedsim_ros](https://github.com/srl-freiburg/pedsim_ros) - Pedestrian simulator powered by the social force model for Gazebo
+* [opencrg](http://www.opencrg.org/download.html) -  open file formats and open source tools for the detailed description, creation and evaluation of road surfaces
+
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
 * [URDF](https://github.com/ros/urdf) - Repository for Unified Robot Description Format (URDF) parsing code
@@ -258,27 +280,6 @@ compiler infrastructure project
 * [kalibr_allan](https://github.com/rpng/kalibr_allan) - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 * [pyquaternion](https://github.com/KieranWynn/pyquaternion) - is a full-featured Python module for representing and using quaternions
 
-
-## Simulation
-* [Drake](https://github.com/RobotLocomotion/drake) - Drake aims to simulate even very complex dynamics of robots
-* [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
-* [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
-* [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
-* [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
-* [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
-* [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
-* [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
-* [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support
-* [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo
-* [highway-env](https://github.com/eleurent/highway-env)	- A collection of environments for autonomous driving and tactical decision-making tasks
-* [VREP Interface](http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm) - ROS Bridge for the VREP simulator 
-* [car_demo](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
-* [sumo](https://github.com/eclipse/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks
-* [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
-* [ESIM](https://github.com/uzh-rpg/rpg_esim/) - an Open Event Camera Simulator
-* [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
-* [pedsim_ros](https://github.com/srl-freiburg/pedsim_ros) - Pedestrian simulator powered by the social force model for Gazebo
-* [opencrg](http://www.opencrg.org/download.html) -  open file formats and open source tools for the detailed description, creation and evaluation of road surfaces
 
 ## Sensor Processing
 ### Pipeline
