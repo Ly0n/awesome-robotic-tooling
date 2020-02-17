@@ -402,7 +402,8 @@ coordinate frames of mobile platforms used with ROS.
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
 * [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files.
 
-### Voice User Interface
+### Acoustic User Interface
+* [pyo](https://github.com/belangeo/pyo) - is a Python module written in C containing classes for a wide variety of audio signal processing types
 * [rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy (pronounced RAH-SPEE) is an offline, multilingual voice assistant toolkit inspired by Jasper that works well with Home Assistant, Hass.io, and Node-RED
 * [mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant
 
