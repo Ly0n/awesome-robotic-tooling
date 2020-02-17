@@ -570,6 +570,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
 * [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 * [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
+* [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
 
 ### Security
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
