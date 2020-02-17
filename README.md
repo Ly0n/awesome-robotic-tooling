@@ -44,7 +44,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Visualization](#visualization)
       * [Point Clouds](#point-clouds)
       * [RViz](#rviz)
-* [System](#system)
+* [Operation System](#system)
    * [Monitoring](#monitoring)
    * [Embedded Operation Systems](#embedded-operation-systems)
    * [Real-Time Kernels](#real-time-kernels)
@@ -525,7 +525,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
 * [xpp](https://github.com/leggedrobotics/xpp) - visualization of motion-plans for legged robots
 
-## System 
+## Operation System 
 ### Monitoring
 * [lnav](http://lnav.org/) - is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
