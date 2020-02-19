@@ -38,16 +38,16 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
    * [Storage and Record](#storage-and-record)
-   * [Network Distributed File Systems](#network-distributed-file-systems)
+   * [Network Distributed File System](#network-distributed-file-system)
    * [High Performance Computing](#high-performance-computing)
    * [Annotation](#annotation)
    * [Visualization](#visualization)
-      * [Point Clouds](#point-clouds)
+      * [Point Cloud](#point-cloud)
       * [RViz](#rviz)
 * [Operation System](#system)
    * [Monitoring](#monitoring)
-   * [Embedded Operation Systems](#embedded-operation-systems)
-   * [Real-Time Kernels](#real-time-kernels)
+   * [Embedded Operation System](#embedded-operation-system)
+   * [Real-Time Kernel](#real-time-kernel)
    * [Network and Middleware](#network-and-middleware)
    * [Security](#security)
 
@@ -467,7 +467,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
 * [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 
-### Network Distributed File Systems
+### Network Distributed File System
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 * [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
@@ -515,7 +515,7 @@ coordinate frames of mobile platforms used with ROS.
 * [point_labeler](https://github.com/jbehley/point_labeler) - Tool for labeling of a single point clouds or a stream of point clouds
 * [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
-#### Point Clouds
+#### Point Cloud
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
@@ -541,7 +541,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 
-### Embedded Operation Systems
+### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
