@@ -54,7 +54,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 ## Coordination and Communication
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
-* [DeepL](https://github.com/uinput/deeplator) - DeepL, an online translator that outperforms Google, Microsoft and Facebook
+* [DeepL](https://github.com/uinput/deeplator) - an online translator that outperforms Google, Microsoft and Facebook
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
