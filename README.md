@@ -222,6 +222,7 @@ compiler infrastructure project
 * [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 * [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
 * [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
+* [lttng](https://lttng.org/docs/) - is an open source software toolkit which you can use to simultaneously trace the Linux kernel, user applications, and user libraries.
 
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
