@@ -401,6 +401,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ROS-Behavior-Tree](https://github.com/miccol/ROS-Behavior-Tree) - Behavior Trees Library for ROS
 * [RAFCON](https://github.com/DLR-RM/RAFCON) - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 * [ROSPlan](https://github.com/KCL-Planning/ROSPlan) - Generic framework for task planning in a ROS system
+* [ad-rss-lib](https://github.com/intel/ad-rss-lib) - Library implementing the Responsibility Sensitive Safety model (RSS) for Autonomous Vehicles 
 
 ## Planning and Control
 * [pacmod](https://github.com/astuff/pacmod) -  is designed to allow the user to control a vehicle with the PACMod drive-by-wire system.
