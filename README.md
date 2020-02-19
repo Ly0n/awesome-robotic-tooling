@@ -355,6 +355,7 @@ coordinate frames of mobile platforms used with ROS.
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
 * [mola](https://github.com/MOLAorg/mola) - is a Modular system for Localization and Mapping
+* [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU
 
 ### SLAM
 #### Lidar
@@ -379,7 +380,7 @@ coordinate frames of mobile platforms used with ROS.
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - A Robust and Versatile Multi-Sensor Visual-Inertial State Estimator
 * [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
-
+* [Kimera](https://github.com/MIT-SPARK/Kimera) -  is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
