@@ -257,6 +257,8 @@ compiler infrastructure project
 * [Menge](https://github.com/MengeCrowdSim/Menge) - Crowd Simulation Framework 
 * [pedsim_ros](https://github.com/srl-freiburg/pedsim_ros) - Pedestrian simulator powered by the social force model for Gazebo
 * [opencrg](http://www.opencrg.org/download.html) -  open file formats and open source tools for the detailed description, creation and evaluation of road surfaces
+* [esmini](https://github.com/esmini/esmini) -  is a basic OpenSCENARIO player
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
