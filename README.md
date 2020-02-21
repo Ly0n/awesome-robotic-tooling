@@ -20,7 +20,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Version Control](#version-control)
    * [Simulation](#simulation)
 * [Hardware](#hardware)
-   * [Calibration](#calibration)
+   * [Calibration and Transformation](#calibration-and-transformation
+)
 * [Sensor Processing](#sensor-processing)
    * [Pipeline](#pipeline)
    * [Parallel Processing](#parallel-processing)
