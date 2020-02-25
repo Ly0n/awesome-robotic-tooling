@@ -23,7 +23,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Calibration and Transformation](#calibration-and-transformation
 )
 * [Sensor Processing](#sensor-processing)
-   * [Pipeline](#pipeline)
+   * [Perception Pipeline](#perception-pipeline)
    * [Parallel Processing](#parallel-processing)
    * [Machine Learning](#machine-learning)
    * [Image Processing](#image-processing)
