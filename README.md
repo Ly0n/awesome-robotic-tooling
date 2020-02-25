@@ -38,15 +38,15 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [User Interaction](#user-interaction)
    * [Graphical User Interface](#graphical-user-interface)
    * [Command Line](#command-line)
-   * [Storage and Record](#storage-and-record)
-   * [Network Distributed File System](#network-distributed-file-system)
-   * [High Performance Computing](#high-performance-computing)
    * [Annotation](#annotation)
    * [Visualization](#visualization)
       * [Point Cloud](#point-cloud)
       * [RViz](#rviz)
 * [Operation System](#system)
    * [Monitoring](#monitoring)
+   * [Storage and Record](#storage-and-record)
+   * [Network Distributed File System](#network-distributed-file-system)
+   * [High Performance Computing](#high-performance-computing)
    * [Embedded Operation System](#embedded-operation-system)
    * [Real-Time Kernel](#real-time-kernel)
    * [Network and Middleware](#network-and-middleware)
@@ -470,26 +470,6 @@ coordinate frames of mobile platforms used with ROS.
 * [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
 * [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 
-### Network Distributed File System
-* [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
-* [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
-* [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
-* [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
-
-### High Performance Computing 
-* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-* [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
-* [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
-* [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-* [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
-* [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
-* [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
-* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
-* [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
-* [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
-* [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
-* [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
-* [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 
 ### Data Visualization and Mission Control
 * [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
@@ -543,6 +523,27 @@ coordinate frames of mobile platforms used with ROS.
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+
+### Network Distributed File System
+* [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
+* [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
+* [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
+* [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
+
+### High Performance Computing 
+* [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+* [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
+* [kubernetes](https://github.com/NVIDIA/kubernetes) - Production-Grade Container Scheduling and Management
+* [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+* [log-pilot](https://github.com/AliyunContainerService/log-pilot) - Collect logs for docker containers
+* [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
+* [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
+* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
+* [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
+* [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
+* [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
+* [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+* [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 
 ### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
