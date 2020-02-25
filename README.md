@@ -588,6 +588,7 @@ coordinate frames of mobile platforms used with ROS.
 * [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
 * [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
+* [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
 
 ### Security
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
