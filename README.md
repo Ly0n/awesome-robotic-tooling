@@ -457,20 +457,6 @@ coordinate frames of mobile platforms used with ROS.
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 * [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer
 
-### Storage and Record
-* [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
-* [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
-* [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
-* [marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
-* [kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
-* [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
-* [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
-* [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
-* [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
-* [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
-* [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
-
-
 ### Data Visualization and Mission Control
 * [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * [ros3djs](https://github.com/RobotWebTools/ros3djs) - 3D Visualization Library for use with the ROS JavaScript Libraries
@@ -523,6 +509,19 @@ coordinate frames of mobile platforms used with ROS.
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+
+### Storage and Record
+* [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
+* [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
+* [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
+* [marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
+* [kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
+* [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
+* [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
+* [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
+* [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
+* [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
+* [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 
 ### Network Distributed File System
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
