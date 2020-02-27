@@ -400,6 +400,7 @@ coordinate frames of mobile platforms used with ROS.
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds 
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware. 
+* [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 
 
 ## Behavior and Decision
