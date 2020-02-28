@@ -111,6 +111,7 @@ to successfully design systems architecture
 * [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
 * [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
+* [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
 
 ### Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
