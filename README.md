@@ -37,7 +37,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Planning and Control](#planning-and-control)
 * [User Interaction](#user-interaction)
    * [Graphical User Interface](#graphical-user-interface)
-   * [Command Line](#command-line)
+   * [Command Line Interface](#command-line-interface)
    * [Annotation](#annotation)
    * [Visualization](#visualization)
       * [Point Cloud](#point-cloud)
