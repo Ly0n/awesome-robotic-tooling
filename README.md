@@ -601,6 +601,9 @@ coordinate frames of mobile platforms used with ROS.
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
 * [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
 * [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
+* [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
+
+
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
