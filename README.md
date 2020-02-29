@@ -198,6 +198,7 @@ compiler infrastructure project
 * [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - contains testing tools for C++, and is used in OSRF projects.
 
 ### Lint and Format
+* [action-ros-lint](https://github.com/ros-tooling/action-ros-lint) - Github action to run linters on ROS 2 packages
 * [cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
 * [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell 
 * [shellcheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts 
