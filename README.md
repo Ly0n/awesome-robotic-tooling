@@ -133,6 +133,7 @@ to successfully design systems architecture
 * [astrobee](https://github.com/nasa/astrobee) - Astrobee is a free-flying robot designed to operate as a payload inside the International Space Station (ISS).
 * [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) - enables cooperative automated driving plug-in
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
+* [osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - 
 
 ## Development Environment
 
@@ -598,6 +599,7 @@ coordinate frames of mobile platforms used with ROS.
 * [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
 
 ### Security
+* [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - Security analysis toolkit for proprietary car protocols
 * [RSF](https://github.com/aliasrobotics/RSF) - Robot Security Framework (RSF) is a standardized methodology to perform security assessments in robotics
