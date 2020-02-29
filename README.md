@@ -20,8 +20,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
    * [Version Control](#version-control)
    * [Simulation](#simulation)
 * [Hardware](#hardware)
-   * [Calibration and Transformation](#calibration-and-transformation
-)
+   * [Calibration and Transformation](#calibration-and-transformation)
 * [Sensor Processing](#sensor-processing)
    * [Perception Pipeline](#perception-pipeline)
    * [Parallel Processing](#parallel-processing)
@@ -133,7 +132,7 @@ to successfully design systems architecture
 * [astrobee](https://github.com/nasa/astrobee) - Astrobee is a free-flying robot designed to operate as a payload inside the International Space Station (ISS).
 * [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) - enables cooperative automated driving plug-in
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
-* [osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - 
+* [PX4](https://github.com/PX4/Firmware) - is an open source flight control software for drones and other unmanned vehicles
 
 ## Development Environment
 
