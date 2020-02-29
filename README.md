@@ -159,7 +159,6 @@ to successfully design systems architecture
 * [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown 
 * [mybinder](https://mybinder.org/) - open notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 
 * [ROSOnWindows](https://ms-iot.github.io/ROSOnWindows/) - an experimental release of ROS1 for Windows
-* [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
 
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
@@ -170,6 +169,8 @@ to successfully design systems architecture
 * [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - The Dockerfile in the minimal-ade project shows a minimal example of how to create a custom base image
 
 ### Build and Deploy
+* [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
+* [Cross compile ROS 2 on QNX](https://gitlab.apex.ai/snippets/63) -  introduces how to cross compile ROS 2 on QNX
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
 * [superflore](https://github.com/ros-infrastructure/superflore) - An extended platform release manager for Robot Operating System    
 * [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
