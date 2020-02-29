@@ -191,6 +191,7 @@ compiler infrastructure project
 * [network_autoconfig](http://docs.ros.org/kinetic/api/network_autoconfig/html/) - automatic configuration of ROS networking for most use cases without impacting usage that require manual configuration.
 
 ### Unit and Integration Test
+* [setup-ros](https://github.com/ros-tooling/setup-ros) - This action sets up a ROS and ROS 2 environment for use in Github actions
 * [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
 * [googletest](https://github.com/google/googletest) - Google's C++ test framework
 * [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
