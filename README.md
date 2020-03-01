@@ -369,6 +369,7 @@ coordinate frames of mobile platforms used with ROS.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
 * [mola](https://github.com/MOLAorg/mola) - is a Modular system for Localization and Mapping
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU
+* [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook
 
 ### SLAM
 #### Lidar
