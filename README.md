@@ -434,6 +434,7 @@ coordinate frames of mobile platforms used with ROS.
 * [traffic-editor](https://github.com/osrf/traffic-editor) - A graphical editor for robot traffic flows.
 * [steering_functions](https://github.com/hbanzhaf/steering_functions) - contains a C++ library that implements steering functions for car-like robots with limited turning radius
 * [moveit](https://moveit.ros.org/) - Easy-to-use robotics manipulation platform for developing applications, evaluating designs, and building integrated products
+* [flexible-collision-library](https://github.com/flexible-collision-library/fcl) - is a library for performing three types of proximity queries on a pair of geometric models composed of triangles.
 
 ## User Interaction
 ### Graphical User Interface
