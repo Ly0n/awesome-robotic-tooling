@@ -95,7 +95,6 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [papermill](https://github.com/nteract/papermill) - is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
 
-
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
 * [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
@@ -397,7 +396,8 @@ coordinate frames of mobile platforms used with ROS.
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - A Robust and Versatile Multi-Sensor Visual-Inertial State Estimator
 * [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
-* [Kimera](https://github.com/MIT-SPARK/Kimera) -  is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
+* [Kimera](https://github.com/MIT-SPARK/Kimera) - is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
+* [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
