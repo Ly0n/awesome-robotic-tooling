@@ -510,6 +510,7 @@ coordinate frames of mobile platforms used with ROS.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz
 * [rviz_visual_tools](https://github.com/PickNikRobotics/rviz_visual_tools) - C++ API wrapper for displaying shapes and meshes in Rviz
 * [xpp](https://github.com/leggedrobotics/xpp) - visualization of motion-plans for legged robots
+* [rviz stereo](http://wiki.ros.org/rviz/Tutorials/Rviz%20in%20Stereo) - 3D stereo rendering displays a different view to each eye so that the scene appears to have depth
 
 ## Operation System 
 ### Monitoring
