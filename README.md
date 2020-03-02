@@ -301,6 +301,7 @@ compiler infrastructure project
 * [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
 * [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 * [AugmentedAutoencoder](https://github.com/DLR-RM/AugmentedAutoencoder) - RGB-based pipeline for object detection and 6D pose estimation
+* [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) - is a stack for the perception packages which are used in JSK lab.
 
 ### Parallel Processing
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
