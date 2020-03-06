@@ -437,6 +437,7 @@ coordinate frames of mobile platforms used with ROS.
 * [moveit](https://moveit.ros.org/) - Easy-to-use robotics manipulation platform for developing applications, evaluating designs, and building integrated products
 * [flexible-collision-library](https://github.com/flexible-collision-library/fcl) - is a library for performing three types of proximity queries on a pair of geometric models composed of triangles.
 * [aikido](https://github.com/personalrobotics/aikido) - Artificial Intelligence for Kinematics, Dynamics, and Optimization
+* [casADi](https://github.com/casadi/casadi) - is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs
 
 ## User Interaction
 ### Graphical User Interface
