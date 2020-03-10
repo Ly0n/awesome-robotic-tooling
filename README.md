@@ -615,6 +615,7 @@ coordinate frames of mobile platforms used with ROS.
 * [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
 * [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
 * [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
+* [rdbox](https://github.com/rdbox-intec/rdbox) - RDBOX is a IT infrastructure for ROS robots
 
 
 ### Security
