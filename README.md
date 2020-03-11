@@ -357,7 +357,7 @@ compiler infrastructure project
 * [pptk](https://github.com/heremaps/pptk) - Point Processing Toolkit from HEREMaps
 * [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
-
+* [LAStools](https://github.com/LAStools/LAStools) - award-winning software for efficient LiDAR processing
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
