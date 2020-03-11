@@ -414,6 +414,7 @@ coordinate frames of mobile platforms used with ROS.
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware. 
 * [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
+* [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
 
 
 ## Behavior and Decision
