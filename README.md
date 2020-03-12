@@ -268,6 +268,7 @@ compiler infrastructure project
 * [esmini](https://github.com/esmini/esmini) -  is a basic OpenSCENARIO player
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling
 * [morse](https://github.com/morse-simulator) - is an academic robotic simulator, based on the Blender Game Engine and the Bullet Physics engine.
+* [ROSIntegrationVision](https://github.com/code-iai/ROSIntegrationVision) - Support for ROS-enabled RGBD data acquisition in Unreal Engine Projects
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
