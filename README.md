@@ -94,6 +94,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [papermill](https://github.com/nteract/papermill) - is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
+* [docsy](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
