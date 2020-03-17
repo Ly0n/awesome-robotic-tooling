@@ -284,6 +284,7 @@ compiler infrastructure project
 * [PandaPower](http://www.pandapower.org) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone
 * [openscad](https://github.com/openscad/openscad) -  is software for creating solid 3D CAD models
+* [ngspice](http://ngspice.sourceforge.net/) - is the open source spice simulator for electric and electronic circuits.
 
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
