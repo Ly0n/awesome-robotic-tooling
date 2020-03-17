@@ -586,6 +586,7 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 * [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) - NVIDIA Container Runtime is a GPU aware container runtime, compatible with the Open Containers Initiative (OCI) specification used by Docker, CRI-O, and other popular container technologie
+* [fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 
 ### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
@@ -621,7 +622,7 @@ coordinate frames of mobile platforms used with ROS.
 * [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
 * [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
 * [rdbox](https://github.com/rdbox-intec/rdbox) - RDBOX is a IT infrastructure for ROS robots
-
+* [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
