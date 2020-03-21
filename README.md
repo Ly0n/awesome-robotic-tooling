@@ -84,7 +84,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [undraw](https://undraw.co/illustrations) - Free Professional business SVGs easy to customize
-* [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
+* [terminalize](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player
 * [inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
