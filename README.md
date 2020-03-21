@@ -252,6 +252,7 @@ compiler infrastructure project
 * [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
 * [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+* [scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine 
 * [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
 * [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
 * [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
