@@ -393,7 +393,7 @@ coordinate frames of mobile platforms used with ROS.
 * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS 
 * [maplab](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
 * [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) - is an open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
-
+* [ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
 
 #### Camera
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
