@@ -391,6 +391,7 @@ coordinate frames of mobile platforms used with ROS.
 * [semantic_suma](https://github.com/PRBonn/semantic_suma/) - Semantic Mapping using Surfel Mapping and Semantic Segmentation
 * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS 
 * [maplab](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
+* [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) - is an open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
 
 
 #### Camera
