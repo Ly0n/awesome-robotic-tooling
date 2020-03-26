@@ -366,6 +366,7 @@ compiler infrastructure project
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
 * [LAStools](https://github.com/LAStools/LAStools) - award-winning software for efficient LiDAR processing
 * [PCDet](https://github.com/sshaoshuai/PCDet) - is a general PyTorch-based codebase for 3D object detection from point cloud. 
+* [PDAL](https://github.com/PDAL/PDAL) - is a C++ BSD library for translating and manipulating point cloud data
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -522,6 +523,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
 * [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
+* [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 
 #### RViz 
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
