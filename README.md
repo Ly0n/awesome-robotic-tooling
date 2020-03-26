@@ -367,6 +367,7 @@ compiler infrastructure project
 * [LAStools](https://github.com/LAStools/LAStools) - award-winning software for efficient LiDAR processing
 * [PCDet](https://github.com/sshaoshuai/PCDet) - is a general PyTorch-based codebase for 3D object detection from point cloud. 
 * [PDAL](https://github.com/PDAL/PDAL) - is a C++ BSD library for translating and manipulating point cloud data
+* [PotreeConverter](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
