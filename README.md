@@ -495,6 +495,7 @@ coordinate frames of mobile platforms used with ROS.
 * [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer
 
 ### Data Visualization and Mission Control
+* [xdot](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language
 * [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * [ros3djs](https://github.com/RobotWebTools/ros3djs) - 3D Visualization Library for use with the ROS JavaScript Libraries
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
