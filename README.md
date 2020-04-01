@@ -274,6 +274,7 @@ compiler infrastructure project
 * [morse](https://github.com/morse-simulator) - is an academic robotic simulator, based on the Blender Game Engine and the Bullet Physics engine.
 * [ROSIntegrationVision](https://github.com/code-iai/ROSIntegrationVision) - Support for ROS-enabled RGBD data acquisition in Unreal Engine Projects
 * [fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo) - contains the Gazebo simulation for Fetch Robotics Fetch and Freight Research Edition Robots.
+* [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
