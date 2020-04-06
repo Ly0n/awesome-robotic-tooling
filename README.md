@@ -69,7 +69,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [gitlab-triage](https://gitlab.com/gitlab-org/gitlab-triage) - GitLab's issues and merge requests triage, automated!
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
-* [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
 * [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 * [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
