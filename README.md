@@ -592,6 +592,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
+* [enroot](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 
 ### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
