@@ -677,4 +677,4 @@ coordinate frames of mobile platforms used with ROS.
 
 ## Datasets
 * [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times.
-
+* [awesome-robotics-datasets](https://github.com/sunglok/awesome-robotics-datasets) - A collection of useful datasets for robotics and computer vision 
