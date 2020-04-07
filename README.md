@@ -634,3 +634,6 @@ coordinate frames of mobile platforms used with ROS.
 * [ros2_dds_security](http://design.ros2.org/articles/ros2_dds_security.html) - adding security enhancements by defining a Service Plugin Interface (SPI) architecture, a set of builtin implementations of the SPIs, and the security model enforced by the SPIs
 * [Security-Enhanced Linux](https://github.com/SELinuxProject/selinux) - is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC)
 
+
+### Datasets
+* [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times during 2017-18. The vehicles were manually driven on a route in Michigan that included a mix of driving scenarios including the Detroit Airport, freeways, city-centers, university campus and suburban neighborhood.
