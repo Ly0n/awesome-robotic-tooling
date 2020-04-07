@@ -373,6 +373,7 @@ compiler infrastructure project
 * [PDAL](https://github.com/PDAL/PDAL) - is a C++ BSD library for translating and manipulating point cloud data
 * [PotreeConverter](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
 * [fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+* [ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -401,7 +402,6 @@ coordinate frames of mobile platforms used with ROS.
 * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS 
 * [maplab](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
 * [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) - is an open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
-* [ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
 * [interactive_slam](https://github.com/SMRT-AIST/interactive_slam) -  In contrast to existing automatic SLAM packages, we with minimal human effort.
 
 #### Camera
