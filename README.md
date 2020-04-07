@@ -1,6 +1,6 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Just a bunch of powerful robotic resources and tools for professional robotic development with ROS in C++ and Python.
+Just a bunch of powerful robotic resources and tools for professional development with ROS in C++ and Python.
 
 > [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - about the concept of software tooling 
 
@@ -58,6 +58,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [DeepL](https://github.com/uinput/deeplator) - an online translator that outperforms Google, Microsoft and Facebook
 * [Taiga](https://github.com/benhutchins/docker-taiga) - Agile Projectmanagment Tool
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
+* [kanban](https://gitlab.com/leanlabsio/kanban) - Free, open source, self-hosted, Kanban board for GitLab issues
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
 * [Woost](https://woost.space/) - Workflow Automation, Collaboration with Externals
@@ -69,10 +70,10 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [gitlab-triage](https://gitlab.com/gitlab-org/gitlab-triage) - GitLab's issues and merge requests triage, automated!
 * [Helpy](https://github.com/helpyio/helpy) - is a modern, open source helpdesk customer support application
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -  is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
-* [Ganttlab](https://gitlab.com/ganttlab/ganttlab-live) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
 * [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 * [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
-
+* [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
+* [mattermost](https://github.com/mattermost/mattermost-server) - is an open source, private cloud, Slack-alternative
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -85,7 +86,7 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [undraw](https://undraw.co/illustrations) - Free Professional business SVGs easy to customize
-* [ASCIIMATICS](https://github.com/peterbrittain/asciimatics) - Create a GIF for your command line examples
+* [asciinema](https://github.com/asciinema/asciinema) - lets you easily record terminal sessions and replay them in a terminal as well as in a web browser.
 * [inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS
 * [Reveal-Hugo](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
@@ -95,6 +96,8 @@ Just a bunch of powerful robotic resources and tools for professional robotic de
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [papermill](https://github.com/nteract/papermill) - is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
+* [docs](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+* [overleaf](https://www.overleaf.com/project) - The easy to use, online, collaborative LaTeX editor
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
@@ -137,7 +140,6 @@ to successfully design systems architecture
 * [PX4](https://github.com/PX4/Firmware) - is an open source flight control software for drones and other unmanned vehicles
 
 ## Development Environment
-
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
@@ -184,6 +186,7 @@ to successfully design systems architecture
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
 compiler infrastructure project
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - Bundle python requirements in a catkin package via virtualenv 
+* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 * [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool 
 * [cross_compile](https://github.com/ros-tooling/cross_compile) - Assets used for ROS2 cross-compilation 
 * [docker_images](https://github.com/osrf/docker_images) - Official Docker images maintained by OSRF on ROS(2) and Gazebo
@@ -232,6 +235,7 @@ compiler infrastructure project
 * [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
 * [lttng](https://lttng.org/docs/) - is an open source software toolkit which you can use to simultaneously trace the Linux kernel, user applications, and user libraries.
 * [ros2-performance](https://github.com/irobot-ros/ros2-performance) - allows to easily create arbitrary ROS2 systems and then measures their performance
+* [bcc](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
@@ -251,6 +255,7 @@ compiler infrastructure project
 * [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
 * [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+* [scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine 
 * [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
 * [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
 * [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine 
@@ -269,6 +274,9 @@ compiler infrastructure project
 * [esmini](https://github.com/esmini/esmini) -  is a basic OpenSCENARIO player
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling
 * [morse](https://github.com/morse-simulator) - is an academic robotic simulator, based on the Blender Game Engine and the Bullet Physics engine.
+* [ROSIntegrationVision](https://github.com/code-iai/ROSIntegrationVision) - Support for ROS-enabled RGBD data acquisition in Unreal Engine Projects
+* [fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo) - contains the Gazebo simulation for Fetch Robotics Fetch and Freight Research Edition Robots.
+* [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -281,6 +289,8 @@ compiler infrastructure project
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams
 * [PandaPower](http://www.pandapower.org) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone
+* [openscad](https://github.com/openscad/openscad) -  is software for creating solid 3D CAD models
+* [ngspice](http://ngspice.sourceforge.net/) - is the open source spice simulator for electric and electronic circuits.
 
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
@@ -293,6 +303,7 @@ compiler infrastructure project
 * [imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance
 * [kalibr_allan](https://github.com/rpng/kalibr_allan) - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters
 * [pyquaternion](https://github.com/KieranWynn/pyquaternion) - is a full-featured Python module for representing and using quaternions
+* [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - This package offers calibration of a number of parameters of a robot, such as: 3D Camera intrinsics, extrinsics Joint angle offsets and robot frame offsets
 
 
 ## Sensor Processing
@@ -302,6 +313,7 @@ compiler infrastructure project
 * [cadrl_ros](https://github.com/mfe7/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 * [AugmentedAutoencoder](https://github.com/DLR-RM/AugmentedAutoencoder) - RGB-based pipeline for object detection and 6D pose estimation
 * [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) - is a stack for the perception packages which are used in JSK lab.
+* [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents
 
 ### Parallel Processing
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
@@ -357,7 +369,12 @@ compiler infrastructure project
 * [pptk](https://github.com/heremaps/pptk) - Point Processing Toolkit from HEREMaps
 * [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
-
+* [LAStools](https://github.com/LAStools/LAStools) - award-winning software for efficient LiDAR processing
+* [PCDet](https://github.com/sshaoshuai/PCDet) - is a general PyTorch-based codebase for 3D object detection from point cloud. 
+* [PDAL](https://github.com/PDAL/PDAL) - is a C++ BSD library for translating and manipulating point cloud data
+* [PotreeConverter](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
+* [fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+* [ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -384,9 +401,12 @@ coordinate frames of mobile platforms used with ROS.
 * [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 * [semantic_suma](https://github.com/PRBonn/semantic_suma/) - Semantic Mapping using Surfel Mapping and Semantic Segmentation
 * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS 
-
+* [maplab](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
+* [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) - is an open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
+* [interactive_slam](https://github.com/SMRT-AIST/interactive_slam) -  In contrast to existing automatic SLAM packages, we with minimal human effort.
 
 #### Camera
+* [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
 * [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
@@ -399,6 +419,7 @@ coordinate frames of mobile platforms used with ROS.
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
 * [Kimera](https://github.com/MIT-SPARK/Kimera) - is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 * [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
+* [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
@@ -414,7 +435,7 @@ coordinate frames of mobile platforms used with ROS.
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware. 
 * [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
-
+* [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
 
 ## Behavior and Decision
 * [Groot](https://github.com/BehaviorTree/Groot) - Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
@@ -422,6 +443,8 @@ coordinate frames of mobile platforms used with ROS.
 * [RAFCON](https://github.com/DLR-RM/RAFCON) - Uses hierarchical state machines, featuring concurrent state execution, to represent robot programs
 * [ROSPlan](https://github.com/KCL-Planning/ROSPlan) - Generic framework for task planning in a ROS system
 * [ad-rss-lib](https://github.com/intel/ad-rss-lib) - Library implementing the Responsibility Sensitive Safety model (RSS) for Autonomous Vehicles 
+* [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
+* [sts_bt_library](https://github.com/Autonomous-Logistics/sts_bt_library) - This library provides the functionality to set up your own behavior tree logic by using the defined tree structures like Fallback, Sequence or Parallel Nodes
 
 ## Planning and Control
 * [pacmod](https://github.com/astuff/pacmod) -  is designed to allow the user to control a vehicle with the PACMod drive-by-wire system.
@@ -438,6 +461,9 @@ coordinate frames of mobile platforms used with ROS.
 * [moveit](https://moveit.ros.org/) - Easy-to-use robotics manipulation platform for developing applications, evaluating designs, and building integrated products
 * [flexible-collision-library](https://github.com/flexible-collision-library/fcl) - is a library for performing three types of proximity queries on a pair of geometric models composed of triangles.
 * [aikido](https://github.com/personalrobotics/aikido) - Artificial Intelligence for Kinematics, Dynamics, and Optimization
+* [casADi](https://github.com/casadi/casadi) - is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs
+* [ACADO Toolkit](https://github.com/acado/acado) - is a software environment and algorithm collection for automatic control and dynamic optimization
+* [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics.
 
 ## User Interaction
 ### Graphical User Interface
@@ -462,6 +488,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
+* [asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 * [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer)- Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 * [rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art
@@ -476,6 +503,7 @@ coordinate frames of mobile platforms used with ROS.
 * [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer
 
 ### Data Visualization and Mission Control
+* [xdot](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language
 * [guacamole](https://guacamole.apache.org/) - clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH
 * [ros3djs](https://github.com/RobotWebTools/ros3djs) - 3D Visualization Library for use with the ROS JavaScript Libraries
 * [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries like rviz
@@ -507,6 +535,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
 * [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
+* [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 
 #### RViz 
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
@@ -536,12 +565,16 @@ coordinate frames of mobile platforms used with ROS.
 * [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
 * [marv-robotics](https://gitlab.com/ternaris/marv-robotics) - MARV Robotics is a powerful and extensible data management platform
 * [kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
+* [pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data
 * [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 * [nextcloud](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 * [ros_type_introspection](https://github.com/facontidavide/ros_type_introspection) - Deserialize ROS messages that are unknown at compilation time
 * [syncthing](https://github.com/syncthing/syncthing) - is a continuous file synchronization program
 * [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video)
 * [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
+* [kitti_to_rosbag](https://github.com/ethz-asl/kitti_to_rosbag) - dataset tools for working with the KITTI dataset raw data and converting it to a ROS bag. Also allows a library for direct access to poses, velodyne scans, and images. 
+* [ros_numpy](https://github.com/eric-wieser/ros_numpy) - Tools for converting ROS messages to and from numpy arrays
+
 
 ### Network Distributed File System
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
@@ -563,6 +596,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
+* [enroot](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 
 ### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
@@ -579,6 +613,8 @@ coordinate frames of mobile platforms used with ROS.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments
 * [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) - NVIDIA Container Runtime is a GPU aware container runtime, compatible with the Open Containers Initiative (OCI) specification used by Docker, CRI-O, and other popular container technologie
+* [fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
+* [jetson_easy](https://github.com/rbonghi/jetson_easy) - Automatically script to setup and configure your NVIDIA Jetson
 
 ### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
@@ -611,8 +647,10 @@ coordinate frames of mobile platforms used with ROS.
 * [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
 * [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
 * [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
-
-
+* [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
+* [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
+* [rdbox](https://github.com/rdbox-intec/rdbox) - RDBOX is a IT infrastructure for ROS robots
+* [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
@@ -634,7 +672,12 @@ coordinate frames of mobile platforms used with ROS.
 * [RVD](https://github.com/aliasrobotics/RVD) - Robot Vulnerability Database. Community-contributed archive of robot vulnerabilities and weaknesses
 * [ros2_dds_security](http://design.ros2.org/articles/ros2_dds_security.html) - adding security enhancements by defining a Service Plugin Interface (SPI) architecture, a set of builtin implementations of the SPIs, and the security model enforced by the SPIs
 * [Security-Enhanced Linux](https://github.com/SELinuxProject/selinux) - is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC)
+<<<<<<< HEAD
 
 
 ### Datasets
 * [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times during 2017-18. The vehicles were manually driven on a route in Michigan that included a mix of driving scenarios including the Detroit Airport, freeways, city-centers, university campus and suburban neighborhood.
+=======
+* [OpenTitan](https://github.com/lowRISC/opentitan) - will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product
+* [bandit](https://github.com/PyCQA/bandit) - is a tool designed to find common security issues in Python code.
+>>>>>>> b74d4eb07701c52f0cf493199b8159749b6ae306
