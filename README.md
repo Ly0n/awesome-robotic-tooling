@@ -50,6 +50,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Real-Time Kernel](#real-time-kernel)
    * [Network and Middleware](#network-and-middleware)
    * [Security](#security)
+* [Datasets](#datasets)
 
 ## Coordination and Communication
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
@@ -673,3 +674,6 @@ coordinate frames of mobile platforms used with ROS.
 * [Security-Enhanced Linux](https://github.com/SELinuxProject/selinux) - is a Linux kernel security module that provides a mechanism for supporting access control security policies, including mandatory access controls (MAC)
 * [OpenTitan](https://github.com/lowRISC/opentitan) - will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product
 * [bandit](https://github.com/PyCQA/bandit) - is a tool designed to find common security issues in Python code.
+
+### Datasets
+* [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times during 2017-18. The vehicles were manually driven on a route in Michigan that included a mix of driving scenarios including the Detroit Airport, freeways, city-centers, university campus and suburban neighborhood.
