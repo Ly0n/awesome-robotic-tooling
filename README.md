@@ -416,6 +416,7 @@ coordinate frames of mobile platforms used with ROS.
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) - Visual-Inertial Mapping with Non-Linear Factor Recovery
 * [Kimera](https://github.com/MIT-SPARK/Kimera) - is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 * [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
+* [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
