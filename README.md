@@ -375,6 +375,7 @@ compiler infrastructure project
 * [PotreeConverter](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
 * [fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
 * [ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
+* [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
