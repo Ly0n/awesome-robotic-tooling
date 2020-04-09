@@ -202,6 +202,7 @@ compiler infrastructure project
 * [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 * [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
 * [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - contains testing tools for C++, and is used in OSRF projects.
+* [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing
 
 ### Lint and Format
 * [action-ros-lint](https://github.com/ros-tooling/action-ros-lint) - Github action to run linters on ROS 2 packages
