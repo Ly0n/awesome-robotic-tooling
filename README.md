@@ -25,6 +25,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Perception Pipeline](#perception-pipeline)
    * [Parallel Processing](#parallel-processing)
    * [Machine Learning](#machine-learning)
+   * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
    * [Point Cloud Processing](#point-cloud-processing)
    * [Localization](#localization)
