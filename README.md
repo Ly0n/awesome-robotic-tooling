@@ -379,6 +379,7 @@ compiler infrastructure project
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations
 * [laser_line_extraction](https://github.com/kam3k/laser_line_extraction) - A ROS packages that extracts line segments from LaserScan messages.
 * [Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
+* [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point clouds
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
