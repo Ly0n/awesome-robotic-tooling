@@ -352,6 +352,9 @@ compiler infrastructure project
 * [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
 * [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases
 
+### Radar Processing
+* [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
+
 ### Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
 * [open3d](https://github.com/intel-isl/Open3D) - Open3D: A Modern Library for 3D Data Processing
