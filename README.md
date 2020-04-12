@@ -251,6 +251,7 @@ compiler infrastructure project
 * [go-semrel-gitab](https://gitlab.com/juhani/go-semrel-gitlab) - Automate version management for Gitlab
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+* [dvc](https://github.com/iterative/dvc) - Management and versioning of datasets and machine learning models
 
 ### Simulation
 * [Drake](https://github.com/RobotLocomotion/drake) - Drake aims to simulate even very complex dynamics of robots
