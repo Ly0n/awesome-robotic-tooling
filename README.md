@@ -693,3 +693,4 @@ coordinate frames of mobile platforms used with ROS.
 * [dataset-api](https://github.com/ApolloScapeAuto/dataset-api) - This is a repo of toolkit for ApolloScape Dataset, CVPR 2019 Workshop on Autonomous Driving Challenge and ECCV 2018 challenge.
 * [utbm_robocar_dataset](https://github.com/epan-utbm/utbm_robocar_dataset) - EU Long-term Dataset with Multiple Sensors for Autonomous Driving
 * [DBNet](https://github.com/driving-behavior/DBNet) - DBNet: A Large-Scale Dataset for Driving Behavior Learning
+* [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
