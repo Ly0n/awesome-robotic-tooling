@@ -584,7 +584,7 @@ coordinate frames of mobile platforms used with ROS.
 * [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data
 * [kitti_to_rosbag](https://github.com/ethz-asl/kitti_to_rosbag) - dataset tools for working with the KITTI dataset raw data and converting it to a ROS bag. Also allows a library for direct access to poses, velodyne scans, and images. 
 * [ros_numpy](https://github.com/eric-wieser/ros_numpy) - Tools for converting ROS messages to and from numpy arrays
-
+* [kitti_ros](https://github.com/LidarPerception/kitti_ros) - A ROS-based player to replay KiTTI dataset
 
 ### Network Distributed File System
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
