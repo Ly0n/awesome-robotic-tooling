@@ -279,6 +279,7 @@ compiler infrastructure project
 * [ROSIntegrationVision](https://github.com/code-iai/ROSIntegrationVision) - Support for ROS-enabled RGBD data acquisition in Unreal Engine Projects
 * [fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo) - contains the Gazebo simulation for Fetch Robotics Fetch and Freight Research Edition Robots.
 * [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
+* [flow](https://github.com/flow-project/flow) - is a computational framework for deep RL and control experiments for traffic microsimulation.
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -351,6 +352,7 @@ compiler infrastructure project
 * [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data
 * [detectron2](https://github.com/facebookresearch/detectron2) - is a next-generation research platform for object detection and segmentation.
 * [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases
+* [3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking) - Official implementation of Joint Monocular 3D Vehicle Detection and Tracking
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
