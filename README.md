@@ -576,6 +576,7 @@ coordinate frames of mobile platforms used with ROS.
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics 
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+* [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - A JupyterLab extension for displaying dashboards of GPU usage
 
 ### Storage and Record
 * [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
