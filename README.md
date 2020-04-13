@@ -295,6 +295,7 @@ compiler infrastructure project
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone
 * [openscad](https://github.com/openscad/openscad) -  is software for creating solid 3D CAD models
 * [ngspice](http://ngspice.sourceforge.net/) - is the open source spice simulator for electric and electronic circuits.
+* [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR provides interfaces for a wide range of radio frequency front-ends and raw sample file formats, generates processing outputs in standard formats
 
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
