@@ -389,6 +389,7 @@ compiler infrastructure project
 * [Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point clouds
 * [segmenters_lib](https://github.com/LidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection
+* [MotionNet](https://github.com/pxiangwu/MotionNet) - Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
