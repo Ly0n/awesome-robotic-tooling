@@ -482,10 +482,11 @@ coordinate frames of mobile platforms used with ROS.
 * [aikido](https://github.com/personalrobotics/aikido) - Artificial Intelligence for Kinematics, Dynamics, and Optimization
 * [casADi](https://github.com/casadi/casadi) - is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs
 * [ACADO Toolkit](https://github.com/acado/acado) - is a software environment and algorithm collection for automatic control and dynamic optimization
-* [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics.
+* [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics
 
 ## User Interaction
 ### Graphical User Interface
+* [imgui](https://github.com/ocornut/imgui) - is designed to enable fast iterations and to empower programmers to create content creation tools and visualization / debug tools
 * [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase
 * [mir](https://github.com/MirServer/mir) - Mir is set of libraries for building Wayland based shells
 * [rqt](https://wiki.ros.org/rqt) - rqt is a Qt-based framework for GUI development for ROS. It consists of three parts/metapackages
@@ -493,7 +494,8 @@ coordinate frames of mobile platforms used with ROS.
 * [chilipie](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome
 * [pencil](https://github.com/evolus/pencil) - A tool for making diagrams and GUI prototyping that everyone can use.
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
-* [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files.
+* [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files
+
 
 ### Acoustic User Interface
 * [pyo](https://github.com/belangeo/pyo) - is a Python module written in C containing classes for a wide variety of audio signal processing types
