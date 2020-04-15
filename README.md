@@ -4,7 +4,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 
 > [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - about the concept of software tooling 
 
-* [Coordination and Communication](#coordination-and-communication)
+* [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
 * [Architecture and Design](#architecture-and-design)
 * [Safety](#safety)
@@ -53,7 +53,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Security](#security)
 * [Datasets](#datasets)
 
-## Coordination and Communication
+## Communication and Coordination
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development
 * [Gitflow](https://github.com/nvie/gitflow) - Makes parallel development very easy, by isolating new development from finished work
 * [DeepL](https://github.com/uinput/deeplator) - an online translator that outperforms Google, Microsoft and Facebook
@@ -706,3 +706,4 @@ coordinate frames of mobile platforms used with ROS.
 * [utbm_robocar_dataset](https://github.com/epan-utbm/utbm_robocar_dataset) - EU Long-term Dataset with Multiple Sensors for Autonomous Driving
 * [DBNet](https://github.com/driving-behavior/DBNet) - DBNet: A Large-Scale Dataset for Driving Behavior Learning
 * [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
+
