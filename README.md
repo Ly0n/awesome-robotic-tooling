@@ -464,6 +464,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ad-rss-lib](https://github.com/intel/ad-rss-lib) - Library implementing the Responsibility Sensitive Safety model (RSS) for Autonomous Vehicles 
 * [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
 * [sts_bt_library](https://github.com/Autonomous-Logistics/sts_bt_library) - This library provides the functionality to set up your own behavior tree logic by using the defined tree structures like Fallback, Sequence or Parallel Nodes
+* [SMACC](https://github.com/reelrbtx/SMACC) - An Event-Driven, Asynchronous, Behavioral State Machine Library for real-time ROS (Robotic Operating System) applications written in C++ 
 
 ## Planning and Control
 * [pacmod](https://github.com/astuff/pacmod) -  is designed to allow the user to control a vehicle with the PACMod drive-by-wire system.
