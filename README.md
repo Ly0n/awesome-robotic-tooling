@@ -357,6 +357,7 @@ compiler infrastructure project
 * [OpenVX](https://www.khronos.org/openvx/) -  enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases
 * [3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking) - Official implementation of Joint Monocular 3D Vehicle Detection and Tracking
 * [pysot](https://github.com/STVIR/pysot) - The goal of PySOT is to provide a high-quality, high-performance codebase for visual tracking research
+* [semantic_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
