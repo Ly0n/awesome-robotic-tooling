@@ -75,6 +75,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Gerrit](https://gerrit.googlesource.com/gerrit/) - is a code review and project management tool for Git based projects
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
 * [mattermost](https://github.com/mattermost/mattermost-server) - is an open source, private cloud, Slack-alternative
+* [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
