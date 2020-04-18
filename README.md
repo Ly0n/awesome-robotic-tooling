@@ -485,6 +485,7 @@ coordinate frames of mobile platforms used with ROS.
 * [casADi](https://github.com/casadi/casadi) - is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs
 * [ACADO Toolkit](https://github.com/acado/acado) - is a software environment and algorithm collection for automatic control and dynamic optimization
 * [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics
+* [CrowdNav](https://github.com/vita-epfl/CrowdNav) -  Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning
 
 ## User Interaction
 ### Graphical User Interface
