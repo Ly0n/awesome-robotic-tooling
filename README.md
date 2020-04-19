@@ -175,7 +175,7 @@ to successfully design systems architecture
 
 ### Build and Deploy
 * [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
-* [Cross compile ROS 2 on QNX](https://gitlab.apex.ai/snippets/63) -  introduces how to cross compile ROS 2 on QNX
+* [Cross compile ROS 2 on QNX](https://gitlab.apex.ai/snippets/97) -  introduces how to cross compile ROS 2 on QNX
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier
 * [superflore](https://github.com/ros-infrastructure/superflore) - An extended platform release manager for Robot Operating System    
 * [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin
