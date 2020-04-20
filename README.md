@@ -76,6 +76,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
 * [mattermost](https://github.com/mattermost/mattermost-server) - is an open source, private cloud, Slack-alternative
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
+* [hackmd](https://hackmd.io) - Online Real-time collaborate on team documentation in markdown
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
