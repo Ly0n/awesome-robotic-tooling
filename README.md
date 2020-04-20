@@ -408,6 +408,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
+* [gLAB](https://gage.upc.edu/gLAB/) - performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing standalone GPS positioning, PPP, SBAS and DGNSS
 * [mola](https://github.com/MOLAorg/mola) - is a Modular system for Localization and Mapping
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook
