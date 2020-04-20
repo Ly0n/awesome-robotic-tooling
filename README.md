@@ -282,6 +282,7 @@ compiler infrastructure project
 * [fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo) - contains the Gazebo simulation for Fetch Robotics Fetch and Freight Research Edition Robots.
 * [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
 * [flow](https://github.com/flow-project/flow) - is a computational framework for deep RL and control experiments for traffic microsimulation.
+* [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - GNSS + inertial navigation, sensor fusion simulator. Motion trajectory generator, sensor models, and navigation
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
