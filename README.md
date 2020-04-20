@@ -235,7 +235,7 @@ compiler infrastructure project
 * [inspect](https://pymotw.com/2/inspect/) - The inspect module provides functions for learning about live objects, including modules, classes, instances, functions, and methods
 * [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) - When debugging roscpp nodes that you are launching with roslaunch, you may wish to launch the node in a debugging program like gdb or valgrind instead.
 * [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
-* [gira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
+* [qira](https://github.com/geohot/qira) - QIRA is a competitor to strace and gdb
 * [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
 * [lttng](https://lttng.org/docs/) - is an open source software toolkit which you can use to simultaneously trace the Linux kernel, user applications, and user libraries.
 * [ros2-performance](https://github.com/irobot-ros/ros2-performance) - allows to easily create arbitrary ROS2 systems and then measures their performance
