@@ -397,6 +397,7 @@ compiler infrastructure project
 * [segmenters_lib](https://github.com/LidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection
 * [MotionNet](https://github.com/pxiangwu/MotionNet) - Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps
 * [PolarSeg](https://github.com/edwardzhou130/PolarSeg) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation
+* [traversability_mapping](https://github.com/TixiaoShan/traversability_mapping) - takes in point cloud from a Velodyne VLP-16 Lidar and outputs a traversability map for autonomous navigation in real-time
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
