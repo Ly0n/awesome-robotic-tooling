@@ -165,6 +165,7 @@ to successfully design systems architecture
 * [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown 
 * [mybinder](https://mybinder.org/) - open notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 
 * [ROSOnWindows](https://ms-iot.github.io/ROSOnWindows/) - an experimental release of ROS1 for Windows
+* [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools 
 
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
