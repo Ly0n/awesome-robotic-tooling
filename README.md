@@ -567,6 +567,7 @@ coordinate frames of mobile platforms used with ROS.
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
 * [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 * [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
+* [polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds 
 
 #### RViz 
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
