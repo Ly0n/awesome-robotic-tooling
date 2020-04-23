@@ -464,6 +464,11 @@ coordinate frames of mobile platforms used with ROS.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
 * [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
 
+## Prediction
+* [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - 
+A selection of state-of-the-art research materials on trajectory prediction
+
+
 ## Behavior and Decision
 * [Groot](https://github.com/BehaviorTree/Groot) - Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
 * [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++
