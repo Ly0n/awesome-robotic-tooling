@@ -77,6 +77,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [mattermost](https://github.com/mattermost/mattermost-server) - is an open source, private cloud, Slack-alternative
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 * [hackmd](https://hackmd.io) - Online Real-time collaborate on team documentation in markdown
+* [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
