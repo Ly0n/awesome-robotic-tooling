@@ -264,6 +264,7 @@ compiler infrastructure project
 * [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
 * [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+* [awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - A curated list of awesome CARLA tutorials, blogs, and related projects.
 * [scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine 
 * [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
 * [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
@@ -288,6 +289,7 @@ compiler infrastructure project
 * [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
 * [flow](https://github.com/flow-project/flow) - is a computational framework for deep RL and control experiments for traffic microsimulation.
 * [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - GNSS + inertial navigation, sensor fusion simulator. Motion trajectory generator, sensor models, and navigation
+
 
 ## Hardware
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
