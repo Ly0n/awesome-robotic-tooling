@@ -289,7 +289,7 @@ compiler infrastructure project
 * [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - provides some multirotor models
 * [flow](https://github.com/flow-project/flow) - is a computational framework for deep RL and control experiments for traffic microsimulation.
 * [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - GNSS + inertial navigation, sensor fusion simulator. Motion trajectory generator, sensor models, and navigation
-* [Ignition Robotics](https://ignitionrobotics.org) -  brings a fresh approach to simulation with a complete toolbox of development libraries and cloud services to make simulation easy
+* [Ignition Robotics](https://ignitionrobotics.org) -  Test control strategies in safety, and take advantage of simulation in continuous integration tests.
 
 
 ## Hardware
