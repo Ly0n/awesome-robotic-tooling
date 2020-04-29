@@ -245,6 +245,7 @@ compiler infrastructure project
 * [lttng](https://lttng.org/docs/) - is an open source software toolkit which you can use to simultaneously trace the Linux kernel, user applications, and user libraries.
 * [ros2-performance](https://github.com/irobot-ros/ros2-performance) - allows to easily create arbitrary ROS2 systems and then measures their performance
 * [bcc](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+* [tracy](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 
 ### Version Control
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
