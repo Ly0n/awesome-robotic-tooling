@@ -571,6 +571,7 @@ A selection of state-of-the-art research materials on trajectory prediction
 * [octave](https://www.gnu.org/software/octave/) - provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
 
+
 #### Annotation
 * [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Annotate quickly images
@@ -667,6 +668,7 @@ A selection of state-of-the-art research materials on trajectory prediction
 * [fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) - Automatically script to setup and configure your NVIDIA Jetson
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) -  allows for usage of the NVIDIA JetPack SDK within a docker container for download, flashing, and install
+* [Pressed](https://wiki.debian.org/DebianInstaller/Preseed) - provides a way to set answers to questions asked during the installation process, without having to manually enter the answers while the installation is running
 
 ### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
