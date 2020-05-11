@@ -324,6 +324,8 @@ compiler infrastructure project
 * [pyquaternion](https://github.com/KieranWynn/pyquaternion) - is a full-featured Python module for representing and using quaternions
 * [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - This package offers calibration of a number of parameters of a robot, such as: 3D Camera intrinsics, extrinsics Joint angle offsets and robot frame offsets
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - contains a calibration tool to calibrate a sensor setup consisting of lidars, radars and cameras
+* [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data
+
 
 ## Sensor Processing
 ### Perception Pipeline
