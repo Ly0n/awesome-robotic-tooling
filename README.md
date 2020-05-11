@@ -513,6 +513,7 @@ A selection of state-of-the-art research materials on trajectory prediction
 * [ompl](https://github.com/ompl/ompl) - consists of many state-of-the-art sampling-based motion planning algorithms.
 * [openrave](https://github.com/rdiankov/openrave) - Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.
 * [teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) - An optimal trajectory planner considering distinctive topologies for mobile robots based on Timed-Elastic-Bands 
+* [pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 
 ## User Interaction
 ### Graphical User Interface
