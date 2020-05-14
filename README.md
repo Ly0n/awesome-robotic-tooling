@@ -750,4 +750,5 @@ A selection of state-of-the-art research materials on trajectory prediction
 * [utbm_robocar_dataset](https://github.com/epan-utbm/utbm_robocar_dataset) - EU Long-term Dataset with Multiple Sensors for Autonomous Driving
 * [DBNet](https://github.com/driving-behavior/DBNet) - DBNet: A Large-Scale Dataset for Driving Behavior Learning
 * [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
+* [DDAD](https://github.com/TRI-ML/DDAD) - is a new autonomous driving benchmark from TRI (Toyota Research Institute) for long range (up to 250m) and dense depth estimation in challenging and diverse urban conditions
 
