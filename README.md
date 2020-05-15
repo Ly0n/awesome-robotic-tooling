@@ -376,6 +376,7 @@ compiler infrastructure project
 * [pysot](https://github.com/STVIR/pysot) - The goal of PySOT is to provide a high-quality, high-performance codebase for visual tracking research
 * [semantic_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
 * [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study. 
+* [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - Official PyTorch implementation of self-supervised monocular depth estimation methods invented by the ML Team at Toyota Research Institute (TRI)
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
