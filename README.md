@@ -311,6 +311,7 @@ compiler infrastructure project
 * [ngspice](http://ngspice.sourceforge.net/) - is the open source spice simulator for electric and electronic circuits.
 * [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR provides interfaces for a wide range of radio frequency front-ends and raw sample file formats, generates processing outputs in standard formats
 * [riscv](https://riscv.org) - The Free and Open RISC Instruction Set Architecture
+* [urdfpy](https://github.com/mmatl/urdfpy) - is a simple and easy-to-use library for loading, manipulating, saving, and visualizing URDF files.
 
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
