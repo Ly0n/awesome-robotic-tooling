@@ -33,6 +33,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
       * [Lidar](#lidar)
       * [Camera](#camera)
       * [Static Maps](#static-maps)
+* [Prediction](#prediction)
 * [Behavior and Decision](#behavior-and-decision)
 * [Planning and Control](#planning-and-control)
 * [User Interaction](#user-interaction)
