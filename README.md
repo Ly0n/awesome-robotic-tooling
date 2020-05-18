@@ -417,6 +417,7 @@ compiler infrastructure project
 * [PolarSeg](https://github.com/edwardzhou130/PolarSeg) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation
 * [traversability_mapping](https://github.com/TixiaoShan/traversability_mapping) - takes in point cloud from a Velodyne VLP-16 Lidar and outputs a traversability map for autonomous navigation in real-time
 * [lidar_super_resolution](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution) - Simulation-based Lidar Super-resolution for Ground Vehicles
+* [cupoch](https://github.com/neka-nat/cupoch) - Cupoch is a library that implements rapid 3D data processing and robotics computation using CUDA
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -434,6 +435,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s)
+* [se2lam](https://github.com/izhengfan/se2lam) - On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision
 
 ### SLAM
 #### Lidar
@@ -466,6 +468,8 @@ coordinate frames of mobile platforms used with ROS.
 * [Kimera](https://github.com/MIT-SPARK/Kimera) - is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 * [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
 * [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
+* [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
+
 
 #### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
