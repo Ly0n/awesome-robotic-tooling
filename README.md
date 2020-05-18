@@ -328,6 +328,7 @@ compiler infrastructure project
 * [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - This package offers calibration of a number of parameters of a robot, such as: 3D Camera intrinsics, extrinsics Joint angle offsets and robot frame offsets
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - contains a calibration tool to calibrate a sensor setup consisting of lidars, radars and cameras
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data
+* [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
 
 
 ## Sensor Processing
@@ -468,7 +469,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Kimera](https://github.com/MIT-SPARK/Kimera) - is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment
 * [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
 * [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
-* [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
+* [fiducials](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
 
 
 #### Static Map
