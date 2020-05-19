@@ -313,6 +313,9 @@ compiler infrastructure project
 * [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR provides interfaces for a wide range of radio frequency front-ends and raw sample file formats, generates processing outputs in standard formats
 * [riscv](https://riscv.org) - The Free and Open RISC Instruction Set Architecture
 * [urdfpy](https://github.com/mmatl/urdfpy) - is a simple and easy-to-use library for loading, manipulating, saving, and visualizing URDF files.
+* [FMPy](https://github.com/CATIA-Systems/FMPy) - Simulate Functional Mockup Units (FMUs) in Python
+* [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Import and export Functional Mock-up Units with Simulink
+
 
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
@@ -724,6 +727,9 @@ coordinate frames of mobile platforms used with ROS.
 * [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
 * [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II (On Board Diagnostics for Vehicles) C Library
 * [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers
+* [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
+* [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
+
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
