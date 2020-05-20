@@ -172,6 +172,7 @@ to successfully design systems architecture
 * [ROSOnWindows](https://ms-iot.github.io/ROSOnWindows/) - an experimental release of ROS1 for Windows
 * [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools 
 * [cocalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud 
+* [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - Robust C/C++ code completion for Sublime Text 3
 
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
