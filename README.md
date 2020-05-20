@@ -589,6 +589,8 @@ coordinate frames of mobile platforms used with ROS.
 * [marvros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station 
 * [octave](https://www.gnu.org/software/octave/) - provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
+* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
+
 
 
 #### Annotation
@@ -732,6 +734,7 @@ coordinate frames of mobile platforms used with ROS.
 * [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 * [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
 * [airalab](https://github.com/airalab) -  AIRA is reference Robonomics network client for ROS-enabled cyber-physical systems.
+
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
