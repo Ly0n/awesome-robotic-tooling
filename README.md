@@ -316,6 +316,7 @@ compiler infrastructure project
 * [urdfpy](https://github.com/mmatl/urdfpy) - is a simple and easy-to-use library for loading, manipulating, saving, and visualizing URDF files.
 * [FMPy](https://github.com/CATIA-Systems/FMPy) - Simulate Functional Mockup Units (FMUs) in Python
 * [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Import and export Functional Mock-up Units with Simulink
+* [oemof-solph](https://github.com/oemof/oemof-solph) - A modular open source framework to model energy supply systems
 
 
 ### Calibration and Transformation
