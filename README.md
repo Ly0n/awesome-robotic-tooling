@@ -731,7 +731,7 @@ coordinate frames of mobile platforms used with ROS.
 * [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers
 * [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 * [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
-
+* [airalab](https://github.com/airalab) -  AIRA is reference Robonomics network client for ROS-enabled cyber-physical systems.
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
