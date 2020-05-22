@@ -104,6 +104,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [docs](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 * [overleaf](https://www.overleaf.com/project) - The easy to use, online, collaborative LaTeX editor
 * [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile 
+* [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - Freely-licensed LibreOffice Impress templates 
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
