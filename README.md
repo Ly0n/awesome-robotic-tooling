@@ -534,6 +534,7 @@ coordinate frames of mobile platforms used with ROS.
 * [pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics.  
 * [rmf_core](https://github.com/osrf/rmf_core) - The rmf_core packages provide the centralized functions of the Robotics Middleware Framework (RMF)
+* [OpEn](https://github.com/alphaville/optimization-engine) - is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 
 
 ## User Interaction
