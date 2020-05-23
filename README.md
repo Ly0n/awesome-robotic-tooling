@@ -774,4 +774,5 @@ coordinate frames of mobile platforms used with ROS.
 * [DBNet](https://github.com/driving-behavior/DBNet) - DBNet: A Large-Scale Dataset for Driving Behavior Learning
 * [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
 * [DDAD](https://github.com/TRI-ML/DDAD) - is a new autonomous driving benchmark from TRI (Toyota Research Institute) for long range (up to 250m) and dense depth estimation in challenging and diverse urban conditions
+* [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) - Public large-scale dataset for autonomous driving provided by Hesai & Scale
 
