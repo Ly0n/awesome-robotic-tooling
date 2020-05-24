@@ -508,6 +508,7 @@ coordinate frames of mobile platforms used with ROS.
 * [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
 * [sts_bt_library](https://github.com/Autonomous-Logistics/sts_bt_library) - This library provides the functionality to set up your own behavior tree logic by using the defined tree structures like Fallback, Sequence or Parallel Nodes
 * [SMACC](https://github.com/reelrbtx/SMACC) - An Event-Driven, Asynchronous, Behavioral State Machine Library for real-time ROS (Robotic Operating System) applications written in C++ 
+* [py_trees_ros](https://github.com/splintered-reality/py_trees_ros) - Behaviours, trees and utilities that extend py_trees for use with ROS.
 
 ## Planning and Control
 * [pacmod](https://github.com/astuff/pacmod) -  is designed to allow the user to control a vehicle with the PACMod drive-by-wire system.
