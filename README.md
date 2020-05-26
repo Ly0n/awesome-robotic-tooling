@@ -692,6 +692,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux
 * [Xen](https://wiki.debian.org/Xen) - is an open-source (GPL) type-1 or baremetal hypervisor
 * [QEMU](https://www.qemu.org/) - is a generic and open source machine emulator and virtualizer
+* [qemu-xilinx](https://github.com/Xilinx/qemu) - A fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms
 * [rosserial](https://github.com/ros-drivers/rosserial) - A ROS client library for small, embedded devices, such as Arduino
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices
