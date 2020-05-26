@@ -388,6 +388,7 @@ compiler infrastructure project
 * [semantic_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
 * [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study. 
 * [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - Official PyTorch implementation of self-supervised monocular depth estimation methods invented by the ML Team at Toyota Research Institute (TRI)
+* [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - This work proposes a simple yet accurate real-time baseline 3D multi-object tracking system
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
