@@ -363,6 +363,7 @@ compiler infrastructure project
 * [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 * [tensorflow_ros_cpp](https://github.com/tradr-project/tensorflow_ros_cpp) - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
 * [Tensorflow Federated](https://github.com/tensorflow/federated) - TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data
+* [finn](https://github.com/Xilinx/finn) - Fast, Scalable Quantized Neural Network Inference on FPGAs
 
 ### Image Processing
 * [image_pipeline](https://github.com/ros-perception/image_pipeline) - fills the gap between getting raw images from a camera driver and higher-level vision processing
