@@ -540,6 +540,7 @@ coordinate frames of mobile platforms used with ROS.
 * [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - an efficient C++ library for control, estimation, optimization and motion planning in robotics.  
 * [rmf_core](https://github.com/osrf/rmf_core) - The rmf_core packages provide the centralized functions of the Robotics Middleware Framework (RMF)
 * [OpEn](https://github.com/alphaville/optimization-engine) - is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
+* [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - This project provides the continuation/GMRES method (C/GMRES method) based solvers for nonlinear model predictive control (NMPC) and an automatic code generator for NMPC
 
 
 ## User Interaction
