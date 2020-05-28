@@ -561,6 +561,7 @@ coordinate frames of mobile platforms used with ROS.
 * [mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant
 
 ### Command Line Interface
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - Powerful zsh and vim dotfiles
 * [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles
 * [prompt-hjem](https://github.com/cornerman/prompt-hjem) - A beautiful zsh prompt
