@@ -606,7 +606,7 @@ coordinate frames of mobile platforms used with ROS.
 * [marvros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station 
 * [octave](https://www.gnu.org/software/octave/) - provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
-* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
+* [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) - URDF Loaders for Unity and THREE.js with example ATHLETE URDF File
 
 
 #### Annotation
