@@ -32,7 +32,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [SLAM](#slam)
       * [Lidar](#lidar)
       * [Camera](#camera)
-      * [Static Maps](#static-maps)
+      * [Static Map](#static-map)
 * [Prediction](#prediction)
 * [Behavior and Decision](#behavior-and-decision)
 * [Planning and Control](#planning-and-control)
