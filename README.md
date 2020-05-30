@@ -347,6 +347,8 @@ compiler infrastructure project
 * [AugmentedAutoencoder](https://github.com/DLR-RM/AugmentedAutoencoder) - RGB-based pipeline for object detection and 6D pose estimation
 * [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) - is a stack for the perception packages which are used in JSK lab.
 * [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents
+* [morefusion](https://github.com/wkentaro/morefusion) - Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion
+
 
 ### Parallel Processing
 * [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
