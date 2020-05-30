@@ -503,7 +503,7 @@ coordinate frames of mobile platforms used with ROS.
 
 ## Prediction
 * [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
-* [sgan](https://github.com/agrimgupta92/sgan) -  Socially Acceptable Trajectories with Generative Adversarial Networks"
+* [sgan](https://github.com/agrimgupta92/sgan) -  Socially Acceptable Trajectories with Generative Adversarial Networks
 
 ## Behavior and Decision
 * [Groot](https://github.com/BehaviorTree/Groot) - Graphical Editor to create BehaviorTrees. Compliant with BehaviorTree.CPP
