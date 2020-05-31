@@ -254,6 +254,7 @@ compiler infrastructure project
 * [tracy](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 
 ### Version Control
+* [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
 * [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git 
 * [gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
