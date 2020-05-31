@@ -559,6 +559,7 @@ coordinate frames of mobile platforms used with ROS.
 * [pencil](https://github.com/evolus/pencil) - A tool for making diagrams and GUI prototyping that everyone can use.
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
 * [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files
+* [elements](https://github.com/cycfi/elements) - is a lightweight, fine-grained, resolution independent, modular GUI library
 
 
 ### Acoustic User Interface
