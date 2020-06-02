@@ -438,6 +438,7 @@ compiler infrastructure project
 * [linefit_ground_segmentation](https://github.com/lorenwel/linefit_ground_segmentation) - Implementation of the ground segmentation algorithm
 * [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds
 * [votenet](https://github.com/facebookresearch/votenet) - Deep Hough Voting for 3D Object Detection in Point Clouds 
+* [Det3D](https://github.com/poodarchu/Det3D) - A general 3D Object Detection codebase in PyTorch
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
