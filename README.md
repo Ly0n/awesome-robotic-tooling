@@ -396,6 +396,7 @@ compiler infrastructure project
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - This work proposes a simple yet accurate real-time baseline 3D multi-object tracking system
 * [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection using deep neural network model
 * [OpenDroneMap](https://github.com/OpenDroneMap/ODM) - An open source command line toolkit for processing aerial drone imagery
+* [monoloco](https://github.com/vita-epfl/monoloco) - Official implementation of "MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation" in PyTorch 
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
