@@ -435,6 +435,7 @@ compiler infrastructure project
 * [lidar_super_resolution](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution) - Simulation-based Lidar Super-resolution for Ground Vehicles
 * [cupoch](https://github.com/neka-nat/cupoch) - Cupoch is a library that implements rapid 3D data processing and robotics computation using CUDA
 * [linefit_ground_segmentation](https://github.com/lorenwel/linefit_ground_segmentation) - Implementation of the ground segmentation algorithm
+* [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
