@@ -620,6 +620,7 @@ coordinate frames of mobile platforms used with ROS.
 * [point_labeler](https://github.com/jbehley/point_labeler) - Tool for labeling of a single point clouds or a stream of point clouds
 * [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * [napari](https://github.com/napari/napari) -  a fast, interactive, multi-dimensional image viewer for python 
+* [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
 
 #### Point Cloud
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
