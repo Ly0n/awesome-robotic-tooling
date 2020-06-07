@@ -27,7 +27,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Machine Learning](#machine-learning)
    * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
-   * [Point Cloud Processing](#point-cloud-processing)
+   * [Lidar Processing](#point-cloud-processing)
    * [Localization](#localization)
    * [SLAM](#slam)
       * [Lidar](#lidar)
@@ -401,7 +401,7 @@ compiler infrastructure project
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
 
-### Point Cloud Processing
+### Lidar Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
 * [open3d](https://github.com/intel-isl/Open3D) - Open3D: A Modern Library for 3D Data Processing
 * [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
@@ -440,6 +440,8 @@ compiler infrastructure project
 * [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds
 * [votenet](https://github.com/facebookresearch/votenet) - Deep Hough Voting for 3D Object Detection in Point Clouds 
 * [Det3D](https://github.com/poodarchu/Det3D) - A general 3D Object Detection codebase in PyTorch
+* [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - provides lidar motion undistortion based on an external 6DoF pose estimation input.
+
 
 ## Localization
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
