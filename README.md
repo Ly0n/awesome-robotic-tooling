@@ -370,6 +370,7 @@ compiler infrastructure project
 * [tensorflow_ros_cpp](https://github.com/tradr-project/tensorflow_ros_cpp) ![tensorflow_ros_cpp](https://img.shields.io/github/stars/tradr-project/tensorflow_ros_cpp.svg?style=flat&label=Star&maxAge=86400)  - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
 * [Tensorflow Federated](https://github.com/tensorflow/federated) ![federated](https://img.shields.io/github/stars/tensorflow/federated.svg?style=flat&label=Star&maxAge=86400)  - TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data
 * [finn](https://github.com/Xilinx/finn) ![finn](https://img.shields.io/github/stars/Xilinx/finn.svg?style=flat&label=Star&maxAge=86400)  - Fast, Scalable Quantized Neural Network Inference on FPGAs
+* [neuropod](https://github.com/uber/neuropod) - A uniform interface to run deep learning models from multiple frameworks 
 
 ### Image Processing
 * [image_pipeline](https://github.com/ros-perception/image_pipeline) ![image_pipeline](https://img.shields.io/github/stars/ros-perception/image_pipeline.svg?style=flat&label=Star&maxAge=86400)  - fills the gap between getting raw images from a camera driver and higher-level vision processing
