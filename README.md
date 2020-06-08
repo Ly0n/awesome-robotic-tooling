@@ -461,6 +461,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ![Kalman-and-Bayesian-Filters-in-Python](https://img.shields.io/github/stars/rlabbe/Kalman-and-Bayesian-Filters-in-Python.svg?style=flat&label=Star&maxAge=86400)  - Kalman Filter book using Jupyter Notebook
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) ![mcl_3dl](https://img.shields.io/github/stars/at-wat/mcl_3dl.svg?style=flat&label=Star&maxAge=86400)  - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s)
 * [se2lam](https://github.com/izhengfan/se2lam) ![se2lam](https://img.shields.io/github/stars/izhengfan/se2lam.svg?style=flat&label=Star&maxAge=86400)  - On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision
+* [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions with high accuracy and energy efficiency 
 
 ### SLAM
 #### Lidar
