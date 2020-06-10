@@ -399,6 +399,7 @@ compiler infrastructure project
 * [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ![lanenet-lane-detection](https://img.shields.io/github/stars/MaybeShewill-CV/lanenet-lane-detection.svg?style=flat&label=Star&maxAge=86400)  - Unofficial implemention of lanenet model for real time lane detection using deep neural network model
 * [OpenDroneMap](https://github.com/OpenDroneMap/ODM) ![ODM](https://img.shields.io/github/stars/OpenDroneMap/ODM.svg?style=flat&label=Star&maxAge=86400)  - An open source command line toolkit for processing aerial drone imagery
 * [monoloco](https://github.com/vita-epfl/monoloco) ![monoloco](https://img.shields.io/github/stars/vita-epfl/monoloco.svg?style=flat&label=Star&maxAge=86400)  - Official implementation of "MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation" in PyTorch
+* [poly-yolo](https://gitlab.com/irafm-ai/poly-yolo) -  builds on the original ideas of YOLOv3 and removes two of its weaknesses: a large amount of rewritten labels and inefficient distribution of anchors
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) ![pyroSAR](https://img.shields.io/github/stars/johntruckenbrodt/pyroSAR.svg?style=flat&label=Star&maxAge=86400)  - Framework for large-scale SAR satellite data processing
