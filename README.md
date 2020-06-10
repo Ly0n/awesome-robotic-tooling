@@ -125,6 +125,7 @@ to successfully design systems architecture
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
 * [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code
+* [autoware-architecture-proposal](https://github.com/tier4/AutowareArchitectureProposal)
 
 ### Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
