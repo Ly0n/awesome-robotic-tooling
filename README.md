@@ -698,7 +698,7 @@ coordinate frames of mobile platforms used with ROS.
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
 
-### High Performance Computing 
+### High Performance Computing and Server Management
 * [polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
 * [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
@@ -707,12 +707,14 @@ coordinate frames of mobile platforms used with ROS.
 * [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router 
 * [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
+* [pyinfra](https://github.com/Fizzadar/pyinfra) - It can be used for ad-hoc command execution, service deployment, configuration management and more
 * [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API 
 * [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5
 * [Slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 * [enroot](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
+* [docker-firefox](https://github.com/jlesage/docker-firefox) - Run a Docker Container with Firefox and noVNC for remote access to headless servers
 
 ### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
