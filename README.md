@@ -818,3 +818,4 @@ coordinate frames of mobile platforms used with ROS.
 * [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) - Public large-scale dataset for autonomous driving provided by Hesai & Scale
 * [a2d2_to_ros](https://gitlab.com/MaplessAI/external/a2d2_to_ros) - Utilities for converting A2D2 data sets to ROS bags.
 * [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
+* [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning 
