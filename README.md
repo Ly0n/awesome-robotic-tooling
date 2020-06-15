@@ -1,6 +1,6 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Just a bunch of powerful robotic resources and tools for professional development with ROS in C++ with a touch of autonomous driving.
+Just a bunch of powerful robotic resources and tools for professional development with ROS in C++ with a touch of autonomous driving and aerospace.
 
 > [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - about the concept of software tooling 
 
