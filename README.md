@@ -402,7 +402,7 @@ compiler infrastructure project
 * [OpenDroneMap](https://github.com/OpenDroneMap/ODM) - An open source command line toolkit for processing aerial drone imagery
 * [monoloco](https://github.com/vita-epfl/monoloco) - Official implementation of "MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation" in PyTorch 
 * [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - builds on the original ideas of YOLOv3 and removes two of its weaknesses: a large amount of rewritten labels and inefficient distribution of anchors
-
+* [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
@@ -516,7 +516,6 @@ coordinate frames of mobile platforms used with ROS.
 * [Mapbox](https://github.com/mapbox/mapbox-gl-js) - is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds 
-* [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware. 
 * [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
@@ -819,3 +818,5 @@ coordinate frames of mobile platforms used with ROS.
 * [a2d2_to_ros](https://gitlab.com/MaplessAI/external/a2d2_to_ros) - Utilities for converting A2D2 data sets to ROS bags.
 * [argoverse-api](https://github.com/argoai/argoverse-api) - Official GitHub repository for Argoverse dataset
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning 
+* [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
+
