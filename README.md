@@ -387,6 +387,7 @@ compiler infrastructure project
 * [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments
 * [vision_opencv](https://github.com/ros-perception/vision_opencv) - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 * [darknet_ros](https://github.com/leggedrobotics/darknet_ros) - YOLO ROS: Real-Time Object Detection for ROS
+* [ros_ncnn](https://github.com/nilseuropa/ros_ncnn) - YOLACT / YOLO *( among other things )* on NCNN inference engine for ROS
 * [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
 * [find-object](https://github.com/introlab/find-object) - Simple Qt interface to try OpenCV implementations of SIFT, SURF, FAST, BRIEF and other feature detectors and descriptors
 * [yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
