@@ -405,6 +405,7 @@ compiler infrastructure project
 * [monoloco](https://github.com/vita-epfl/monoloco) - Official implementation of "MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation" in PyTorch 
 * [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - builds on the original ideas of YOLOv3 and removes two of its weaknesses: a large amount of rewritten labels and inefficient distribution of anchors
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
+* [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
@@ -490,7 +491,7 @@ coordinate frames of mobile platforms used with ROS.
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records in point cloud processing
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 
-#### Image
+#### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
 * [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
