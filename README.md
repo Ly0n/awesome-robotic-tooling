@@ -490,8 +490,6 @@ coordinate frames of mobile platforms used with ROS.
 * [pyslam](https://github.com/luigifreda/pyslam) - contains a monocular Visual Odometry (VO) pipeline in Python
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records in point cloud processing
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
-* [obstacle_detector](https://github.com/tysik/obstacle_detector) - The obstacle_detector package provides utilities to detect and track obstacles from data provided by 2D laser scanner
-
 
 #### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
