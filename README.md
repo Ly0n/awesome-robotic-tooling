@@ -806,6 +806,8 @@ coordinate frames of mobile platforms used with ROS.
 * [OpenTitan](https://github.com/lowRISC/opentitan) - will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product
 * [bandit](https://github.com/PyCQA/bandit) - is a tool designed to find common security issues in Python code.
 * [hardening](https://github.com/konstruktoid/hardening) - A quick way to make a Ubuntu server a bit more secure.
+* [gopass](https://github.com/gopasspw/gopass) - is a password manager for the command line written in Go
+* [pass](https://www.passwordstore.org/) - the standard unix password manager
 
 
 ## Datasets
