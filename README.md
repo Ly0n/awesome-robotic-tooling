@@ -412,6 +412,7 @@ compiler infrastructure project
 * [big_transfer](https://github.com/google-research/big_transfer) - Model for General Visual Representation Learning created by Google Research
 * [LEDNet](https://github.com/xiaoyufenfei/LEDNet) - A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation
 * [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch. 
+* [simpledet](https://github.com/tusimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
