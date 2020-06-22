@@ -24,7 +24,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Sensor Processing](#sensor-processing)
    * [Perception Pipeline](#perception-pipeline)
    * [Parallel Processing](#parallel-processing)
-   * [Machine Learning](#machine-learning)
+   * [Generic Machine Learning](#generic-machine-learning)
    * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
    * [Lidar Processing](#point-cloud-processing)
@@ -364,7 +364,7 @@ compiler infrastructure project
 * [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
 * [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
 
-### Machine Learning
+### Generic Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
@@ -375,6 +375,7 @@ compiler infrastructure project
 * [finn](https://github.com/Xilinx/finn) - Fast, Scalable Quantized Neural Network Inference on FPGAs
 * [neuropod](https://github.com/uber/neuropod) - Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python
 * [leela-zero](https://github.com/leela-zero/leela-zero) - This is a fairly faithful reimplementation of the system described in the Alpha Go Zero paper "Mastering the Game of Go without Human Knowledge"
+* [trax](https://github.com/google/trax) - Trax is a library for deep learning that focuses on sequence models and reinforcement learning
 
 
 ### Image Processing
