@@ -640,6 +640,7 @@ coordinate frames of mobile platforms used with ROS.
 * [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * [napari](https://github.com/napari/napari) -  a fast, interactive, multi-dimensional image viewer for python 
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
+* [RapiD](https://github.com/facebookincubator/RapiD) - an enhanced version of iD for mapping with AI
 
 
 #### Point Cloud
