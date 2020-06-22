@@ -406,6 +406,7 @@ compiler infrastructure project
 * [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - builds on the original ideas of YOLOv3 and removes two of its weaknesses: a large amount of rewritten labels and inefficient distribution of anchors
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery
+* [big_transfer](https://github.com/google-research/big_transfer) - Model for General Visual Representation Learning created by Google Research
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
@@ -515,7 +516,7 @@ coordinate frames of mobile platforms used with ROS.
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
-* [RapiD](https://github.com/facebookincubator/RapiD) - an enhanced version of iD for mapping with AI
+* [RapiD](https://github.com/facebookincubator/RapiD) - an enhanced version of iD for mapping with AI created by Facebook
 * [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-js) - is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
