@@ -409,6 +409,8 @@ compiler infrastructure project
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery
 * [big_transfer](https://github.com/google-research/big_transfer) - Model for General Visual Representation Learning created by Google Research
+* [LEDNet](https://github.com/xiaoyufenfei/LEDNet) - A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation
+* [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch. 
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
