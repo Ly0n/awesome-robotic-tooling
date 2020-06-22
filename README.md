@@ -28,11 +28,11 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
    * [Lidar Processing](#point-cloud-processing)
-   * [Localization](#localization)
+   * [Localization and Sensor Fusion](#localization)
    * [SLAM](#slam)
       * [Lidar](#lidar)
       * [Camera](#camera)
-      * [Static Map](#static-map)
+   * [Static Map](#static-map)
 * [Prediction](#prediction)
 * [Behavior and Decision](#behavior-and-decision)
 * [Planning and Control](#planning-and-control)
@@ -509,12 +509,13 @@ coordinate frames of mobile platforms used with ROS.
 * [fiducials](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
 
 
-#### Static Map
+### Static Map
 * [OpenDRIVE](http://www.opendrive.org/index.html) - OpenDRIVE® is an open file format for the logical description of road networks
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 * [barefoot](https://github.com/bmwcarit/barefoot) -  Online and Offline map matching that can be used stand-alone and in the cloud
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript
+* [RapiD](https://github.com/facebookincubator/RapiD) - an enhanced version of iD for mapping with AI
 * [segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-js) - is a JavaScript library for interactive, customizable vector maps on the web
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -523,6 +524,7 @@ coordinate frames of mobile platforms used with ROS.
 * [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
 * [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
+
 
 ## Prediction
 * [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
@@ -640,7 +642,6 @@ coordinate frames of mobile platforms used with ROS.
 * [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * [napari](https://github.com/napari/napari) -  a fast, interactive, multi-dimensional image viewer for python 
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
-* [RapiD](https://github.com/facebookincubator/RapiD) - an enhanced version of iD for mapping with AI
 
 
 #### Point Cloud
