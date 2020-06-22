@@ -524,6 +524,7 @@ coordinate frames of mobile platforms used with ROS.
 * [geopandas](https://github.com/geopandas/geopandas) - is a project to add support for geographic data to pandas objects.
 * [MapToolbox](https://github.com/autocore-ai/MapToolbox) - Plugins to make Autoware vector maps in Unity 
 * [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
+* [mapillary_tools](https://github.com/mapillary/mapillary_tools) - is a library for processing and uploading images to Mapillary.
 
 
 ## Prediction
