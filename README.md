@@ -325,6 +325,7 @@ compiler infrastructure project
 * [oemof-solph](https://github.com/oemof/oemof-solph) - A modular open source framework to model energy supply systems
 * [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * [SUAVE](https://github.com/suavecode/SUAVE) - An Aircraft Design Toolbox
+* [opem](https://github.com/ECSIM/opem) - The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells
 
 
 ### Calibration and Transformation
