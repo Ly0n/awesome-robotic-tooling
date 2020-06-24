@@ -150,6 +150,7 @@ to successfully design systems architecture
 * [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) - enables cooperative automated driving plug-in
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [PX4](https://github.com/PX4/Firmware) - is an open source flight control software for drones and other unmanned vehicles
+* [KubOS](https://github.com/kubos/kubos) - is an open-source software stack for satellites.
 
 ## Development Environment
 ### Code and Run
@@ -462,13 +463,11 @@ compiler infrastructure project
 * [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - provides lidar motion undistortion based on an external 6DoF pose estimation input.
 
 
-## Localization
+## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
 * [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - is a package of nonlinear state estimation nodes
 * [fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a 
 robot.
-* [rep-105](https://www.ros.org/reps/rep-0105.html) - Naming conventions and semantic meaning for
-coordinate frames of mobile platforms used with ROS.
 * [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
@@ -480,9 +479,10 @@ coordinate frames of mobile platforms used with ROS.
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s)
 * [se2lam](https://github.com/izhengfan/se2lam) - On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency 
+* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) -  computes the position and velocity of an earth-orbiting satellite, given the satellite’s TLE orbital elements from a source like Celestrak.
 
 
-### SLAM
+### Simultaneous Localization and Mapping
 #### Lidar
 * [loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
 * [lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
