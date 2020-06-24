@@ -19,7 +19,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Debugging and Tracing](#debugging-and-tracing)
    * [Version Control](#version-control)
    * [Simulation](#simulation)
-* [Hardware](#hardware)
+* [Electronics and Mechanics](#electronics-and-mechanics)
    * [Calibration and Transformation](#calibration-and-transformation)
 * [Sensor Processing](#sensor-processing)
    * [Perception Pipeline](#perception-pipeline)
