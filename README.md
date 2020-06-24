@@ -304,7 +304,7 @@ compiler infrastructure project
 * [simulation assets for the SubT](https://subtchallenge.world/openrobotics/fuel/collections/SubT%20Tech%20Repo) - This collection contains simulation assets for the SubT Challenge Virtual Competition in Gazebo
 * [gazebo_ros_motors](https://github.com/nilseuropa/gazebo_ros_motors) - contains currently two motor plugins for Gazebo, one with an ideal speed controller and one without a controller that models a DC motor
 
-## Hardware
+## Electronics and Mechanics
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
 * [URDF](https://github.com/ros/urdf) - Repository for Unified Robot Description Format (URDF) parsing code
 * [phobos](https://github.com/dfki-ric/phobos) - An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.
@@ -327,6 +327,7 @@ compiler infrastructure project
 * [SUAVE](https://github.com/suavecode/SUAVE) - An Aircraft Design Toolbox
 * [opem](https://github.com/ECSIM/opem) - The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - is a community supported tool that provides a set of functions and classes for simulating the performance of photovoltaic energy systems
+* [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
 
 
 ### Calibration and Transformation
