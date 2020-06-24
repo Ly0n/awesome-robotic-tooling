@@ -461,6 +461,7 @@ compiler infrastructure project
 * [votenet](https://github.com/facebookresearch/votenet) - Deep Hough Voting for 3D Object Detection in Point Clouds 
 * [Det3D](https://github.com/poodarchu/Det3D) - A general 3D Object Detection codebase in PyTorch
 * [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - provides lidar motion undistortion based on an external 6DoF pose estimation input.
+* [superpoint_graph](https://github.com/loicland/superpoint_graph) - Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
 
 
 ## Localization and State Estimation
