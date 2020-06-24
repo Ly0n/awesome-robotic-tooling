@@ -45,7 +45,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
       * [RViz](#rviz)
 * [Operation System](#system)
    * [Monitoring](#monitoring)
-   * [Storage and Record](#storage-and-record)
+   * [Database and Record](#database-and-record)
    * [Network Distributed File System](#network-distributed-file-system)
    * [High Performance Computing](#high-performance-computing)
    * [Embedded Operation System](#embedded-operation-system)
@@ -688,7 +688,7 @@ robot.
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 * [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - A JupyterLab extension for displaying dashboards of GPU usage
 
-### Storage and Record
+### Database and Record
 * [ncdu](https://dev.yorhel.nl/ncdu) - Ncdu is a disk usage analyzer with an ncurses interface
 * [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption
 * [bag-database](https://github.com/swri-robotics/bag-database) - A server that catalogs bag files and provides a web-based UI for accessing them
