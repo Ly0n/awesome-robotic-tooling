@@ -381,6 +381,7 @@ compiler infrastructure project
 * [neuropod](https://github.com/uber/neuropod) - Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python
 * [leela-zero](https://github.com/leela-zero/leela-zero) - This is a fairly faithful reimplementation of the system described in the Alpha Go Zero paper "Mastering the Game of Go without Human Knowledge"
 * [trax](https://github.com/google/trax) - Trax is a library for deep learning that focuses on sequence models and reinforcement learning
+* [mlflow](https://github.com/mlflow/mlflow) - is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models
 
 
 ### Image Processing
