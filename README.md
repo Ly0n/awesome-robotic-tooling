@@ -102,7 +102,8 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [papermill](https://github.com/nteract/papermill) - is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
-* [docs](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+* [docsy](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+* [actions-hugo](https://github.com/peaceiris/) - Deploy website based on Hugo to Github Pages 
 * [overleaf](https://www.overleaf.com/project) - The easy to use, online, collaborative LaTeX editor
 * [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile 
 * [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - Freely-licensed LibreOffice Impress templates 
