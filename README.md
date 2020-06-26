@@ -331,7 +331,7 @@ compiler infrastructure project
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - is a community supported tool that provides a set of functions and classes for simulating the performance of photovoltaic energy systems
 * [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
 
-
+## Sensor Processing
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
 * [lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
@@ -348,8 +348,6 @@ compiler infrastructure project
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
 
-
-## Sensor Processing
 ### Perception Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
 * [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
@@ -761,6 +759,7 @@ robot.
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible
 
 ### Network and Middleware
+* [Tesla-API](https://github.com/timdorr/tesla-api) - provides functionality to monitor and control the Model S (and future Tesla vehicles) remotely
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
