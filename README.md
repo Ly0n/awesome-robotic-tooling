@@ -305,6 +305,8 @@ compiler infrastructure project
 * [Ignition Robotics](https://ignitionrobotics.org) -  Test control strategies in safety, and take advantage of simulation in continuous integration tests.
 * [simulation assets for the SubT](https://subtchallenge.world/openrobotics/fuel/collections/SubT%20Tech%20Repo) - This collection contains simulation assets for the SubT Challenge Virtual Competition in Gazebo
 * [gazebo_ros_motors](https://github.com/nilseuropa/gazebo_ros_motors) - contains currently two motor plugins for Gazebo, one with an ideal speed controller and one without a controller that models a DC motor
+* [map2gazebo](https://github.com/shilohc/map2gazebo) - ROS package for creating Gazebo environments from 2D maps
+
 
 ## Electronics and Mechanics
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
