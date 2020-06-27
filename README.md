@@ -47,7 +47,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Monitoring](#monitoring)
    * [Database and Record](#database-and-record)
    * [Network Distributed File System](#network-distributed-file-system)
-   * [High Performance Computing](#high-performance-computing)
+   * [High Performance Computing and Server Infrastructure](#high-performance-computing-and-server-infrastructure)
    * [Embedded Operation System](#embedded-operation-system)
    * [Real-Time Kernel](#real-time-kernel)
    * [Network and Middleware](#network-and-middleware)
@@ -713,7 +713,8 @@ robot.
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
 
-### High Performance Computing and Server Management
+### High Performance Computing and Server Infrastructure
+* [mass](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 * [polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
 * [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs 
