@@ -470,6 +470,7 @@ compiler infrastructure project
 * [Det3D](https://github.com/poodarchu/Det3D) - A general 3D Object Detection codebase in PyTorch
 * [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - provides lidar motion undistortion based on an external 6DoF pose estimation input.
 * [superpoint_graph](https://github.com/loicland/superpoint_graph) - Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
+* [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) - Efficient Semantic Segmentation of Large-Scale Point Clouds
 
 
 ## Localization and State Estimation
