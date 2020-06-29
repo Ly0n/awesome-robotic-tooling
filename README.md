@@ -512,6 +512,7 @@ robot.
 
 #### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
+* [orbslam-map-saving-extension](https://github.com/TUMFTM/orbslam-map-saving-extension) - In this extensions the map of ORB-features be saved to the disk as a reference for future runs along the same track
 * [dso](https://github.com/JakobEngel/dso/) - Direct Sparse Odometry
 * [viso2](https://github.com/srv/viso2) - A ROS wrapper for libviso2, a library for visual odometry
 * [xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
