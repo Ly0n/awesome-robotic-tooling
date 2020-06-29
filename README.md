@@ -104,11 +104,12 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [papermill](https://github.com/nteract/papermill) - is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
 * [docsy](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 * [actions-hugo](https://github.com/peaceiris/) - Deploy website based on Hugo to Github Pages 
-* [overleaf](https://www.overleaf.com/project) - The easy to use, online, collaborative LaTeX editor
+* [overleaf](https://github.com/overleaf/overleaf) - An open-source online real-time collaborative LaTeX editor
 * [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile 
 * [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - Freely-licensed LibreOffice Impress templates 
 * [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation 
 * [olive](https://www.olivevideoeditor.org/) - is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
