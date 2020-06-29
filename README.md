@@ -6,9 +6,9 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 
 * [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
+* [Requirements and Safety](#requirements-and-safety)
 * [Architecture and Design](#architecture-and-design)
-* [Safety](#safety)
-* [Framework](#framework)
+* [Frameworks and Stacks](#frameworks-and-stacks)
 * [Development Environment](#development-environment)
    * [Code and Run](#code-and-run)
    * [Template](#template)
@@ -110,21 +110,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation 
 * [olive](https://www.olivevideoeditor.org/) - is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
 
-
-## Architecture and Design
-* [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
-* [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
-* [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
-* [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
-* [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
-* [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
-* [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format)
-* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
-* [aztarna](https://github.com/aliasrobotics/aztarna) -  a footprinting tool for robots.
-* [draw.io](https://www.draw.io/) - is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams 
-* [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code
-
-### Requirements and Safety
+## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
 * [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - Create functional safety documents in this Udacity project
@@ -141,8 +127,20 @@ to successfully design systems architecture
 * [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
 * [ScenarioArchitect](https://github.com/TUMFTM/ScenarioArchitect) - The Scenario Architect is a basic python tool to generate, import and export short scene snapshots
 
+## Architecture and Design
+* [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
+* [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
+* [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
+* [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
+* [rqt_graph](https://wiki.ros.org/rqt_graph) - rqt_graph provides a GUI plugin for visualizing the ROS computation graph
+* [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
+* [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format)
+* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
+* [aztarna](https://github.com/aliasrobotics/aztarna) -  a footprinting tool for robots.
+* [draw.io](https://www.draw.io/) - is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams 
+* [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code
 
-## Framework and Stacks
+## Frameworks and Stacks
 * [ROS](https://github.com/ros) - (Robot Operating System) provides libraries and tools to help software developers create robot applications
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 * [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
