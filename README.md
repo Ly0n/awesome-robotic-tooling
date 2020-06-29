@@ -113,7 +113,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
-* [doorstep](https://github.com/doorstop-dev/doorstop) - Requirements management using version control
 * [yed](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams
 * [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd
 * [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation	
@@ -123,14 +122,9 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 * [aztarna](https://github.com/aliasrobotics/aztarna) -  a footprinting tool for robots.
 * [draw.io](https://www.draw.io/) - is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams 
-* [capella](https://www.eclipse.org/capella/) - Comprehensive, extensible and field-proven MBSE tool and method
-to successfully design systems architecture
-* [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
-* [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
-* [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code
 
-### Safety
+### Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage’s safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
 * [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - Create functional safety documents in this Udacity project
@@ -139,8 +133,16 @@ to successfully design systems architecture
 * [Air Vehicle C++ development coding standards](http://www.stroustrup.com/JSF-AV-rules.pdf) - Provide direction and guidance to C++ programmers that will enable them to employ good programming style and proven programming practices leading to safe, reliable, testable, and maintainable code
 * [AUTOSAR Coding Standard](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-10/AUTOSAR_RS_CPP14Guidelines.pdf) - Guidelines for the use of the C++14 language in critical and safety-related system
 * [The W-Model and Lean Scaled Agility for Engineering](https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf) - Ford applied an agile V-Model method from Vector that can be used in safety related project management
+* [doorstep](https://github.com/doorstop-dev/doorstop) - Requirements management using version control
+* [capella](https://www.eclipse.org/capella/) - Comprehensive, extensible and field-proven MBSE tool and method
+to successfully design systems architecture
+* [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
+* [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
+* [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
+* [ScenarioArchitect](https://github.com/TUMFTM/ScenarioArchitect) - The Scenario Architect is a basic python tool to generate, import and export short scene snapshots
 
-## Framework
+
+## Framework and Stacks
 * [ROS](https://github.com/ros) - (Robot Operating System) provides libraries and tools to help software developers create robot applications
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 * [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
@@ -154,6 +156,8 @@ to successfully design systems architecture
 * [Automotive Grade Linux](https://www.automotivelinux.org/) - Automotive Grade Linux is a collaborative open source project that is bringing together automakers, suppliers and technology companies to accelerate the development and adoption of a fully open software stack for the connected car
 * [PX4](https://github.com/PX4/Firmware) - is an open source flight control software for drones and other unmanned vehicles
 * [KubOS](https://github.com/kubos/kubos) - is an open-source software stack for satellites.
+* [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
+
 
 ## Development Environment
 ### Code and Run
@@ -308,6 +312,7 @@ compiler infrastructure project
 * [simulation assets for the SubT](https://subtchallenge.world/openrobotics/fuel/collections/SubT%20Tech%20Repo) - This collection contains simulation assets for the SubT Challenge Virtual Competition in Gazebo
 * [gazebo_ros_motors](https://github.com/nilseuropa/gazebo_ros_motors) - contains currently two motor plugins for Gazebo, one with an ideal speed controller and one without a controller that models a DC motor
 * [map2gazebo](https://github.com/shilohc/map2gazebo) - ROS package for creating Gazebo environments from 2D maps
+* [sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics) - Vehicle Dynamics Simulation Software of TUM Roborace Team
 
 
 ## Electronics and Mechanics
@@ -424,6 +429,7 @@ compiler infrastructure project
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
+* [CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 
 ### Lidar Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
@@ -584,6 +590,8 @@ robot.
 * [rmf_core](https://github.com/osrf/rmf_core) - The rmf_core packages provide the centralized functions of the Robotics Middleware Framework (RMF)
 * [OpEn](https://github.com/alphaville/optimization-engine) - is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - This project provides the continuation/GMRES method (C/GMRES method) based solvers for nonlinear model predictive control (NMPC) and an automatic code generator for NMPC
+* [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
+
 
 
 ## User Interaction
