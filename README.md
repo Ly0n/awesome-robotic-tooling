@@ -263,7 +263,7 @@ compiler infrastructure project
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
-* [meld](https://github.com/kaiw/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
+* [meld](https://github.com/GNOME/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects
 * [tig](https://github.com/jonas/tig) - Text-mode interface for git 
 * [gitg](https://github.com/GNOME/gitg) - is a graphical user interface for git
 * [git-cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI
