@@ -24,7 +24,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Calibration and Transformation](#calibration-and-transformation)
    * [Perception Pipeline](#perception-pipeline)
    * [Parallel Processing](#parallel-processing)
-   * [Generic Machine Learning](#generic-machine-learning)
+   * [Machine Learning](#machine-learning)
    * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
    * [Lidar Processing](#point-cloud-processing)
@@ -374,7 +374,7 @@ compiler infrastructure project
 * [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
 * [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
 
-### Generic Machine Learning
+### Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
 * [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming
