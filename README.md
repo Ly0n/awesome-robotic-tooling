@@ -490,6 +490,7 @@ robot.
 * [se2lam](https://github.com/izhengfan/se2lam) - On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency 
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) -  computes the position and velocity of an earth-orbiting satellite, given the satellite’s TLE orbital elements from a source like Celestrak.
+* [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - is a ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap
 
 
 ### Simultaneous Localization and Mapping
@@ -810,6 +811,7 @@ robot.
 * [airalab](https://github.com/airalab) -  AIRA is reference Robonomics network client for ROS-enabled cyber-physical systems.
 * [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more
 * [netplan](https://netplan.io/) - simply create a YAML description of the required network interfaces and what each should be configured to do
+* [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
