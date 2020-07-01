@@ -354,6 +354,7 @@ compiler infrastructure project
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - contains a calibration tool to calibrate a sensor setup consisting of lidars, radars and cameras
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
+* [ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
 
 ### Perception Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
