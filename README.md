@@ -155,6 +155,7 @@ to successfully design systems architecture
 * [PX4](https://github.com/PX4/Firmware) - is an open source flight control software for drones and other unmanned vehicles
 * [KubOS](https://github.com/kubos/kubos) - is an open-source software stack for satellites.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
+* [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 
 
 ## Development Environment
