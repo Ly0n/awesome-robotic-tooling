@@ -356,6 +356,8 @@ compiler infrastructure project
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
 * [ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
+* [livox_camera_lidar_calibration](https://github.com/Livox-SDK/livox_camera_lidar_calibration) - Calibrate the extrinsic parameters between Livox LiDAR and camera
+
 
 ### Perception Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) - ROS package for the Perception (Sensor Processing, Detection, Tracking and Evaluation) of the KITTI Vision Benchmark Suite
@@ -513,6 +515,7 @@ robot.
 * [pyslam](https://github.com/luigifreda/pyslam) - contains a monocular Visual Odometry (VO) pipeline in Python
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records in point cloud processing
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
+* [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon liadr
 
 #### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
