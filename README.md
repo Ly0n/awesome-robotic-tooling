@@ -339,6 +339,8 @@ compiler infrastructure project
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - is a community supported tool that provides a set of functions and classes for simulating the performance of photovoltaic energy systems
 * [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
 
+
+
 ## Sensor Processing
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - transform library, which lets the user keep track of multiple coordinate frames over time
@@ -475,6 +477,7 @@ compiler infrastructure project
 * [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - provides lidar motion undistortion based on an external 6DoF pose estimation input.
 * [superpoint_graph](https://github.com/loicland/superpoint_graph) - Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
 * [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) - Efficient Semantic Segmentation of Large-Scale Point Clouds
+* [Det3D](https://github.com/poodarchu/Det3D) - Det3D is the first 3D Object Detection toolbox which provides off the box implementations of many 3D object detection algorithms such as PointPillars, SECOND, PIXOR
 
 
 ## Localization and State Estimation
