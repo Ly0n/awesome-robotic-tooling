@@ -18,7 +18,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Launch and Monitor](#launch-and-monitor)
    * [Debugging and Tracing](#debugging-and-tracing)
    * [Version Control](#version-control)
-   * [Simulation](#simulation)
+* [Simulation](#simulation)
 * [Electronics and Mechanics](#electronics-and-mechanics)
 * [Sensor Processing](#sensor-processing)
    * [Calibration and Transformation](#calibration-and-transformation)
