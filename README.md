@@ -79,7 +79,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 * [hackmd](https://hackmd.io) - Online Real-time collaborate on team documentation in markdown
 * [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
-* [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager 
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -109,6 +108,8 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - Freely-licensed LibreOffice Impress templates 
 * [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation 
 * [olive](https://www.olivevideoeditor.org/) - is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+* [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager 
+
 
 ## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
