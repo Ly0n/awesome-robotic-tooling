@@ -277,7 +277,7 @@ compiler infrastructure project
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * [dvc](https://github.com/iterative/dvc) - Management and versioning of datasets and machine learning models
 
-### Simulation
+## Simulation
 * [Drake](https://github.com/RobotLocomotion/drake) - Drake aims to simulate even very complex dynamics of robots
 * [Webots](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
