@@ -734,7 +734,7 @@ robot.
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
 
-### Server Infrastructure
+### Server Infrastructure and High Performance Computing
 * [mass](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 * [polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
 * [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -752,6 +752,8 @@ robot.
 * [Portainer](https://github.com/portainer/portainer)	 - Making Docker management easy
 * [enroot](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 * [docker-firefox](https://github.com/jlesage/docker-firefox) - Run a Docker Container with Firefox and noVNC for remote access to headless servers
+* [luigi](https://github.com/spotify/luigi) - is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+
 
 ### Embedded Operation System
 * [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
