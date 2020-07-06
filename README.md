@@ -313,6 +313,7 @@ compiler infrastructure project
 * [gazebo_ros_motors](https://github.com/nilseuropa/gazebo_ros_motors) - contains currently two motor plugins for Gazebo, one with an ideal speed controller and one without a controller that models a DC motor
 * [map2gazebo](https://github.com/shilohc/map2gazebo) - ROS package for creating Gazebo environments from 2D maps
 * [sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics) - Vehicle Dynamics Simulation Software of TUM Roborace Team
+* [gym-carla](https://github.com/cjy1992/gym-carla) - An OpenAI gym wrapper for CARLA simulator
 
 
 ## Electronics and Mechanics
