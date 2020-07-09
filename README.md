@@ -63,7 +63,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [kanban](https://gitlab.com/leanlabsio/kanban) - Free, open source, self-hosted, Kanban board for GitLab issues
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
 * [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
-* [Woost](https://woost.space/) - Workflow Automation, Collaboration with Externals
 * [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
@@ -79,6 +78,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 * [hackmd](https://hackmd.io) - Online Real-time collaborate on team documentation in markdown
 * [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
+
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -127,6 +127,7 @@ to successfully design systems architecture
 * [Papyrus for Robotics](https://www.eclipse.org/papyrus/components/robotics/) - is graphical editing tool for robotic applications that complies with the RobMoSys approach
 * [fossology](https://github.com/fossology/fossology) - a toolkit you can run license, copyright and export control scans from the command line
 * [ScenarioArchitect](https://github.com/TUMFTM/ScenarioArchitect) - The Scenario Architect is a basic python tool to generate, import and export short scene snapshots
+
 
 ## Architecture and Design
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - on how to architect ROS-based systems
@@ -340,6 +341,7 @@ compiler infrastructure project
 * [opem](https://github.com/ECSIM/opem) - The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - is a community supported tool that provides a set of functions and classes for simulating the performance of photovoltaic energy systems
 * [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
+* [Horizon](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
 
 
 
@@ -432,6 +434,8 @@ compiler infrastructure project
 * [LEDNet](https://github.com/xiaoyufenfei/LEDNet) - A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation
 * [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch. 
 * [simpledet](https://github.com/tusimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
+* [meshroom](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
+
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
@@ -521,7 +525,7 @@ robot.
 * [pyslam](https://github.com/luigifreda/pyslam) - contains a monocular Visual Odometry (VO) pipeline in Python
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records in point cloud processing
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
-* [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon liadr
+* [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon lidar
 
 #### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
