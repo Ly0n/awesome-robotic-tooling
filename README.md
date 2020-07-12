@@ -280,6 +280,8 @@ compiler infrastructure project
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) - Git-Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * [dvc](https://github.com/iterative/dvc) - Management and versioning of datasets and machine learning models
+* [learnGitBranching](https://github.com/pcottle/learnGitBranching) - is a git repository visualizer, sandbox, and a series of educational tutorials and challenges
+
 
 ## Simulation
 * [Drake](https://github.com/RobotLocomotion/drake) - Drake aims to simulate even very complex dynamics of robots
