@@ -683,7 +683,7 @@ robot.
 
 
 #### Annotation
-* [rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
+* [labelbox](https://github.com/Labelbox/labelbox) - is the fastest way to annotate data to build and ship artificial intelligence applications
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Annotate quickly images
 * [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
 * [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
