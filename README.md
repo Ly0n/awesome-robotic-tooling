@@ -503,7 +503,6 @@ robot.
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers
 * [gLAB](https://gage.upc.edu/gLAB/) - performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing standalone GPS positioning, PPP, SBAS and DGNSS
-* [mola](https://github.com/MOLAorg/mola) - is a Modular system for Localization and Mapping
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s)
@@ -533,6 +532,8 @@ robot.
 * [PointCNN](https://github.com/yangyanli/PointCNN) - is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records in point cloud processing
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 * [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon lidar
+* [mola](https://github.com/MOLAorg/mola) - is a Modular System for Localization and Mapping
+
 
 #### Visual
 * [orb_slam_2_ros](https://github.com/appliedAI-Initiative/orb_slam_2_ros) - A ROS implementation of ORB_SLAM2
