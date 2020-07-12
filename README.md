@@ -89,6 +89,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources
 * [Sphinx](https://github.com/sphinx-doc/sphinx/) - is a tool that makes it easy to create intelligent and beautiful documentation for Python projects
 * [Word-to-Markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word document
+* [paperless](https://github.com/the-paperless-project/paperless) - Index and archive all of your scanned paper documents
 * [carbon](https://github.com/carbon-app/carbon) - Share beautiful images of your source code
 * [undraw](https://undraw.co/illustrations) - Free Professional business SVGs easy to customize
 * [asciinema](https://github.com/asciinema/asciinema) - lets you easily record terminal sessions and replay them in a terminal as well as in a web browser.
@@ -109,6 +110,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation 
 * [olive](https://www.olivevideoeditor.org/) - is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
 * [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager 
+* [swiftlatex](https://www.swiftlatex.com/) - a WYSIWYG Browser-based LaTeX Editor
 
 
 ## Requirements and Safety
@@ -436,6 +438,7 @@ compiler infrastructure project
 * [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch. 
 * [simpledet](https://github.com/tusimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 * [meshroom](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use Optical character recognition (OCR) with 40+ languages supported including Chinese, Japanese, Korean and Thai
 
 
 ### Radar Processing
