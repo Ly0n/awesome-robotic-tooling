@@ -315,6 +315,7 @@ compiler infrastructure project
 * [map2gazebo](https://github.com/shilohc/map2gazebo) - ROS package for creating Gazebo environments from 2D maps
 * [sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics) - Vehicle Dynamics Simulation Software of TUM Roborace Team
 * [gym-carla](https://github.com/cjy1992/gym-carla) - An OpenAI gym wrapper for CARLA simulator
+* [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 
 
 ## Electronics and Mechanics
