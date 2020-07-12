@@ -31,7 +31,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Localization and State Estimation](#localization-and-state-estimation)
    * [Simultaneous Localization and Mapping](#simultaneous-localization-and-mapping)
       * [Lidar](#lidar)
-      * [Camera](#camera)
+      * [Visual](#visual)
    * [Vector Map](#vector-map)
 * [Prediction](#prediction)
 * [Behavior and Decision](#behavior-and-decision)
