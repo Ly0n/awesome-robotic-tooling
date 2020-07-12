@@ -27,7 +27,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Machine Learning](#machine-learning)
    * [Radar Processing](#radar-processing)
    * [Image Processing](#image-processing)
-   * [Lidar Processing](#point-cloud-processing)
+   * [Lidar and Point Cloud Processing](#lidar-and-point-cloud-processing)
    * [Localization and State Estimation](#localization-and-state-estimation)
    * [Simultaneous Localization and Mapping](#simultaneous-localization-and-mapping)
       * [Lidar](#lidar)
@@ -446,6 +446,7 @@ compiler infrastructure project
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
 * [CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
+
 
 ### Lidar and Point Cloud Processing
 * [cilantro](https://github.com/kzampog/cilantro) - A lean C++ library for working with point cloud data
