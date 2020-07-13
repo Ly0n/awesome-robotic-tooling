@@ -115,6 +115,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager 
 * [swiftlatex](https://www.swiftlatex.com/) - a WYSIWYG Browser-based LaTeX Editor
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - allows complex PDF layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
+* [foam](https://github.com/foambubble/foam) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 
 
 ## Requirements and Safety
