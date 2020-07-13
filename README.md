@@ -347,7 +347,7 @@ compiler infrastructure project
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - is a community supported tool that provides a set of functions and classes for simulating the performance of photovoltaic energy systems
 * [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
 * [Horizon](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
-
+* [tigl](https://github.com/DLR-SC/tigl) - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files
 
 
 ## Sensor Processing
@@ -799,45 +799,59 @@ robot.
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible
 
 ### Network and Middleware
-* [Tesla-API](https://github.com/timdorr/tesla-api) - provides functionality to monitor and control the Model S (and future Tesla vehicles) remotely
+* [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based              communication frameworks.
+* [realtime_support](https://github.com/ros2/realtime_support) - Minimal real-time testing utility for measuring jitter and latency.
+* [ros1_bridge](https://github.com/ros2/ros1_bridge) -  ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
+* [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
+* [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
+* [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
+* [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
+* [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more
+* [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
+
+#### Ethernet and Wireless Networking
+* [SOES](https://github.com/OpenEtherCATsociety/SOES) - SOES is an EtherCAT slave stack written in c
+* [netplan](https://netplan.io/) - simply create a YAML description of the required network interfaces and what each should be configured to do
+* [airalab](https://github.com/airalab) -  AIRA is reference Robonomics network client for ROS-enabled cyber-physical systems.
+* [rdbox](https://github.com/rdbox-intec/rdbox) - RDBOX is a IT infrastructure for ROS robots
+* [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
+* [wavemon](https://github.com/uoaerg/wavemon) - is an ncurses-based monitoring application for wireless network devices
+* [wireless](https://github.com/clearpathrobotics/wireless) - Making info about wireless networks available to ROS.
+* [ptpd](https://github.com/ptpd/ptpd) - PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. PTP provides precise time coordination of Ethernet LAN connected computers
+* [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
+* [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
 * [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-* [nethogs](https://github.com/raboof/nethogs) - It groups bandwidth by process
-* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
-* [performance_test](https://github.com/ApexAI/performance_test) - Tool to test the performance of pub/sub based              communication frameworks.
-* [realtime_support](https://github.com/ros2/realtime_support) - Minimal real-time testing utility for measuring jitter and latency.
-* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools
-* [iperf](https://github.com/esnet/iperf) - A TCP, UDP, and SCTP network bandwidth measurement tool
+* [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
+
+#### Controller Area Network
+* [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
+* [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
+* [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
+* [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers
+* [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
+* [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
+* [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II (On Board Diagnostics for Vehicles) C Library
+* [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
+* [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
+* [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
 * [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 * [ros_canopen](https://github.com/ros-industrial/ros_canopen) - CANopen driver framework for ROS
 * [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool
-* [ros1_bridge](https://github.com/ros2/ros1_bridge) -  ROS 2 package that provides bidirectional communication between ROS 1 and ROS 2
-* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium
-* [ptpd](https://github.com/ptpd/ptpd) - PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. PTP provides precise time coordination of Ethernet LAN connected computers
-* [wireless](https://github.com/clearpathrobotics/wireless) - Making info about wireless networks available to ROS.
-* [wavemon](https://github.com/uoaerg/wavemon) - is an ncurses-based monitoring application for wireless network devices
-* [protobuf](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
-* [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
-* [opensplice](https://github.com/ADLINK-IST/opensplice) - Vortex OpenSplice Community Edition 
-* [ros_ethercat](https://github.com/shadow-robot/ros_ethercat) - This is a reimplementation of the main loop of pr2_ethercat without dependencies on PR2 software
-* [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS is a very performant and robust open-source DDS implementation
-* [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
-* [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
-* [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
-* [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
-* [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
-* [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
-* [rdbox](https://github.com/rdbox-intec/rdbox) - RDBOX is a IT infrastructure for ROS robots
-* [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
-* [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II (On Board Diagnostics for Vehicles) C Library
-* [python-can](https://github.com/hardbyte/python-can) - The can package provides controller area network support for Python developers
-* [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
-* [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
-* [airalab](https://github.com/airalab) -  AIRA is reference Robonomics network client for ROS-enabled cyber-physical systems.
-* [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more
-* [netplan](https://netplan.io/) - simply create a YAML description of the required network interfaces and what each should be configured to do
-* [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
+* [kvaser_interface](https://github.com/astuff/kvaser_interface) - This package was developed as a standardized way to access Kvaser CAN devices from ROS
+* [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+
+
+### Sensor and Acuator Interfaces
+* [Tesla-API](https://github.com/timdorr/tesla-api) - provides functionality to monitor and control the Model S (and future Tesla vehicles) remotely
+* [flirpy](https://github.com/LJMUAstroecology/flirpy) - is a Python library to interact with FLIR thermal imaging cameras and images.
+* [nerian_stereo](https://github.com/nerian-vision/nerian_stereo) - ROS node for Nerian's SceneScan and SP1 stereo vision sensors
+* [pymmw](https://github.com/m6c7l/pymmw) - This is a toolbox composed of Python scripts to interact with TI's evaluation module (BoosterPack) for the IWR1443 mmWave sensing device
+* [pacmod3](https://github.com/astuff/pacmod3) - This ROS node is designed to allow the user to control a vehicle with the PACMod drive-by-wire system, board revision 3.
+
 
 ### Security
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - can define launch files running nodes in restrained environments, such as Docker containers or separate user accounts with limited privileges
@@ -887,3 +901,4 @@ robot.
 * [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) - A diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world. 
 * [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview) - TensorFlow Datasets provides many public datasets as tf.data.Datasets
 * [racetrack-database](https://github.com/TUMFTM/racetrack-database) - contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks (mainly F1 and DTM) all over the world
+* [BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
