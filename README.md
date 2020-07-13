@@ -270,6 +270,8 @@ compiler infrastructure project
 * [ros2-performance](https://github.com/irobot-ros/ros2-performance) - allows to easily create arbitrary ROS2 systems and then measures their performance
 * [bcc](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [tracy](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
+* [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
