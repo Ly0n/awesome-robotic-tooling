@@ -51,6 +51,9 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Embedded Operation System](#embedded-operation-system)
    * [Real-Time Kernel](#real-time-kernel)
    * [Network and Middleware](#network-and-middleware)
+      * [Ethernet and Wireless Networking](#ethernet-and-wireless-networking)
+      * [Controller Area Network](#controller-area-network)
+      * [Sensor and Acuator Interfaces](#sensor-and-acuator-interfaces=
    * [Security](#security)
 * [Datasets](#datasets)
 
