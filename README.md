@@ -853,7 +853,22 @@ robot.
 * [flirpy](https://github.com/LJMUAstroecology/flirpy) - is a Python library to interact with FLIR thermal imaging cameras and images.
 * [nerian_stereo](https://github.com/nerian-vision/nerian_stereo) - ROS node for Nerian's SceneScan and SP1 stereo vision sensors
 * [pymmw](https://github.com/m6c7l/pymmw) - This is a toolbox composed of Python scripts to interact with TI's evaluation module (BoosterPack) for the IWR1443 mmWave sensing device
+* [ti_mmwave_rospkg](https://github.com/radar-lab/ti_mmwave_rospkg) - TI mmWave radar ROS driver (with sensor fusion and hybrid
 * [pacmod3](https://github.com/astuff/pacmod3) - This ROS node is designed to allow the user to control a vehicle with the PACMod drive-by-wire system, board revision 3.
+* [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - These are packages for using Intel RealSense cameras (D400 series) with ROS2.
+* [sick_scan](https://github.com/SICKAG/sick_scan) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
+* [ouster_example](https://github.com/ouster-lidar/ouster_example) - Sample code for connecting to and configuring the OS1, reading and visualizing data, and interfacing with ROS.
+* [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver) - is a new ROS package, specially used to connect LiDAR products produced by Livox
+* [velodyne](https://github.com/ros-drivers/velodyne) -  is a collection of ROS2 packages supporting Velodyne high definition 3D LIDARs
+* [ublox](https://github.com/KumarRobotics/ublox) - provides support for u-blox GPS receivers.
+* [crazyflie_ros](https://github.com/whoenig/crazyflie_ros) - ROS Driver for Bitcraze Crazyflie
+* [pointgrey_camera_driver](https://github.com/ros-drivers/pointgrey_camera_driver) - ROS driver for Pt. Grey cameras, based on the official FlyCapture2 SDK
+* [novatel_gps_driver](https://github.com/swri-robotics/novatel_gps_driver) - ROS driver for NovAtel GPS / GNSS receivers
+* [pylon-ros-camera](https://github.com/basler/pylon-ros-camera) - The official pylon ROS driver for Basler GigE Vision and USB3 Vision cameras:
+* [ethz_piksi_ros](https://github.com/ethz-asl/ethz_piksi_ros) -  contains (python) ROS drivers, tools, launch files, and wikis about how to use Piksi Real Time Kinematic (RTK) GPS device in ROS
+* [sick_safetyscanners](https://github.com/SICKAG/sick_safetyscanners) - A ROS Driver which reads the raw data from the SICK Safety Scanners and publishes the data as a laser_scan msg.
+* [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver) - A driver for the sensor IMU Bosch BNO055. It was implemented only the UART communication interface (correct sensor mode should be selected).
+* [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - Ethernet interface to OxTS GPS receivers using the NCOM packet structure
 
 
 ### Security
