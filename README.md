@@ -114,6 +114,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [olive](https://www.olivevideoeditor.org/) - is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
 * [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager 
 * [swiftlatex](https://www.swiftlatex.com/) - a WYSIWYG Browser-based LaTeX Editor
+* [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - allows complex PDF layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
 
 
 ## Requirements and Safety
