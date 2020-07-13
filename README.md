@@ -53,7 +53,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Network and Middleware](#network-and-middleware)
       * [Ethernet and Wireless Networking](#ethernet-and-wireless-networking)
       * [Controller Area Network](#controller-area-network)
-      * [Sensor and Acuator Interfaces](#sensor-and-acuator-interfaces=
+      * [Sensor and Acuator Interfaces](#sensor-and-acuator-interfaces)
    * [Security](#security)
 * [Datasets](#datasets)
 
