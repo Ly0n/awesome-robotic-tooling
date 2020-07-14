@@ -65,7 +65,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board
 * [kanban](https://gitlab.com/leanlabsio/kanban) - Free, open source, self-hosted, Kanban board for GitLab issues
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) - Simple Selfhosted Gitlab Server with Docker
-* [Gogs](https://github.com/gogs/gogs) - Aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
+* [Gogs](https://github.com/gogs/gogs) - build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way
 * [Wekan](https://github.com/wekan/wekan) - Meteor based Kanban Board
 * [JIRA API](https://github.com/pycontribs/jira) - Python Library for REST API of Jira
 * [Taiga API](https://github.com/nephila/python-taiga) - Python Library for REST API of Taiga
