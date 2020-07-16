@@ -837,6 +837,8 @@ robot.
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
 
 #### Controller Area Network
+* [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android OBD diagnostics with any ELM327 adapter
+* [ddt4all](https://github.com/cedricp/ddt4all) - DDT4All is a tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface
 * [cabana](https://github.com/commaai/cabana) - CAN visualizer and DBC maker
 * [opendbc](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
 * [libuavcan](https://github.com/UAVCAN/libuavcan) - is an open lightweight protocol designed for reliable communication in aerospace and robotic applications over robust vehicular networks such as CAN bus.
