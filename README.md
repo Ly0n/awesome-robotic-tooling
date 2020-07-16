@@ -781,7 +781,6 @@ robot.
 
 
 ### Embedded Operation System
-* [awesome-embedded-linux](https://github.com/fkromer/awesome-embedded-linux) - A curated list of awesome Embedded Linux resources
 * [vxworks7-ros2-build](https://github.com/Wind-River/vxworks7-ros2-build) - Build system to automate the build of VxWorks 7 and ROS2 
 * [Yocto](https://git.yoctoproject.org/) - Produce tools and processes that enable the creation of Linux distributions for embedded software that are independent of the underlying architecture of the embedded hardware
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - is a collaborative open source project that is bringing together automakers, suppliers and technology companies to build a Linux-based, open software platform for automotive applications that can serve as the de facto industry standard
