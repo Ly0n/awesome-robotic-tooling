@@ -703,11 +703,12 @@ robot.
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
 
 
-#### Point Cloud
+#### Point Cloud 
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets 
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - makes viewing massive point clouds easy and convenient
-* [ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
+* [LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time visualization and easy processing of live captured 3D LiDAR data from Lidar sensors
+* [VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization of live captured 3D LiDAR data from Velodyne's HDL sensors.
 * [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 * [polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds 
 
