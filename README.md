@@ -647,6 +647,7 @@ robot.
 * [rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy (pronounced RAH-SPEE) is an offline, multilingual voice assistant toolkit inspired by Jasper that works well with Home Assistant, Hass.io, and Node-RED
 * [mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant
 * [DDSP](https://github.com/magenta/ddsp) - is a library of differentiable versions of common DSP functions (such as synthesizers, waveshapers, and filters)
+* [NoiseTorch](https://github.com/lawl/NoiseTorch) - creates a virtual microphone that suppresses noise, in any application
 
 ### Command Line Interface
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
