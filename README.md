@@ -522,7 +522,6 @@ robot.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - is a ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap
 * [eagleye](https://github.com/MapIV/eagleye) -  is an open-source software for vehicle localization utilizing GNSS and IMU
 
-
 ### Simultaneous Localization and Mapping
 #### Lidar
 * [loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
@@ -562,6 +561,7 @@ robot.
 * [tagslam](https://github.com/berndpfrommer/tagslam) - is a ROS-based package for Simultaneous Localization and Mapping using AprilTag fiducial markers
 * [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 * [fiducials](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
+* [open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
 
 ### Vector Map
