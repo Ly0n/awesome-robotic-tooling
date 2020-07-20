@@ -761,6 +761,8 @@ robot.
 * [moosefs](https://github.com/moosefs/moosefs) -  a scalable distributed storage system
 * [ceph](https://github.com/ceph/ceph) - is a distributed object, block, and file storage platform 
 * [nfs](https://github.com/sahlberg/libnfs) - is a distributed file system protocol originally developed by Sun Microsystems 
+* [ansible-role-nfs](https://github.com/geerlingguy/ansible-role-nfs) - Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
+
 
 ### Server Infrastructure and High Performance Computing
 * [mass](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
