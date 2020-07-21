@@ -409,6 +409,7 @@ compiler infrastructure project
 * [leela-zero](https://github.com/leela-zero/leela-zero) - This is a fairly faithful reimplementation of the system described in the Alpha Go Zero paper "Mastering the Game of Go without Human Knowledge"
 * [trax](https://github.com/google/trax) - Trax is a library for deep learning that focuses on sequence models and reinforcement learning
 * [mlflow](https://github.com/mlflow/mlflow) - is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models
+* [Netron](https://github.com/lutzroeder/Netron) - Visualizer for neural network, deep learning and machine learning models
 
 
 ### Image Processing
