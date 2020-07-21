@@ -451,6 +451,7 @@ compiler infrastructure project
 * [meshroom](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use Optical character recognition (OCR) with 40+ languages supported including Chinese, Japanese, Korean and Thai
 * [pytracking](https://github.com/visionml/pytracking) - A general python framework for visual object tracking and video object segmentation, based on PyTorch.
+* [ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
 
 
 ### Radar Processing
