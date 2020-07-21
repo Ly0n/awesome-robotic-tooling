@@ -648,6 +648,7 @@ robot.
 * [mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft is a hackable open source voice assistant
 * [DDSP](https://github.com/magenta/ddsp) - is a library of differentiable versions of common DSP functions (such as synthesizers, waveshapers, and filters)
 * [NoiseTorch](https://github.com/lawl/NoiseTorch) - creates a virtual microphone that suppresses noise, in any application
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - is an open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
 
 ### Command Line Interface
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
