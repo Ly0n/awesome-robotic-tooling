@@ -412,6 +412,7 @@ compiler infrastructure project
 
 
 ### Image Processing
+* [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models
 * [image_pipeline](https://github.com/ros-perception/image_pipeline) - fills the gap between getting raw images from a camera driver and higher-level vision processing
 * [gstreamer](https://gstreamer.freedesktop.org/) - is a pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
 * [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) -  provides a ROS-adaptered runtime framework of neural network which quickly deploys applications and solutions for vision inference
