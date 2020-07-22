@@ -676,6 +676,7 @@ robot.
 * [terminator](https://launchpad.net/terminator) - The goal of this project is to produce a useful tool for arranging terminals
 * [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 * [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer
+* [tmate](https://github.com/tmate-io/tmate) - Instant terminal sharing
 
 ### Data Visualization and Mission Control
 * [xdot](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language
