@@ -194,6 +194,7 @@ to successfully design systems architecture
 * [cocalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud 
 * [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - Robust C/C++ code completion for Sublime Text 3
 
+
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) - Templates on how to create launch files for larger projects
@@ -829,6 +830,8 @@ robot.
 * [iceoryx](https://github.com/eclipse/iceoryx) - an IPC middleware for POSIX-based systems
 * [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more
 * [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
+* [eCAL](https://github.com/continental/) - The enhanced communication abstraction layer (eCAL) is a middleware that enables scalable, high performance interprocess communication on a single computer node or between different nodes in a computer network
+
 
 #### Ethernet and Wireless Networking
 * [SOES](https://github.com/OpenEtherCATsociety/SOES) - SOES is an EtherCAT slave stack written in c
