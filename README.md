@@ -289,6 +289,9 @@ compiler infrastructure project
 * [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * [dvc](https://github.com/iterative/dvc) - Management and versioning of datasets and machine learning models
 * [learnGitBranching](https://github.com/pcottle/learnGitBranching) - is a git repository visualizer, sandbox, and a series of educational tutorials and challenges
+* [gitfs](https://github.com/Presslabs/gitfs) - You can mount a remote repository's branch locally, and any subsequent changes made to the files will be automatically committed to the remote.
+* [git-secret](https://github.com/sobolevn/git-secret) - encrypts files with permitted users' public keys, allowing users you trust to access encrypted data using pgp and their secret keys
+* [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 
 
 ## Simulation
