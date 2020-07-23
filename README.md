@@ -415,6 +415,7 @@ compiler infrastructure project
 
 
 ### Image Processing
+* [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 * [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models
 * [image_pipeline](https://github.com/ros-perception/image_pipeline) - fills the gap between getting raw images from a camera driver and higher-level vision processing
 * [gstreamer](https://gstreamer.freedesktop.org/) - is a pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
