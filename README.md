@@ -356,6 +356,7 @@ compiler infrastructure project
 * [WireViz](https://github.com/formatc1702/WireViz) - is a tool for easily documenting cables, wiring harnesses and connector pinouts.
 * [Horizon](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
 * [tigl](https://github.com/DLR-SC/tigl) - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files
+* [foxBMS](https://github.com/foxBMS/foxbms) - is a free, open and flexible development environment to design battery management systems
 
 
 ## Sensor Processing
