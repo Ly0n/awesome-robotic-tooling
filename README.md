@@ -898,8 +898,7 @@ robot.
 * [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver) - A driver for the sensor IMU Bosch BNO055. It was implemented only the UART communication interface (correct sensor mode should be selected).
 * [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - Ethernet interface to OxTS GPS receivers using the NCOM packet structure
 * [ifm3d](https://github.com/ifm/ifm3d) - Library and Utilities for working with ifm pmd-based 3D ToF Cameras
-
-
+* [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - Provides ROS support for Cepton LiDAR
 
 
 ### Security
