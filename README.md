@@ -418,7 +418,6 @@ compiler infrastructure project
 
 
 ### Image Processing
-* [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 * [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models
 * [image_pipeline](https://github.com/ros-perception/image_pipeline) - fills the gap between getting raw images from a camera driver and higher-level vision processing
 * [gstreamer](https://gstreamer.freedesktop.org/) - is a pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
@@ -459,6 +458,8 @@ compiler infrastructure project
 * [pytracking](https://github.com/visionml/pytracking) - A general python framework for visual object tracking and video object segmentation, based on PyTorch.
 * [ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) - Deep learning inference nodes for ROS with support for NVIDIA Jetson TX1/TX2/Xavier and TensorRT
 * [hyperpose](https://github.com/tensorlayer/hyperpose) - HyperPose: A Flexible Library for Real-time Human Pose Estimation
+* [fawkes](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
+* [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 
 
 ### Radar Processing
