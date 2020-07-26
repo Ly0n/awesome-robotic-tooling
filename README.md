@@ -38,7 +38,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Planning and Control](#planning-and-control)
 * [User Interaction](#user-interaction)
    * [Graphical User Interface](#graphical-user-interface)
-   * [Acoustic User Interface](#Acoustic User Interface)
+   * [Acoustic User Interface](#acoustic-user-interface)
    * [Command Line Interface](#command-line-interface)
    * [Data Visualization and Mission Control](#Data-Visualization-and-Mission-Control)
       * [Annotation](#annotation)
