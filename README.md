@@ -575,6 +575,7 @@ robot.
 * [LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 * [fiducials](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
 * [open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+* [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
 
 ### Vector Map
