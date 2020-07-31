@@ -80,7 +80,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application
 * [mattermost](https://github.com/mattermost/mattermost-server) - is an open source, private cloud, Slack-alternative
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
-* [hackmd](https://github.com/codimd/server) - Open Source Online Real-time collaborate on team documentation in markdown
 * [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
 * [gitter](https://gitlab.com/gitlab-org/gitter/webapp) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 
@@ -118,7 +117,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [swiftlatex](https://www.swiftlatex.com/) - a WYSIWYG Browser-based LaTeX Editor
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - allows complex PDF layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
 * [foam](https://github.com/foambubble/foam) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
-
+* [CodiMD](https://github.com/codimd/server) - Open Source Online Real-time collaborate on team documentation in markdown
 
 ## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
