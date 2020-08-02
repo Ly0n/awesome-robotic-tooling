@@ -15,7 +15,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
    * [Build and Deploy](#build-and-deploy)
    * [Unit and Integration Test](#unit-and-integration-test)
    * [Lint and Format](#lint-and-format)
-   * [Launch and Monitor](#launch-and-monitor)
    * [Debugging and Tracing](#debugging-and-tracing)
    * [Version Control](#version-control)
 * [Simulation](#simulation)
