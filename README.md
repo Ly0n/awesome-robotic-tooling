@@ -249,10 +249,6 @@ compiler infrastructure project
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
 * [haros](https://github.com/git-afsantos/haros) - H(igh) A(ssurance) ROS - Static analysis of ROS application code. 
 
-### Launch and Monitor
-* [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon 
-* [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes
-
 ### Debugging and Tracing
 * [heaptrack](https://github.com/KDE/heaptrack) - traces all memory allocations and annotates these events with stack traces
 * [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
@@ -744,6 +740,9 @@ robot.
 
 ## Operation System 
 ### Monitoring
+* [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon 
+* [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes
+* [collectd](https://github.com/collectd/collectd/) - collectd is a small daemon which collects system information periodically and provides mechanisms to store and monitor the values in a variety of ways### Launch and Monitor
 * [lnav](http://lnav.org/) - is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function
