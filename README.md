@@ -273,6 +273,7 @@ compiler infrastructure project
 * [bcc](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [tracy](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 * [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+* [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 
 
 ### Version Control
