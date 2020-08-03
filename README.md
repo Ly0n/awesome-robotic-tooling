@@ -821,6 +821,7 @@ robot.
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) -  allows for usage of the NVIDIA JetPack SDK within a docker container for download, flashing, and install
 * [Pressed](https://wiki.debian.org/DebianInstaller/Preseed) - provides a way to set answers to questions asked during the installation process of debian, without having to manually enter the answers while the installation is running
 * [jetson_stats](https://github.com/rbonghi/jetson_stats) - is a package to monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] Works with all NVIDIA Jetson ecosystem.
+* [ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats) - The ROS jetson-stats wrapper. The status of your NVIDIA jetson in diagnostic messages
 
 
 ### Real-Time Kernel
