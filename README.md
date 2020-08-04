@@ -933,6 +933,7 @@ robot.
 * [pass](https://www.passwordstore.org/) - the standard unix password manager
 * [vault](https://github.com/hashicorp/vault) - Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more
 * [legion](https://github.com/GoVanguard/legion) - is an open source, easy-to-use, super-extensible and semi-automated network penetration testing framework that aids in discovery, reconnaissance and exploitation of information systems
+* [openscap](https://github.com/OpenSCAP/openscap) - The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents.
 
 
 ## Datasets
