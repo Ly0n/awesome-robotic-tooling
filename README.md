@@ -458,6 +458,7 @@ compiler infrastructure project
 * [hyperpose](https://github.com/tensorlayer/hyperpose) - HyperPose: A Flexible Library for Real-time Human Pose Estimation
 * [fawkes](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
 * [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
+* [opendatacam](https://github.com/opendatacam/opendatacam) - only saves surveyed meta-data, in particular the path an object moved or number of counted objects at a certain point.
 
 
 ### Radar Processing
