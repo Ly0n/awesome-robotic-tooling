@@ -328,6 +328,7 @@ compiler infrastructure project
 * [sim_vehicle_dynamics](https://github.com/TUMFTM/sim_vehicle_dynamics) - Vehicle Dynamics Simulation Software of TUM Roborace Team
 * [gym-carla](https://github.com/cjy1992/gym-carla) - An OpenAI gym wrapper for CARLA simulator
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+* [gazebo_models](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
 
 
 ## Electronics and Mechanics
@@ -636,6 +637,7 @@ robot.
 * [OpEn](https://github.com/alphaville/optimization-engine) - is a solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - This project provides the continuation/GMRES method (C/GMRES method) based solvers for nonlinear model predictive control (NMPC) and an automatic code generator for NMPC
 * [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
+* [toppra](https://github.com/hungpham2511/toppra) - is a library for computing the time-optimal path parametrization for robots subject to kinematic and dynamic constraints
 
 
 
