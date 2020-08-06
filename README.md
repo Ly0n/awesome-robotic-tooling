@@ -270,7 +270,7 @@ compiler infrastructure project
 * [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
-
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - 
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
@@ -460,7 +460,7 @@ compiler infrastructure project
 * [fawkes](https://github.com/Shawn-Shan/fawkes) - privacy preserving tool against facial recognition systems.
 * [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 * [opendatacam](https://github.com/opendatacam/opendatacam) - only saves surveyed meta-data, in particular the path an object moved or number of counted objects at a certain point.
-
+* [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
@@ -803,6 +803,7 @@ robot.
 * [enroot](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 * [docker-firefox](https://github.com/jlesage/docker-firefox) - Run a Docker Container with Firefox and noVNC for remote access to headless servers
 * [luigi](https://github.com/spotify/luigi) - is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+* [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - NVIDIA Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs
 
 
 ### Embedded Operation System
