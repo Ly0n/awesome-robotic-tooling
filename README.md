@@ -269,6 +269,7 @@ compiler infrastructure project
 * [tracy](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 * [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+* [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 
 
 ### Version Control
