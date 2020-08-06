@@ -513,6 +513,7 @@ compiler infrastructure project
 * [mp2p_icp](https://github.com/MOLAorg/mp2p_icp) - A repertory of multi primitive-to-primitive (MP2P) ICP algorithms in C++
 * [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection
 * [torch-points3d](https://github.com/nicolas-chaulet/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
+* [PolyFit](https://github.com/LiangliangNan/PolyFit) - Polygonal Surface Reconstruction from Point Clouds
 
 
 ## Localization and State Estimation
