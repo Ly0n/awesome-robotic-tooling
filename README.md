@@ -379,6 +379,7 @@ compiler infrastructure project
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - extrinsic and intrinsic calbration of cameras
 * [ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity
 * [livox_camera_lidar_calibration](https://github.com/Livox-SDK/livox_camera_lidar_calibration) - Calibrate the extrinsic parameters between Livox LiDAR and camera
+* [lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Camera LiDAR Calibration using ROS, OpenCV, and PCL
 
 
 ### Perception Pipeline
