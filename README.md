@@ -644,7 +644,7 @@ robot.
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - This project provides the continuation/GMRES method (C/GMRES method) based solvers for nonlinear model predictive control (NMPC) and an automatic code generator for NMPC
 * [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 * [toppra](https://github.com/hungpham2511/toppra) - is a library for computing the time-optimal path parametrization for robots subject to kinematic and dynamic constraints
-
+* [tinyspline](https://github.com/msteinbeck/tinyspline) - TinySpline is a small, yet powerful library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves
 
 
 ## User Interaction
