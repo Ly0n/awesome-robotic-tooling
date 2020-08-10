@@ -657,6 +657,7 @@ robot.
 * [dynamic_reconfigure](https://wiki.ros.org/dynamic_reconfigure) - The focus of dynamic_reconfigure is on providing a standard way to expose a subset of a node's parameters to external reconfiguration
 * [ddynamic_reconfigure](https://github.com/pal-robotics/ddynamic_reconfigure) - allows modifying parameters of a ROS node using the dynamic_reconfigure framework without having to write cfg files
 * [elements](https://github.com/cycfi/elements) - is a lightweight, fine-grained, resolution independent, modular GUI library
+* [NanoGUI](https://github.com/wjakob/nanogui) - is a minimalistic cross-platform widget library for OpenGL 3.x or higher
 
 
 ### Acoustic User Interface
