@@ -967,5 +967,5 @@ robot.
 * [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview) - TensorFlow Datasets provides many public datasets as tf.data.Datasets
 * [racetrack-database](https://github.com/TUMFTM/racetrack-database) - contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks (mainly F1 and DTM) all over the world
 * [BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation
-* [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation Created from nothing but two cameras and GPS in downtown San Francisco.
+* [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation created from nothing but two cameras and GPS in downtown San Francisco.
 
