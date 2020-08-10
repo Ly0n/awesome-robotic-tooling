@@ -806,6 +806,7 @@ robot.
 * [docker-firefox](https://github.com/jlesage/docker-firefox) - Run a Docker Container with Firefox and noVNC for remote access to headless servers
 * [luigi](https://github.com/spotify/luigi) - is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 * [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - NVIDIA Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs
+* [cudf](https://github.com/rapidsai/cudf) - provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
 
 ### Embedded Operation System
