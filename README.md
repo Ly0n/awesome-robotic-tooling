@@ -711,6 +711,7 @@ robot.
 * [octave](https://www.gnu.org/software/octave/) - provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
 * [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) - URDF Loaders for Unity and THREE.js with example ATHLETE URDF File
+* [obs-studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
 
 
 #### Annotation
@@ -722,6 +723,7 @@ robot.
 * [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * [napari](https://github.com/napari/napari) -  a fast, interactive, multi-dimensional image viewer for python 
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
+* [3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool for Point cloud and Image Labeling
 
 
 #### Point Cloud 
