@@ -726,6 +726,7 @@ robot.
 * [napari](https://github.com/napari/napari) -  a fast, interactive, multi-dimensional image viewer for python 
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
 * [3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool for Point cloud and Image Labeling
+* [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)
 
 
 #### Point Cloud 
