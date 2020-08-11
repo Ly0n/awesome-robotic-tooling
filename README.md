@@ -270,7 +270,7 @@ compiler infrastructure project
 * [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
-* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - 
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
