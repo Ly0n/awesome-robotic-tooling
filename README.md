@@ -874,6 +874,7 @@ robot.
 * [pingtop](https://github.com/laixintao/pingtop) - Ping multiple servers and show results in a top-like terminal UI
 * [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 * [udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file 
+* [openwifi](https://github.com/open-sdr/openwifi) - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on Software Defined Radio
 
 #### Controller Area Network
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android OBD diagnostics with any ELM327 adapter
