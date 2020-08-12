@@ -463,6 +463,8 @@ compiler infrastructure project
 * [opendatacam](https://github.com/opendatacam/opendatacam) - only saves surveyed meta-data, in particular the path an object moved or number of counted objects at a certain point.
 * [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 * [ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. camera
+* [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection using deep neural network model
+
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
