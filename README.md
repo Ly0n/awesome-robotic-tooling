@@ -127,7 +127,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Air Vehicle C++ development coding standards](http://www.stroustrup.com/JSF-AV-rules.pdf) - Provide direction and guidance to C++ programmers that will enable them to employ good programming style and proven programming practices leading to safe, reliable, testable, and maintainable code
 * [AUTOSAR Coding Standard](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-10/AUTOSAR_RS_CPP14Guidelines.pdf) - Guidelines for the use of the C++14 language in critical and safety-related system
 * [The W-Model and Lean Scaled Agility for Engineering](https://assets.vector.com/cms/content/consulting/publications/AgileSystemsEngineering_Vector_Ford.pdf) - Ford applied an agile V-Model method from Vector that can be used in safety related project management
-* [doorstep](https://github.com/doorstop-dev/doorstop) - Requirements management using version control
+* [doorstop](https://github.com/doorstop-dev/doorstop) - Requirements management using version control
 * [capella](https://www.eclipse.org/capella/) - Comprehensive, extensible and field-proven MBSE tool and method
 to successfully design systems architecture
 * [robmosys](https://robmosys.eu/) - RobMoSys envisions an integrated approach built on top of the current code-centric robotic platforms, by applying model-driven methods and tools
