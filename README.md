@@ -154,6 +154,7 @@ to successfully design systems architecture
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 * [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto) - Autoware.Auto applies best-in-class software engineering for autonomous driving
 * [Autoware.ai](https://github.com/Autoware-AI) - Autoware.AI is the world's first "All-in-One" open-source software for autonomous driving technology
+* [Eclipse Cyclone DDS](https://iot.eclipse.org/adopters/#iot.cyclonedds) Tier 1 ROS middleware built into ROS 2 and Autoware.auto
 * [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) 
 * [Apollo](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/) - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
