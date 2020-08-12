@@ -2,7 +2,7 @@
 
 Just a bunch of powerful robotic resources and tools for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace.
 
-> [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - about the concept of software tooling 
+> To stop reinventing the wheel you need to know about the wheel:
 
 * [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
