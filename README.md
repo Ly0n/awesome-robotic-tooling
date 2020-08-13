@@ -117,6 +117,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - allows complex PDF layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
 * [foam](https://github.com/foambubble/foam) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 * [CodiMD](https://github.com/codimd/server) - Open Source Online Real-time collaborate on team documentation in markdown
+* [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
 
 ## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
