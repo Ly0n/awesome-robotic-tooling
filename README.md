@@ -653,6 +653,9 @@ robot.
 * [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 * [toppra](https://github.com/hungpham2511/toppra) - is a library for computing the time-optimal path parametrization for robots subject to kinematic and dynamic constraints
 * [tinyspline](https://github.com/msteinbeck/tinyspline) - TinySpline is a small, yet powerful library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves
+* [dual quaternions ros](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
+* [mb planner](https://github.com/unr-arl/mbplanner_ros) - Aerial vehicle planner for tight spaces. Used in DARPA SubT Challenge. 
+
 
 
 ## User Interaction
