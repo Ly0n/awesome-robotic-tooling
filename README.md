@@ -293,6 +293,7 @@ compiler infrastructure project
 * [gitfs](https://github.com/Presslabs/gitfs) - You can mount a remote repository's branch locally, and any subsequent changes made to the files will be automatically committed to the remote.
 * [git-secret](https://github.com/sobolevn/git-secret) - encrypts files with permitted users' public keys, allowing users you trust to access encrypted data using pgp and their secret keys
 * [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
+* [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 
 
 ## Simulation
