@@ -848,6 +848,7 @@ robot.
 * [jetson_stats](https://github.com/rbonghi/jetson_stats) - is a package to monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] Works with all NVIDIA Jetson ecosystem.
 * [ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats) - The ROS jetson-stats wrapper. The status of your NVIDIA jetson in diagnostic messages
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - Open-source Control Module for ROS
+* [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) - defines a device hypervisor reference stack and an architecture for running multiple software subsystems, managed securely, on a consolidated system by means of a virtual machine manager
 
 ### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage
