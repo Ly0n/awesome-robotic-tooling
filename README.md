@@ -336,6 +336,7 @@ compiler infrastructure project
 * [gym-carla](https://github.com/cjy1992/gym-carla) - An OpenAI gym wrapper for CARLA simulator
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [gazebo_models](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
+* [pylot](https://github.com/erdos-project/pylot) - Autonomous driving platform running on the CARLA simulator
 
 
 ## Electronics and Mechanics
@@ -423,8 +424,7 @@ compiler infrastructure project
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for neural network, deep learning and machine learning models
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 
-### Signal Processing
-* [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
+
 
 ### Image Processing
 * [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models
@@ -473,6 +473,7 @@ compiler infrastructure project
 * [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 * [ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
 * [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection using deep neural network model
+* [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 
 
 ### Radar Processing
@@ -662,7 +663,7 @@ robot.
 * [tinyspline](https://github.com/msteinbeck/tinyspline) - TinySpline is a small, yet powerful library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves
 * [dual quaternions ros](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 * [mb planner](https://github.com/unr-arl/mbplanner_ros) - Aerial vehicle planner for tight spaces. Used in DARPA SubT Challenge. 
-
+* [ilqr](https://github.com/anassinator/ilqr) - Iterative Linear Quadratic Regulator with auto-differentiatiable dynamics models
 
 
 ## User Interaction
