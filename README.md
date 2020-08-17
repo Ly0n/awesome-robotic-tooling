@@ -274,6 +274,7 @@ compiler infrastructure project
 * [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
+* [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
@@ -419,6 +420,7 @@ compiler infrastructure project
 * [trax](https://github.com/google/trax) - Trax is a library for deep learning that focuses on sequence models and reinforcement learning
 * [mlflow](https://github.com/mlflow/mlflow) - is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for neural network, deep learning and machine learning models
+* [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 
 
 ### Image Processing
