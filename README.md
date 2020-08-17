@@ -196,6 +196,7 @@ to successfully design systems architecture
 * [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools 
 * [cocalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud 
 * [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - Robust C/C++ code completion for Sublime Text 3
+* [vscode-ros](https://github.com/ms-iot/vscode-ros) - Visual Studio Code extension for Robot Operating System (ROS) development
 
 
 ### Template
