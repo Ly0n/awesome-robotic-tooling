@@ -423,6 +423,8 @@ compiler infrastructure project
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for neural network, deep learning and machine learning models
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 
+### Signal Processing
+* [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 
 ### Image Processing
 * [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models
@@ -546,6 +548,8 @@ robot.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) -  computes the position and velocity of an earth-orbiting satellite, given the satellite’s TLE orbital elements from a source like Celestrak.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - is a ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap
 * [eagleye](https://github.com/MapIV/eagleye) -  is an open-source software for vehicle localization utilizing GNSS and IMU
+* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
+
 
 ### Simultaneous Localization and Mapping
 #### Lidar
