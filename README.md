@@ -766,6 +766,7 @@ robot.
 * [xpp](https://github.com/leggedrobotics/xpp) - visualization of motion-plans for legged robots
 * [rviz stereo](http://wiki.ros.org/rviz/Tutorials/Rviz%20in%20Stereo) - 3D stereo rendering displays a different view to each eye so that the scene appears to have depth
 * [jsk_visualization](https://github.com/jsk-ros-pkg/jsk_visualization) - jsk visualization ros packages for rviz and rqt
+* [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools) - Helper functions for displaying and debugging MoveIt! data in Rviz via published markers
 
 
 ## Operation System 
