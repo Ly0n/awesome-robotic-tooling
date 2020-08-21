@@ -251,6 +251,8 @@ compiler infrastructure project
 * [black](https://github.com/psf/black) - The uncompromising Python code formatter
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - pydocstyle is a static analysis tool for checking compliance with Python docstring conventions
 * [haros](https://github.com/git-afsantos/haros) - H(igh) A(ssurance) ROS - Static analysis of ROS application code. 
+* [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+
 
 ### Debugging and Tracing
 * [heaptrack](https://github.com/KDE/heaptrack) - traces all memory allocations and annotates these events with stack traces
