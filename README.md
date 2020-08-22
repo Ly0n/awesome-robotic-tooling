@@ -531,7 +531,8 @@ compiler infrastructure project
 * [torch-points3d](https://github.com/nicolas-chaulet/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
 * [PolyFit](https://github.com/LiangliangNan/PolyFit) - Polygonal Surface Reconstruction from Point Clouds
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection
-
+* [gpd](https://github.com/atenpas/gpd) - takes a point cloud as input and produces pose estimates of viable grasps as output
+* [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -877,6 +878,7 @@ robot.
 * [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - provides a JSON interface to ROS, allowing any client to send JSON to publish or subscribe to ROS topics, call ROS services, and more
 * [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
 * [eCAL](https://github.com/continental/) - The enhanced communication abstraction layer (eCAL) is a middleware that enables scalable, high performance interprocess communication on a single computer node or between different nodes in a computer network
+* [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11
 
 
 #### Ethernet and Wireless Networking
@@ -907,7 +909,6 @@ robot.
 * [CANopenNode](https://github.com/CANopenNode/CANopenNode) - is the internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
 * [python-udsoncan](https://github.com/pylessard/python-udsoncan) - Python implementation of UDS (ISO-14229) standard
 * [uds-c](https://github.com/openxc/uds-c) - Unified Diagnostics Service (UDS) and OBD-II (On Board Diagnostics for Vehicles) C Library
-* [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 * [cantools](https://github.com/eerimoq/cantools) - CAN BUS tools in Python 3
 * [CANdevStudio](https://github.com/GENIVI/CANdevStudio) -  CANdevStudio aims to be cost-effective replacement for CAN simulation software. It can work with variety of CAN hardware interfaces
 * [can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
@@ -915,6 +916,7 @@ robot.
 * [decanstructor](https://github.com/JWhitleyAStuff/decanstructor) - The definitive ROS CAN analysis tool
 * [kvaser_interface](https://github.com/astuff/kvaser_interface) - This package was developed as a standardized way to access Kvaser CAN devices from ROS
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
+* [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 
 
 ### Sensor and Acuator Interfaces
