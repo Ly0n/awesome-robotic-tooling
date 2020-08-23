@@ -1003,3 +1003,6 @@ robot.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We’re collecting and processing data from our autonomous fleet and sharing it with you.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
 
+
+## Awesome Awesome
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
