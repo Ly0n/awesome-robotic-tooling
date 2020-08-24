@@ -197,7 +197,7 @@ to successfully design systems architecture
 * [cocalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud 
 * [EasyClangComplete](https://github.com/niosus/EasyClangComplete) - Robust C/C++ code completion for Sublime Text 3
 * [vscode-ros](https://github.com/ms-iot/vscode-ros) - Visual Studio Code extension for Robot Operating System (ROS) development
-
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - Template for ROS node standardization in C++ 
@@ -1003,6 +1003,3 @@ robot.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We’re collecting and processing data from our autonomous fleet and sharing it with you.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
 
-
-## Awesome Awesome
-* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
