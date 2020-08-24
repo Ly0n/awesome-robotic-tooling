@@ -917,6 +917,7 @@ robot.
 * [kvaser_interface](https://github.com/astuff/kvaser_interface) - This package was developed as a standardized way to access Kvaser CAN devices from ROS
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
+* [canopen](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
 
 
 ### Sensor and Acuator Interfaces
