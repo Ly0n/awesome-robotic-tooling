@@ -169,6 +169,7 @@ to successfully design systems architecture
 * [KubOS](https://github.com/kubos/kubos) - is an open-source software stack for satellites.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 * [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
+* [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL
 
 
 ## Development Environment
