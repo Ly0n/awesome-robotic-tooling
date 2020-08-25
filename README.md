@@ -280,6 +280,8 @@ compiler infrastructure project
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 * [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+* [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - a python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs. 
+
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
