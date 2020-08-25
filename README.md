@@ -539,6 +539,7 @@ compiler infrastructure project
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection
 * [gpd](https://github.com/atenpas/gpd) - takes a point cloud as input and produces pose estimates of viable grasps as output
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
+* [Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection) - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
