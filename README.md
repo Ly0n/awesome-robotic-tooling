@@ -562,6 +562,7 @@ robot.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - is a ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap
 * [eagleye](https://github.com/MapIV/eagleye) -  is an open-source software for vehicle localization utilizing GNSS and IMU
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
+* [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library
 
 
 ### Simultaneous Localization and Mapping
@@ -627,6 +628,8 @@ robot.
 * [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
 * [mapillary_tools](https://github.com/mapillary/mapillary_tools) - is a library for processing and uploading images to Mapillary.
 * [mapnik](https://github.com/mapnik/mapnik) - combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+* [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+* [grass](https://github.com/OSGeo/grass) - GRASS GIS - free and open source Geographic Information System (GIS)
 
 ## Prediction
 * [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
