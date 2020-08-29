@@ -587,6 +587,7 @@ robot.
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 * [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon lidar
 * [mola](https://github.com/MOLAorg/mola) - is a Modular System for Localization and Mapping
+* [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization
 
 
 #### Visual
