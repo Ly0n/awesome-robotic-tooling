@@ -632,6 +632,7 @@ robot.
 * [mapnik](https://github.com/mapnik/mapnik) - combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
 * [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 * [grass](https://github.com/OSGeo/grass) - GRASS GIS - free and open source Geographic Information System (GIS)
+* [3d-tiles](https://github.com/CesiumGS/3d-tiles) - Specification for streaming massive heterogeneous 3D geospatial datasets 
 
 ## Prediction
 * [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
@@ -774,6 +775,7 @@ robot.
 * [VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization of live captured 3D LiDAR data from Velodyne's HDL sensors.
 * [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 * [polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds 
+* [Pcx](https://github.com/keijiro/Pcx) - Point cloud importer & renderer for Unity
 
 
 #### RViz 
