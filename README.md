@@ -345,7 +345,7 @@ compiler infrastructure project
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [gazebo_models](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
 * [pylot](https://github.com/erdos-project/pylot) - Autonomous driving platform running on the CARLA simulator
-
+* [flightmare](https://github.com/uzh-rpg/flightmare) - Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
 
 ## Electronics and Mechanics
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
@@ -565,7 +565,7 @@ robot.
 * [eagleye](https://github.com/MapIV/eagleye) -  is an open-source software for vehicle localization utilizing GNSS and IMU
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
 * [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library
-
+* [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) -  implements common used trajectory evaluation methods for visual(-inertial) odometry.
 
 ### Simultaneous Localization and Mapping
 #### Lidar
