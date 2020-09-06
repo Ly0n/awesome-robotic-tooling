@@ -283,6 +283,7 @@ compiler infrastructure project
 * [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 * [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - a python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs. 
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer)  - This fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process.
+* [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 
 
 ### Version Control
