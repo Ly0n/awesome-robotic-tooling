@@ -438,6 +438,7 @@ compiler infrastructure project
 * [OpenMP](https://www.openmp.org/) - OpenMP is an application programming interface that supports multi-platform shared memory multiprocessing programming in C, C++, and Fortra
 * [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
 * [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
+* [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 
 
 ### Image Processing
