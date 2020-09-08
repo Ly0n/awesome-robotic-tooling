@@ -209,6 +209,7 @@ to successfully design systems architecture
 * [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 * [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - The Dockerfile in the minimal-ade project shows a minimal example of how to create a custom base image
+* [VS Code ROS2 Workspace Template](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
 ### Build and Deploy
 * [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
