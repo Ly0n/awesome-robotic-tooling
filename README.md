@@ -351,6 +351,8 @@ compiler infrastructure project
 * [gazebo_models](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
 * [pylot](https://github.com/erdos-project/pylot) - Autonomous driving platform running on the CARLA simulator
 * [flightmare](https://github.com/uzh-rpg/flightmare) - Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
+* [champ](https://github.com/chvmp/champ) - ROS Packages for CHAMP Quadruped Controller
+
 
 ## Electronics and Mechanics
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - An information model for robot hardware
