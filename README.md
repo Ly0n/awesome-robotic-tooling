@@ -445,6 +445,7 @@ compiler infrastructure project
 * [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
 * [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
 * [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+* [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators
 
 
 ### Image Processing
