@@ -972,6 +972,7 @@ robot.
 * [ifm3d](https://github.com/ifm/ifm3d) - Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 * [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - Provides ROS support for Cepton LiDAR
 * [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
+* [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras.
 
 
 ### Security
