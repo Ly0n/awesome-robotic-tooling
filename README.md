@@ -571,6 +571,7 @@ robot.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
 * [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library
 * [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) -  implements common used trajectory evaluation methods for visual(-inertial) odometry.
+* [pymap3d](https://github.com/geospace-code/pymap3d) - pure-Python (Numpy optional) 3D coordinate conversions for geospace ecef enu eci
 
 ### Simultaneous Localization and Mapping
 #### Lidar
