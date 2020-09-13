@@ -171,6 +171,7 @@ to successfully design systems architecture
 * [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL
 * [pybotics](https://github.com/nnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration
+* [makani](https://github.com/google/makani) - contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools
 
 
 ## Development Environment
