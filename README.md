@@ -912,7 +912,7 @@ robot.
 * [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
 * [eCAL](https://github.com/continental/) - The enhanced communication abstraction layer (eCAL) is a middleware that enables scalable, high performance interprocess communication on a single computer node or between different nodes in a computer network
 * [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11
-
+* [ocpp](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
 
 #### Ethernet and Wireless Networking
 * [SOES](https://github.com/OpenEtherCATsociety/SOES) - SOES is an EtherCAT slave stack written in c
