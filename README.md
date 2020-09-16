@@ -386,6 +386,7 @@ compiler infrastructure project
 * [tigl](https://github.com/DLR-SC/tigl) - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files
 * [foxBMS](https://github.com/foxBMS/foxbms) - is a free, open and flexible development environment to design battery management systems
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) - is a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeping.
+* [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - An open-source framework for efficient multidisciplinary optimization.
 
 
 ## Sensor Processing
@@ -501,6 +502,8 @@ compiler infrastructure project
 * [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection using deep neural network model
 * [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+* [Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
+
 
 ### Radar Processing
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - Framework for large-scale SAR satellite data processing
