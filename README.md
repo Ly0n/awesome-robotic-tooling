@@ -698,6 +698,7 @@ robot.
 * [mb planner](https://github.com/unr-arl/mbplanner_ros) - Aerial vehicle planner for tight spaces. Used in DARPA SubT Challenge. 
 * [ilqr](https://github.com/anassinator/ilqr) - Iterative Linear Quadratic Regulator with auto-differentiatiable dynamics models
 * [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) is a lightweight gradient-based local planner without ESDF construction, which significantly reduces computation time compared to some state-of-the-art methods
+* [pykep](https://github.com/esa/pykep) - is a scientific library providing basic tools for research in interplanetary trajectory design.
 
 
 ## User Interaction
