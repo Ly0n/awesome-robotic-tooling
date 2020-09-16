@@ -366,6 +366,7 @@ compiler infrastructure project
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler
 * [kicad](http://www.kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams
+* [kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) - Tools made by others to augment the KiCad PCB EDA suite.
 * [PandaPower](http://www.pandapower.org) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone
 * [openscad](https://github.com/openscad/openscad) -  is software for creating solid 3D CAD models
