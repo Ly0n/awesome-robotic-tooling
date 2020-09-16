@@ -120,6 +120,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [CodiMD](https://github.com/codimd/server) - Open Source Online Real-time collaborate on team documentation in markdown
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
 * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents
+* [tesseract](https://github.com/tesseract-ocr/tesseract) - Open Source OCR Engine
 
 
 ## Requirements and Safety
