@@ -354,6 +354,7 @@ compiler infrastructure project
 * [pylot](https://github.com/erdos-project/pylot) - Autonomous driving platform running on the CARLA simulator
 * [flightmare](https://github.com/uzh-rpg/flightmare) - Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
 * [champ](https://github.com/chvmp/champ) - ROS Packages for CHAMP Quadruped Controller
+* [rex-gym](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
 
 
 ## Electronics and Mechanics
@@ -974,15 +975,16 @@ robot.
 * [crazyflie_ros](https://github.com/whoenig/crazyflie_ros) - ROS Driver for Bitcraze Crazyflie
 * [pointgrey_camera_driver](https://github.com/ros-drivers/pointgrey_camera_driver) - ROS driver for Pt. Grey cameras, based on the official FlyCapture2 SDK
 * [novatel_gps_driver](https://github.com/swri-robotics/novatel_gps_driver) - ROS driver for NovAtel GPS / GNSS receivers
-* [pylon-ros-camera](https://github.com/basler/pylon-ros-camera) - The official pylon ROS driver for Basler GigE Vision and USB3 Vision cameras:
+* [pylon-ros-camera](https://github.com/basler/pylon-ros-camera) - The official pylon ROS driver for Basler GigE Vision and USB3 Vision cameras
 * [ethz_piksi_ros](https://github.com/ethz-asl/ethz_piksi_ros) -  contains (python) ROS drivers, tools, launch files, and wikis about how to use Piksi Real Time Kinematic (RTK) GPS device in ROS
 * [sick_safetyscanners](https://github.com/SICKAG/sick_safetyscanners) - A ROS Driver which reads the raw data from the SICK Safety Scanners and publishes the data as a laser_scan msg.
-* [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver) - A driver for the sensor IMU Bosch BNO055. It was implemented only the UART communication interface (correct sensor mode should be selected).
+* [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver) - A driver for the sensor IMU Bosch BNO055. It was implemented only the UART communication interface (correct sensor mode should be selected)
 * [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - Ethernet interface to OxTS GPS receivers using the NCOM packet structure
 * [ifm3d](https://github.com/ifm/ifm3d) - Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 * [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - Provides ROS support for Cepton LiDAR
-* [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
-* [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras.
+* [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS
+* [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras
+* [spot_ros](https://github.com/clearpathrobotics/spot_ros) - ROS Driver for Spot
 
 
 ### Security
