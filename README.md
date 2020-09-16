@@ -81,6 +81,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 * [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
 * [gitter](https://gitlab.com/gitlab-org/gitter/webapp) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
+* [savannah](https://savannah.gnu.org/)  - The software forge for people committed to free software
 
 
 ## Documentation and Presentation
@@ -119,6 +120,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [CodiMD](https://github.com/codimd/server) - Open Source Online Real-time collaborate on team documentation in markdown
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
 * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents
+* [tesseract](https://github.com/tesseract-ocr/tesseract) - Open Source OCR Engine
 
 
 ## Requirements and Safety
@@ -168,6 +170,9 @@ to successfully design systems architecture
 * [KubOS](https://github.com/kubos/kubos) - is an open-source software stack for satellites.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 * [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
+* [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL
+* [pybotics](https://github.com/nnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration
+* [makani](https://github.com/google/makani) - contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools
 
 
 ## Development Environment
@@ -206,6 +211,7 @@ to successfully design systems architecture
 * [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots
 * [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS
 * [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) - The Dockerfile in the minimal-ade project shows a minimal example of how to create a custom base image
+* [VS Code ROS2 Workspace Template](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
 ### Build and Deploy
 * [qemu-user-static](https://github.com/multiarch/qemu-user-static) - is to enable an execution of different multi-architecture containers by QEMU and binfmt_misc
@@ -231,6 +237,8 @@ compiler infrastructure project
 * [ryo-iso](https://ryo-iso.readthedocs.io/en/latest/) - is a modern ISO builder that streamlines the process of deploying a complete robot operating system from a yaml config file
 * [network_autoconfig](http://docs.ros.org/kinetic/api/network_autoconfig/html/) - automatic configuration of ROS networking for most use cases without impacting usage that require manual configuration.
 * [rosbuild](https://roscon.ros.org/2016/presentations/ROSCon2016%20Build%20Farm.pdf) - The ROS build farm
+* [cros](https://github.com/ros-industrial/cros) - A single thread pure C implementation of the ROS framework
+
 
 ### Unit and Integration Test
 * [setup-ros](https://github.com/ros-tooling/setup-ros) - This action sets up a ROS and ROS 2 environment for use in Github actions
@@ -278,6 +286,10 @@ compiler infrastructure project
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 * [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+* [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - a python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs. 
+* [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer)  - This fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process.
+* [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to git that relies heavily on fzf
@@ -298,6 +310,7 @@ compiler infrastructure project
 * [git-secret](https://github.com/sobolevn/git-secret) - encrypts files with permitted users' public keys, allowing users you trust to access encrypted data using pgp and their secret keys
 * [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
+* [glab](https://github.com/profclems/glab) - An open-source GitLab command line tool
 
 
 ## Simulation
@@ -339,6 +352,8 @@ compiler infrastructure project
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [gazebo_models](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
 * [pylot](https://github.com/erdos-project/pylot) - Autonomous driving platform running on the CARLA simulator
+* [flightmare](https://github.com/uzh-rpg/flightmare) - Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
+* [champ](https://github.com/chvmp/champ) - ROS Packages for CHAMP Quadruped Controller
 
 
 ## Electronics and Mechanics
@@ -368,6 +383,7 @@ compiler infrastructure project
 * [Horizon](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
 * [tigl](https://github.com/DLR-SC/tigl) - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files
 * [foxBMS](https://github.com/foxBMS/foxbms) - is a free, open and flexible development environment to design battery management systems
+* [cadCAD](https://github.com/cadCAD-org/cadCAD) - is a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeping.
 
 
 ## Sensor Processing
@@ -400,16 +416,6 @@ compiler infrastructure project
 * [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents
 * [morefusion](https://github.com/wkentaro/morefusion) - Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion
 
-
-### Parallel Processing
-* [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
-* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
-* [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
-* [ArrayFire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
-* [OpenMP](https://www.openmp.org/) - OpenMP is an application programming interface that supports multi-platform shared memory multiprocessing programming in C, C++, and Fortra
-* [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
-* [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
-
 ### Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [fastai](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
@@ -425,7 +431,23 @@ compiler infrastructure project
 * [mlflow](https://github.com/mlflow/mlflow) - is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models
 * [Netron](https://github.com/lutzroeder/Netron) - Visualizer for neural network, deep learning and machine learning models
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+* [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce is an open-source deep reinforcement learning framework, with an emphasis on modularized flexible library design and straightforward usability for applications in research and practice
+* [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+* [catalyst](https://github.com/catalyst-team/catalyst) - was developed with a focus on reproducibility, fast experimentation and code/ideas reusing
+* [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications
+* [tf-agents](https://github.com/tensorflow/agents) - A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
+* [ReAgent](https://github.com/facebookresearch/ReAgent) - is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook.
 
+### Parallel Processing
+* [dask](https://github.com/dask/dask) - Parallel computing with task scheduling for Python
+* [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+* [thrust](https://github.com/thrust/thrust) - Thrust is a C++ parallel programming library which resembles the C++ Standard Library.
+* [ArrayFire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
+* [OpenMP](https://www.openmp.org/) - OpenMP is an application programming interface that supports multi-platform shared memory multiprocessing programming in C, C++, and Fortra
+* [vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
+* [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
+* [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+* [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators
 
 
 ### Image Processing
@@ -533,6 +555,7 @@ compiler infrastructure project
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection
 * [gpd](https://github.com/atenpas/gpd) - takes a point cloud as input and produces pose estimates of viable grasps as output
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
+* [Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection) - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -553,7 +576,9 @@ robot.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - is a ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap
 * [eagleye](https://github.com/MapIV/eagleye) -  is an open-source software for vehicle localization utilizing GNSS and IMU
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library
-
+* [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library
+* [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) -  implements common used trajectory evaluation methods for visual(-inertial) odometry.
+* [pymap3d](https://github.com/geospace-code/pymap3d) - pure-Python (Numpy optional) 3D coordinate conversions for geospace ecef enu eci
 
 ### Simultaneous Localization and Mapping
 #### Lidar
@@ -576,6 +601,7 @@ robot.
 * [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 * [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon lidar
 * [mola](https://github.com/MOLAorg/mola) - is a Modular System for Localization and Mapping
+* [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization
 
 
 #### Visual
@@ -618,6 +644,10 @@ robot.
 * [imagery-index](https://github.com/ideditor/imagery-index) - An index of aerial and satellite imagery useful for mapping
 * [mapillary_tools](https://github.com/mapillary/mapillary_tools) - is a library for processing and uploading images to Mapillary.
 * [mapnik](https://github.com/mapnik/mapnik) - combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+* [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+* [grass](https://github.com/OSGeo/grass) - GRASS GIS - free and open source Geographic Information System (GIS)
+* [3d-tiles](https://github.com/CesiumGS/3d-tiles) - Specification for streaming massive heterogeneous 3D geospatial datasets 
+* [osmnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap
 
 ## Prediction
 * [Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) - A selection of state-of-the-art research materials on trajectory prediction
@@ -667,6 +697,8 @@ robot.
 * [dual quaternions ros](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 * [mb planner](https://github.com/unr-arl/mbplanner_ros) - Aerial vehicle planner for tight spaces. Used in DARPA SubT Challenge. 
 * [ilqr](https://github.com/anassinator/ilqr) - Iterative Linear Quadratic Regulator with auto-differentiatiable dynamics models
+* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) is a lightweight gradient-based local planner without ESDF construction, which significantly reduces computation time compared to some state-of-the-art methods
+* [pykep](https://github.com/esa/pykep) - is a scientific library providing basic tools for research in interplanetary trajectory design.
 
 
 ## User Interaction
@@ -691,6 +723,8 @@ robot.
 * [DDSP](https://github.com/magenta/ddsp) - is a library of differentiable versions of common DSP functions (such as synthesizers, waveshapers, and filters)
 * [NoiseTorch](https://github.com/lawl/NoiseTorch) - creates a virtual microphone that suppresses noise, in any application
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - is an open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
+* [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
+
 
 ### Command Line Interface
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -749,6 +783,7 @@ robot.
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - A web based labeling tool for creating AI training data sets (2D and 3D)
 * [3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool for Point cloud and Image Labeling
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)
+* [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 
 
 #### Point Cloud 
@@ -759,6 +794,7 @@ robot.
 * [VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization of live captured 3D LiDAR data from Velodyne's HDL sensors.
 * [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 * [polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds 
+* [Pcx](https://github.com/keijiro/Pcx) - Point cloud importer & renderer for Unity
 
 
 #### RViz 
@@ -879,7 +915,7 @@ robot.
 * [ros2arduino](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
 * [eCAL](https://github.com/continental/) - The enhanced communication abstraction layer (eCAL) is a middleware that enables scalable, high performance interprocess communication on a single computer node or between different nodes in a computer network
 * [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11
-
+* [ocpp](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
 
 #### Ethernet and Wireless Networking
 * [SOES](https://github.com/OpenEtherCATsociety/SOES) - SOES is an EtherCAT slave stack written in c
@@ -918,6 +954,7 @@ robot.
 * [canmatrix](https://github.com/ebroecker/canmatrix) - Converting CAN Database Formats .arxml .dbc .dbf .kcd
 * [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 * [canopen](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
+* [SavvyCAN](https://github.com/collin80/SavvyCAN) - A Qt5 based cross platform tool which can be used to load, save, and capture canbus frames
 
 
 ### Sensor and Acuator Interfaces
@@ -944,6 +981,7 @@ robot.
 * [ifm3d](https://github.com/ifm/ifm3d) - Library and Utilities for working with ifm pmd-based 3D ToF Cameras
 * [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - Provides ROS support for Cepton LiDAR
 * [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
+* [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras.
 
 
 ### Security
@@ -980,6 +1018,7 @@ robot.
 
 
 ## Datasets
+* [waymo_ros](https://github.com/YonoHub/waymo_ros) - This is a ROS package to connect Waymo open dataset to ROS
 * [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 * [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times.
 * [awesome-robotics-datasets](https://github.com/sunglok/awesome-robotics-datasets) - A collection of useful datasets for robotics and computer vision 
@@ -1003,4 +1042,5 @@ robot.
 * [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation created from nothing but two cameras and GPS in downtown San Francisco.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We’re collecting and processing data from our autonomous fleet and sharing it with you.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
+* [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
 
