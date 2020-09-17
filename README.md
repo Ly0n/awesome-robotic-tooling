@@ -607,6 +607,7 @@ robot.
 * [horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - horizon_highway_slam is a robust, low drift, and real time highway SLAM package suitable for Livox Horizon lidar
 * [mola](https://github.com/MOLAorg/mola) - is a Modular System for Localization and Mapping
 * [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization
+* [iris_lama](https://github.com/iris-ua/iris_lama) - LaMa is a C++11 software library for robotic localization and mapping
 
 
 #### Visual
@@ -630,7 +631,6 @@ robot.
 * [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 * [Atlas](https://github.com/magicleap/Atlas) - End-to-End 3D Scene Reconstruction from Posed Images
 * [vilib](https://github.com/uzh-rpg/vilib) - This library focuses on the front-end of VIO pipelines with CUDA
-* [iris_lama](https://github.com/iris-ua/iris_lama) - LaMa is a C++11 software library for robotic localization and mapping
 
 
 ### Vector Map
