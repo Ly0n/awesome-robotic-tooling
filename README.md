@@ -319,6 +319,7 @@ compiler infrastructure project
 * [lgsv](https://github.com/lgsvl/simulator) - LG Electronics America R&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
 * [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
 * [awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - A curated list of awesome CARLA tutorials, blogs, and related projects.
+* [ros-bridge](https://github.com/carla-simulator/ros-bridge) - ROS bridge for CARLA Simulator
 * [scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine 
 * [deepdive](https://github.com/deepdrive/deepdrive) - End-to-end simulation for self-driving cars 
 * [uuv_simulator](https://github.com/uuvsimulator/uuv_simulator) - Gazebo/ROS packages for underwater robotics simulation
