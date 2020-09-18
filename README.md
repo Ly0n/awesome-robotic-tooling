@@ -356,6 +356,7 @@ compiler infrastructure project
 * [flightmare](https://github.com/uzh-rpg/flightmare) - Flightmare is composed of two main components: a configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
 * [champ](https://github.com/chvmp/champ) - ROS Packages for CHAMP Quadruped Controller
 * [rex-gym](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
+* [Trick](https://github.com/nasa/Trick) - developed at the NASA Johnson Space Center, is a powerful simulation development framework that enables users to build applications for all phases of space vehicle development
 
 
 ## Electronics and Mechanics
