@@ -453,6 +453,7 @@ compiler infrastructure project
 * [PYNQ](https://github.com/Xilinx/PYNQ) - is an open-source project from Xilinx that makes it easy to design embedded systems with Zynq All Programmable Systems on Chips
 * [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 * [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators
+* [libcudacxx](https://github.com/NVIDIA/libcudacxx) - provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.
 
 
 ### Image Processing
