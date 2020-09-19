@@ -708,7 +708,7 @@ robot.
 * [ilqr](https://github.com/anassinator/ilqr) - Iterative Linear Quadratic Regulator with auto-differentiatiable dynamics models
 * [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) is a lightweight gradient-based local planner without ESDF construction, which significantly reduces computation time compared to some state-of-the-art methods
 * [pykep](https://github.com/esa/pykep) - is a scientific library providing basic tools for research in interplanetary trajectory design.
-
+* [am_traj](https://github.com/ZJU-FAST-Lab/am_traj) - Alternating Minimization Based Trajectory Generation for Quadrotor Aggressive Flight
 
 ## User Interaction
 ### Graphical User Interface
