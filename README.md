@@ -390,6 +390,7 @@ compiler infrastructure project
 * [foxBMS](https://github.com/foxBMS/foxbms) - is a free, open and flexible development environment to design battery management systems
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) - is a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeping.
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - An open-source framework for efficient multidisciplinary optimization.
+* [SUAVE](https://github.com/suavecode/SUAVE) - purpose is to credibly produce conceptual-level design conclusions for future aircraft incorporating advanced technologies.
 
 
 ## Sensor Processing
