@@ -391,7 +391,7 @@ compiler infrastructure project
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) - is a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeping.
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - An open-source framework for efficient multidisciplinary optimization.
 * [SUAVE](https://github.com/suavecode/SUAVE) - purpose is to credibly produce conceptual-level design conclusions for future aircraft incorporating advanced technologies.
-
+* [usv_sim_lsa](https://github.com/disaster-robotics-proalertas/usv_sim_lsa) - Unmanned Surface Vehicle simulation on Gazebo with water current and winds
 
 ## Sensor Processing
 ### Calibration and Transformation
