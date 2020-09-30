@@ -639,6 +639,7 @@ robot.
 * [Atlas](https://github.com/magicleap/Atlas) - End-to-End 3D Scene Reconstruction from Posed Images
 * [vilib](https://github.com/uzh-rpg/vilib) - This library focuses on the front-end of VIO pipelines with CUDA
 * [hloc](https://github.com/cvg/Hierarchical-Localization) - a modular toolbox for state-of-the-art 6-DoF visual localization. It implements Hierarchical Localization, leveraging image retrieval and feature matching, and is fast, accurate, and scalable.
+* [ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - is a novel pipeline for real-time visual odometry using a stereo event-based camera
 
 
 ### Vector Map
