@@ -359,7 +359,7 @@ compiler infrastructure project
 * [rex-gym](https://github.com/nicrusso7/rex-gym) - OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
 * [Trick](https://github.com/nasa/Trick) - developed at the NASA Johnson Space Center, is a powerful simulation development framework that enables users to build applications for all phases of space vehicle development
 * [usv_sim_lsa](https://github.com/disaster-robotics-proalertas/usv_sim_lsa) - Unmanned Surface Vehicle simulation on Gazebo with water current and winds
-
+* [42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 
 
 ## Electronics and Mechanics
