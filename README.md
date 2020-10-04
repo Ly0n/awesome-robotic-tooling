@@ -813,6 +813,7 @@ robot.
 * [entwine](https://github.com/connormanning/entwine/) - is a data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
 * [polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds 
 * [Pcx](https://github.com/keijiro/Pcx) - Point cloud importer & renderer for Unity
+* [ImmersivePoints](https://github.com/rmeertens/ImmersivePoints) - is a web-application for virtual reality devices to explore 3D data in the most natural way possible.
 
 
 #### RViz 
