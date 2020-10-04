@@ -1062,4 +1062,5 @@ robot.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We’re collecting and processing data from our autonomous fleet and sharing it with you.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
+* [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection
 
