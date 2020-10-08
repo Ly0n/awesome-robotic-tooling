@@ -805,7 +805,7 @@ robot.
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)
 * [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 * [BMW-Labeltool-Lite](https://github.com/BMW-InnovationLab/BMW-Labeltool-Lite) - provides you with a easy to use labeling tool for State-of-the-art Deep Learning training purposes.
-* [SuperAnnotate Desktop](https://github.com/opencv-ai/superannotate) - allows computer vision engineers or small annotation teams to quickly annotate images/videos, as well as it provides efficient features to explore already labeled datasets.
+
 
 #### Point Cloud 
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
