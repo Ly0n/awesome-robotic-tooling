@@ -618,6 +618,7 @@ robot.
 * [mola](https://github.com/MOLAorg/mola) - is a Modular System for Localization and Mapping
 * [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization
 * [iris_lama](https://github.com/iris-ua/iris_lama) - LaMa is a C++11 software library for robotic localization and mapping
+* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 
 
 #### Visual
