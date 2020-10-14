@@ -979,6 +979,7 @@ robot.
 * [autosar](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files
 * [canopen](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
 * [SavvyCAN](https://github.com/collin80/SavvyCAN) - A Qt5 based cross platform tool which can be used to load, save, and capture canbus frames
+* [Open-Vehicle-Monitoring-System-3](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3) - The system provides live monitoring of vehicle metrics like state of charge, temperatures, tyre pressures and diagnostic fault conditions.
 
 
 ### Sensor and Acuator Interfaces
