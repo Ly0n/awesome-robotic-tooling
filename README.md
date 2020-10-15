@@ -81,8 +81,6 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [openproject](https://github.com/opf/openproject) - is the leading open source project management software
 * [leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators
 * [gitter](https://gitlab.com/gitlab-org/gitter/webapp) - Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
-* [savannah](https://savannah.gnu.org/)  - The software forge for people committed to free software
-
 
 ## Documentation and Presentation
 * [Typora](https://typora.io/) - A Minimalist Markdown Editor
@@ -173,6 +171,7 @@ to successfully design systems architecture
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL
 * [pybotics](https://github.com/nnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration
 * [makani](https://github.com/google/makani) - contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools
+* [mir_robot](https://github.com/dfki-ric/mir_robot) - This is a community project to use the MiR Robots with ROS
 
 
 ## Development Environment
