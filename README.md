@@ -445,7 +445,7 @@ compiler infrastructure project
 * [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications
 * [tf-agents](https://github.com/tensorflow/agents) - A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 * [ReAgent](https://github.com/facebookresearch/ReAgent) - is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook.
-* [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
+* [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
 * [cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
 
 
