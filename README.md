@@ -393,6 +393,7 @@ compiler infrastructure project
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - An open-source framework for efficient multidisciplinary optimization.
 * [SUAVE](https://github.com/suavecode/SUAVE) - purpose is to credibly produce conceptual-level design conclusions for future aircraft incorporating advanced technologies.
 * [ODrive](https://github.com/madcowswe/ODrive) - aim is to make it possible to use inexpensive brushless motors in high performance robotics projects
+* [OpenTirePython](https://github.com/OpenTire/OpenTirePython) - An open-source mathematical tire modelling library.
 
 ## Sensor Processing
 ### Calibration and Transformation
