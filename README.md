@@ -359,6 +359,7 @@ compiler infrastructure project
 * [Trick](https://github.com/nasa/Trick) - developed at the NASA Johnson Space Center, is a powerful simulation development framework that enables users to build applications for all phases of space vehicle development
 * [usv_sim_lsa](https://github.com/disaster-robotics-proalertas/usv_sim_lsa) - Unmanned Surface Vehicle simulation on Gazebo with water current and winds
 * [42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
+* [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - is a scenario oriented design tool intended to enable users to quickly create procedurally generated multimodal streets in ArcGIS CityEngine.
 
 
 ## Electronics and Mechanics
