@@ -993,6 +993,7 @@ robot.
 * [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - These are packages for using Intel RealSense cameras (D400 series) with ROS2.
 * [sick_scan](https://github.com/SICKAG/sick_scan) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
 * [ouster_example](https://github.com/ouster-lidar/ouster_example) - Sample code for connecting to and configuring the OS1, reading and visualizing data, and interfacing with ROS.
+* [ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 * [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver) - is a new ROS package, specially used to connect LiDAR products produced by Livox
 * [velodyne](https://github.com/ros-drivers/velodyne) -  is a collection of ROS packages supporting Velodyne high definition 3D LIDARs
 * [ublox](https://github.com/KumarRobotics/ublox) - provides support for u-blox GPS receivers.
