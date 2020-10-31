@@ -360,6 +360,7 @@ compiler infrastructure project
 * [usv_sim_lsa](https://github.com/disaster-robotics-proalertas/usv_sim_lsa) - Unmanned Surface Vehicle simulation on Gazebo with water current and winds
 * [42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - is a scenario oriented design tool intended to enable users to quickly create procedurally generated multimodal streets in ArcGIS CityEngine.
+* [AutoCore simulation](https://github.com/autowarefoundation/) - Provides test environment for Autoware and still during early development, contents below may changed during updates.
 
 
 ## Electronics and Mechanics
@@ -449,6 +450,7 @@ compiler infrastructure project
 * [ReAgent](https://github.com/facebookresearch/ReAgent) - is an open source end-to-end platform for applied reinforcement learning (RL) developed and used at Facebook.
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
 * [cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
+* [modelzoo](https://github.com/autowarefoundation/modelzoo) - A collection of machine-learned models for use in autonomous driving applications.
 
 
 ### Parallel Processing
