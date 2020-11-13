@@ -361,6 +361,7 @@ compiler infrastructure project
 * [42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - is a scenario oriented design tool intended to enable users to quickly create procedurally generated multimodal streets in ArcGIS CityEngine.
 * [AutoCore simulation](https://github.com/autowarefoundation/) - Provides test environment for Autoware and still during early development, contents below may changed during updates.
+* [fields-ignition](https://github.com/azazdeaz/fields-ignition) - Generate random crop fields for Ignition Gazebo.
 
 
 ## Electronics and Mechanics
