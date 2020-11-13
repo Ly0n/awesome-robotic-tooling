@@ -246,7 +246,8 @@ compiler infrastructure project
 * [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
 * [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
 * [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - contains testing tools for C++, and is used in OSRF projects.
-* [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing
+* [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing-
+* [action-ros-ci](https://github.com/ros-tooling/action-ros-ci) - Github Action to build and test ROS 2 packages using colcon.
 
 ### Lint and Format
 * [action-ros-lint](https://github.com/ros-tooling/action-ros-lint) - Github action to run linters on ROS 2 packages
@@ -289,6 +290,8 @@ compiler infrastructure project
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer)  - This fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process.
 * [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 * [action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+* [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 library providing classes to collect measurements and calculate statistics across them.
+* [system_metrics_collector](https://github.com/ros-tooling/system_metrics_collector) - Lightweight, real-time system metrics collector for ROS2 systems.
 
 
 ### Version Control
