@@ -4,6 +4,8 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 
 > To stop reinventing the wheel you need to know about the wheel.
 
+<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%"/>
+
 * [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
 * [Requirements and Safety](#requirements-and-safety)
