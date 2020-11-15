@@ -1,6 +1,8 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Just a bunch of powerful robotic resources and tools for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace.
+Powerful robotic resources and tools for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace.
+
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics).
 
 > To stop reinventing the wheel you need to know about the wheel.
 
