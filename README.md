@@ -1,10 +1,12 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Powerful robotic resources and tools for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace.
+Robotic resources and tools for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace.
+
+> To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development. Since the development processes are of crucial importance for the approval of such systems, the interaction of development processes and tools plays a central role.
 
 Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics).
 
-> To stop reinventing the wheel you need to know about the wheel.
+
 
 <!--lint ignore double-link-->
 [<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://github.com/leggedrobotics/xpp)
