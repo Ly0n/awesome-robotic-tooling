@@ -1082,4 +1082,5 @@ robot.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection
+* [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment
 
