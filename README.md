@@ -102,7 +102,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [Hugo-Webslides](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
 * [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js.
 * [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
-* [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. 
+* [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [GitLab-Release-Note-Generator](https://github.com/jk1z/GitLab-Release-Note-Generator) - A Gitlab release note generator that generates release note on latest tag
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - Adds an OCR text layer to scanned PDF files, allowing them to be searched.
 * [papermill](https://github.com/nteract/papermill) - A tool for parameterizing, executing, and analyzing Jupyter Notebooks.
@@ -111,7 +111,7 @@ Just a bunch of powerful robotic resources and tools for professional developmen
 * [overleaf](https://github.com/overleaf/overleaf) - An open-source online real-time collaborative LaTeX editor.
 * [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile.
 * [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - Freely-licensed LibreOffice Impress templates.
-* [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation. 
+* [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation.
 * [olive](https://www.olivevideoeditor.org/) - A free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager.
 * [swiftlatex](https://www.swiftlatex.com/) - A WYSIWYG Browser-based LaTeX Editor.
@@ -145,13 +145,13 @@ to successfully design systems architecture.
 * [Guidelines](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) - How to architect ROS-based systems.
 * [yEd](https://www.yworks.com/products/yed) - A powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 * [yed_py](https://github.com/true-grue/yed_py) - Generates graphML that can be opened in yEd.
-* [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation.	
+* [Plantuml](https://github.com/plantuml/plantuml-server) - Web application to generate UML diagrams on-the-fly in your live documentation.
 * [rqt_graph](https://wiki.ros.org/rqt_graph) - Provides a GUI plugin for visualizing the ROS computation graph.
 * [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format).
 * [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs.
 * [aztarna](https://github.com/aliasrobotics/aztarna) -  A footprinting tool for robots.
-* [draw.io](https://www.draw.io/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. 
+* [draw.io](https://www.draw.io/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code
 
 ## Frameworks and Stacks
@@ -159,7 +159,7 @@ to successfully design systems architecture.
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 * [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto) - Autoware.Auto applies best-in-class software engineering for autonomous driving.
 * [Autoware.ai](https://github.com/Autoware-AI) - Autoware.AI is the world's first "All-in-One" open-source software for autonomous driving technology.
-* [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS). 
+* [OpenPilot](https://github.com/commaai/openpilot) - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS).
 * [Apollo](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/) - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
 * [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges.
@@ -192,11 +192,11 @@ to successfully design systems architecture.
 * [TabNine](https://github.com/zxqfl/TabNine) - The all-language autocompleter.
 * [kite](https://kite.com/) - Use machine learning to give you useful code completions for Python.
 * [jedi](https://github.com/davidhalter/jedi) - Autocompletion and static analysis library for python.
-* [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware. 
+* [roslibpy](https://github.com/gramaziokohler/roslibpy) - Python ROS Bridge library allows to use Python and IronPython to interact with ROS, the open-source robotic middleware.
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Free and open-source cross-platform source explorer.
-* [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown 
-* [mybinder](https://mybinder.org/) - Open notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere. 
+* [rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
+* [mybinder](https://mybinder.org/) - Open notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
 * [ROSOnWindows](https://ms-iot.github.io/ROSOnWindows/) - An experimental release of ROS1 for Windows.
 * [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools.
 * [cocalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud.
@@ -217,13 +217,13 @@ to successfully design systems architecture.
 * [qemu-user-static](https://github.com/multiarch/qemu-user-static) - Enable an execution of different multi-architecture containers by QEMU and binfmt_misc.
 * [Cross compile ROS 2 on QNX](https://gitlab.apex.ai/snippets/97) -  Introduces how to cross compile ROS 2 on QNX.
 * [bloom](https://github.com/ros-infrastructure/bloom) - A release automation tool which makes releasing catkin packages easier.
-* [superflore](https://github.com/ros-infrastructure/superflore) - An extended platform release manager for Robot Operating System.  
+* [superflore](https://github.com/ros-infrastructure/superflore) - An extended platform release manager for Robot Operating System.
 * [catkin_tools](https://github.com/catkin/catkin_tools) - Command line tools for working with catkin.
 * [industrial_ci](https://github.com/ros-industrial/industrial_ci) - Easy continuous integration repository for ROS repositories.
 * [ros_gitlab_ci](https://gitlab.com/VictorLamoine/ros_gitlab_ci) - Contains helper scripts and instructions on how to use Continuous Integration (CI) for ROS projects hosted on a GitLab instance.
 * [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -  Runs tests and sends the results to GitLab.
 * [colcon-core](https://github.com/colcon/colcon-core) - Command line tool to improve the workflow of building, testing and using multiple software packages.
-* [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag)
+* [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag).
 * [clang](https://github.com/llvm-mirror/clang) -  This is a compiler front-end for the C family of languages (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM compiler infrastructure project.
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - Bundle python requirements in a catkin package via virtualenv.
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
@@ -242,8 +242,8 @@ to successfully design systems architecture.
 * [setup-ros](https://github.com/ros-tooling/setup-ros) - This action sets up a ROS and ROS 2 environment for use in Github actions
 * [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
 * [googletest](https://github.com/google/googletest) - Google's C++ test framework
-* [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing 
-* [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+* [pytest](https://github.com/pytest-dev/pytest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+* [doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - Contains testing tools for C++, and is used in OSRF projects.
 * [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing.
 * [action-ros-ci](https://github.com/ros-tooling/action-ros-ci) - Github Action to build and test ROS 2 packages using colcon.
@@ -251,13 +251,13 @@ to successfully design systems architecture.
 ### Lint and Format
 * [action-ros-lint](https://github.com/ros-tooling/action-ros-lint) - Github action to run linters on ROS 2 packages.
 * [cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code
-* [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell 
+* [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 * [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.
 * [catkin_lint](https://github.com/fkie/catkin_lint) - Catkin_lint checks package configurations for the catkin build system of ROS.
 * [pylint](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 * [black](https://github.com/psf/black) - The uncompromising Python code formatter.
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - A static analysis tool for checking compliance with Python docstring conventions.
-* [haros](https://github.com/git-afsantos/haros) - H(igh) A(ssurance) ROS - Static analysis of ROS application code. 
+* [haros](https://github.com/git-afsantos/haros) - H(igh) A(ssurance) ROS - Static analysis of ROS application code.
 * [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints.
 
 
@@ -492,7 +492,7 @@ to successfully design systems architecture.
 * [3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking) - Official implementation of Joint Monocular 3D Vehicle Detection and Tracking.
 * [pysot](https://github.com/STVIR/pysot) - The goal of PySOT is to provide a high-quality, high-performance codebase for visual tracking research.
 * [semantic_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera.
-* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study. 
+* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study.
 * [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - Official PyTorch implementation of self-supervised monocular depth estimation methods invented by the ML Team at Toyota Research Institute (TRI).
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - This work proposes a simple yet accurate real-time baseline 3D multi-object tracking system.
 * [lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection using deep neural network model.
@@ -503,7 +503,7 @@ to successfully design systems architecture.
 * [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
 * [big_transfer](https://github.com/google-research/big_transfer) - Model for General Visual Representation Learning created by Google Research.
 * [LEDNet](https://github.com/xiaoyufenfei/LEDNet) - A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation.
-* [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch. 
+* [TorchSeg](https://github.com/ycszen/TorchSeg) - This project aims at providing a fast, modular reference implementation for semantic segmentation models using PyTorch.
 * [simpledet](https://github.com/tusimple/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition.
 * [meshroom](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use Optical character recognition (OCR) with 40+ languages supported including Chinese, Japanese, Korean and Thai.
@@ -533,7 +533,7 @@ to successfully design systems architecture.
 * [point_cloud_io](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
 * [python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library.
 * [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics.
-* [depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor. 
+* [depth_clustering](https://github.com/PRBonn/depth_clustering) - Fast and robust clustering of point clouds generated with a Velodyne sensor.
 * [lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving.
 * [CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation.
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
@@ -546,7 +546,7 @@ to successfully design systems architecture.
 * [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations.
 * [LAStools](https://github.com/LAStools/LAStools) - Award-winning software for efficient LiDAR processing.
-* [PCDet](https://github.com/sshaoshuai/PCDet) - A general PyTorch-based codebase for 3D object detection from point cloud. 
+* [PCDet](https://github.com/sshaoshuai/PCDet) - A general PyTorch-based codebase for 3D object detection from point cloud.
 * [PDAL](https://github.com/PDAL/PDAL) - A C++ BSD library for translating and manipulating point cloud data.
 * [PotreeConverter](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
 * [fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms.
@@ -593,7 +593,7 @@ to successfully design systems architecture.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s).
 * [se2lam](https://github.com/izhengfan/se2lam) - On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision
-* [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency 
+* [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - ML-based positioning method from mmWave transmissions - with high accuracy and energy efficiency
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) -  Computes the position and velocity of an earth-orbiting satellite, given the satellite’s TLE orbital elements from a source like Celestrak.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - A ROS package that offers 3 DoF and 6 DoF localization using PCL and allows dynamic map update using OctoMap.
 * [eagleye](https://github.com/MapIV/eagleye) -  An open-source software for vehicle localization utilizing GNSS and IMU.
@@ -713,7 +713,7 @@ to successfully design systems architecture.
 * [openrave](https://github.com/rdiankov/openrave) - Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.
 * [teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) - An optimal trajectory planner considering distinctive topologies for mobile robots based on Timed-Elastic-Bands.
 * [pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives.
-* [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - An efficient C++ library for control, estimation, optimization and motion planning in robotics.  
+* [control-toolbox](https://github.com/ethz-adrl/control-toolbox) - An efficient C++ library for control, estimation, optimization and motion planning in robotics.
 * [rmf_core](https://github.com/osrf/rmf_core) - The rmf_core packages provide the centralized functions of the Robotics Middleware Framework (RMF)
 * [OpEn](https://github.com/alphaville/optimization-engine) - A solver for Fast & Accurate Embedded Optimization for next-generation Robotics and Autonomous Systems.
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - This project provides the continuation/GMRES method (C/GMRES method) based solvers for nonlinear model predictive control (NMPC) and an automatic code generator for NMPC.
@@ -788,7 +788,7 @@ to successfully design systems architecture.
 * [voila](https://github.com/voila-dashboards/voila) - From Jupyter notebooks to standalone web applications and dashboards.
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 * [rqt_bag](http://wiki.ros.org/rqt_bag) - Provides a GUI plugin for displaying and replaying ROS bag files.
-* [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. 
+* [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 * [qgis_ros](https://github.com/locusrobotics/qgis_ros) - Access bagged and live topic data in a highly featured GIS environment.
 * [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats.
@@ -838,7 +838,7 @@ to successfully design systems architecture.
 * [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools) - Helper functions for displaying and debugging MoveIt! data in Rviz via published markers.
 
 
-## Operation System 
+## Operation System
 ### Monitoring
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon.
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes.
@@ -869,7 +869,7 @@ to successfully design systems architecture.
 * [syncthing](https://github.com/syncthing/syncthing) - A continuous file synchronization program.
 * [rqt_bag_exporter](https://gitlab.com/InstitutMaupertuis/rqt_bag_exporter) - Qt GUI to export ROS bag topics to files (CSV and/or video).
 * [xviz](https://github.com/uber/xviz) - A protocol for real-time transfer and visualization of autonomy data.
-* [kitti_to_rosbag](https://github.com/ethz-asl/kitti_to_rosbag) - A Dataset tools for working with the KITTI dataset raw data and converting it to a ROS bag. Also allows a library for direct access to poses, velodyne scans, and images. 
+* [kitti_to_rosbag](https://github.com/ethz-asl/kitti_to_rosbag) - A Dataset tools for working with the KITTI dataset raw data and converting it to a ROS bag. Also allows a library for direct access to poses, velodyne scans, and images.
 * [ros_numpy](https://github.com/eric-wieser/ros_numpy) - Tools for converting ROS messages to and from numpy arrays.
 * [kitti_ros](https://github.com/LidarPerception/kitti_ros) - A ROS-based player to replay KiTTI dataset.
 * [DuckDB](https://github.com/cwida/duckdb) - An embeddable SQL OLAP Database Management System.
@@ -1033,7 +1033,7 @@ to successfully design systems architecture.
 * [vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE.
 * [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
 * [brutespray](https://github.com/x90skysn3k/brutespray) - Automatically attempts default creds on found services.
-* [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors 
+* [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - A software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies
 * [Firejail](https://github.com/netblue30/firejail) - A SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
 * [RVD](https://github.com/aliasrobotics/RVD) - Robot Vulnerability Database. Community-contributed archive of robot vulnerabilities and weaknesses.
@@ -1070,24 +1070,13 @@ to successfully design systems architecture.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images.
 * [adas-dataset-form](https://www.flir.com/oem/adas/adas-dataset-form/) - Thermal Dataset for Algorithm Training.
 * [h3d](https://usa.honda-ri.com/h3d) - The H3D is a large scale full-surround 3D multi-object detection and tracking dataset from Honda.
-* [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) - A diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world. 
+* [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) - A diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world.
 * [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview) - TensorFlow Datasets provides many public datasets as tf.data.Datasets.
 * [racetrack-database](https://github.com/TUMFTM/racetrack-database) - Contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks (mainly F1 and DTM) all over the world.
 * [BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation.
 * [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation created from nothing but two cameras and GPS in downtown San Francisco.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We’re collecting and processing data from our autonomous fleet and sharing it with you.
-<<<<<<< Updated upstream
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
-* [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
-* [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection
-* [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment
-||||||| constructed merge base
-* [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures
-* [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
-* [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection
-=======
-* [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures.
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
->>>>>>> Stashed changes
-
+* [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
