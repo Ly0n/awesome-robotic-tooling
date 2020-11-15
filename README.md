@@ -9,6 +9,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 <!--lint ignore double-link-->
 [<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://github.com/leggedrobotics/xpp)
 
+[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
+
 ## Contents
 * [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
