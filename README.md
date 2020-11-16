@@ -577,6 +577,7 @@ to successfully design systems architecture.
 * [gpd](https://github.com/atenpas/gpd) - Takes a point cloud as input and produces pose estimates of viable grasps as output.
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving.
 * [Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection) - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation).
+* [kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research.
 
 
 ## Localization and State Estimation
@@ -1011,6 +1012,7 @@ to successfully design systems architecture.
 * [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
 * [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras.
 * [spot_ros](https://github.com/clearpathrobotics/spot_ros) - ROS Driver for Spot.
+* [blickfeld-scanner-lib](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
 
 
 ## Security
