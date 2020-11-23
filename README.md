@@ -726,6 +726,7 @@ to successfully design systems architecture.
 * [am_traj](https://github.com/ZJU-FAST-Lab/am_traj) - Alternating Minimization Based Trajectory Generation for Quadrotor Aggressive Flight.
 * [GraphBasedLocalTrajectoryPlanner](https://github.com/TUMFTM/GraphBasedLocalTrajectoryPlanner) - Was used on a real race vehicle during the Roborace Season Alpha and achieved speeds above 200km/h.
 * [se2_navigation](https://github.com/leggedrobotics/se2_navigation) - Pure pursuit controller and Reeds-Shepp sampling based planner for navigation in SE(2) space.
+* [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - Contains algorithms that allow us to determine an optimal racing line on a race track.
 
 
 ## User Interaction
