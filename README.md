@@ -180,6 +180,7 @@ to successfully design systems architecture.
 * [pybotics](https://github.com/nnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration.
 * [makani](https://github.com/google/makani) - Contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - This is a community project to use the MiR Robots with ROS.
+* [COMPAS](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
 
 
 ## Development Environment
