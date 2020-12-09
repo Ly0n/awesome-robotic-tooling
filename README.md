@@ -585,6 +585,7 @@ to successfully design systems architecture.
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving.
 * [Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection) - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation).
 * [kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research.
+* [CamVox](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
 
 ## Localization and State Estimation
