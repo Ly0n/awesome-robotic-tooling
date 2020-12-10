@@ -11,7 +11,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+<!--toc-->
+
 ## Contents
+
 * [Communication and Coordination](#communication-and-coordination)
 * [Documentation and Presentation](#documentation-and-presentation)
 * [Requirements and Safety](#requirements-and-safety)
@@ -64,6 +67,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
   * [Sensor and Acuator Interfaces](#sensor-and-acuator-interfaces)
 * [Security](#security)
 * [Datasets](#datasets)
+
+<!--toc_end-->
 
 ## Communication and Coordination
 * [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development.

@@ -1,0 +1,35 @@
+site_name: 'Awesome Robotic Tooling'
+site_url: 'https://FreeRobotics.tools'
+site_description: 'Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace'
+repo_name: 'protontypes/awesome-robotic-tooling'
+repo_url: 'https://github.com/protontypes/awesome-robotic-tooling'
+nav:
+  - "Awesome Robotic Tooling": "index.md"
+  - "Contribute Awesome Robotic Tooling": "CONTRIBUTING.md"
+
+theme:
+  name: 'material'
+  logo: 'logo.png'
+  favicon: 'favicon.png'
+  palette:
+        primary: 'blue grey'
+        accent: 'indigo'
+  feature:
+    - navigation.instant
+    - navigration.tabs
+    - search.highlight
+
+extra_css:
+    - css/extra.css
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/protontypes
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/protontypes
