@@ -132,6 +132,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks.
 * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - Open Source OCR Engine.
+* [mkdocs](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 
 
 ## Requirements and Safety
