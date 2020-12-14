@@ -165,6 +165,7 @@ to successfully design systems architecture.
 * [aztarna](https://github.com/aliasrobotics/aztarna) -  A footprinting tool for robots.
 * [draw.io](https://www.draw.io/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
+* [Architecture_Decision_Record](https://github.com/joelparkerhenderson/architecture_decision_record) - A document that captures an important architectural decision made along with its context and consequences.
 
 ## Frameworks and Stacks
 * [ROS](https://github.com/ros) - (Robot Operating System) provides libraries and tools to help software developers create robot applications.
