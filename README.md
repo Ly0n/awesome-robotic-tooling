@@ -1094,4 +1094,4 @@ to successfully design systems architecture.
 
 ## Footnotes
 
-Thanks to the team of [xpp](https://github.com/leggedrobotics/xpp#readme) for creating this awesome GIF we use.
+Thanks to the team of [xpp](http://wiki.ros.org/xpp) for creating this awesome GIF we use.
