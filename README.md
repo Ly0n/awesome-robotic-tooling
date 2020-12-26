@@ -4,12 +4,12 @@
 
 > To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development.
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](./CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
 
 <!--lint ignore double-link-->
 [<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://github.com/leggedrobotics/xpp) 
 <!--lint ignore double-link-->
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/intent/follow?screen_name=protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <!--toc-->
 
@@ -529,7 +529,6 @@ to successfully design systems architecture.
 * [anonymizer](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 * [opendatacam](https://github.com/opendatacam/opendatacam) - Only saves surveyed meta-data, in particular the path an object moved or number of counted objects at a certain point.
 * [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
-* [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing.
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
 * [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
@@ -623,7 +622,7 @@ to successfully design systems architecture.
 * [lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping).
 * [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM.
 * [Fast LOAM](https://github.com/wh200720041/floam) - Fast and Optimized Lidar Odometry And Mapping.
-* [LIO_SAM](https://github.com/TixiaoShan/LIO-) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+* [LIO_SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 * [cartographer_ros](https://github.com/googlecartographer/cartographer_ros) - Provides ROS integration for Cartographer.
 * [loam_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR.
 * [StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world.
@@ -639,7 +638,6 @@ to successfully design systems architecture.
 * [mola](https://github.com/MOLAorg/mola) - A Modular System for Localization and Mapping.
 * [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization.
 * [LaMa](https://github.com/iris-ua/iris_lama) - LaMa is a C++11 software library for robotic localization and mapping.
-* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 * [Scan Context](https://github.com/irapkaist/scancontext) - Global LiDAR descriptor for place recognition and long-term localization.
 
 
@@ -1094,6 +1092,6 @@ to successfully design systems architecture.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 * [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
 
-# Footnotes
+## Footnotes
 
-Thanks to the team of [xpp](https://github.com/leggedrobotics/xpp) for creating this awesome GIF we use.
+Thanks to the team of [xpp](http://wiki.ros.org/xpp) for creating this awesome GIF we use.
