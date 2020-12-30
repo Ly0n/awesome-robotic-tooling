@@ -278,7 +278,7 @@ to successfully design systems architecture.
 
 ### Debugging and Tracing
 * [heaptrack](https://github.com/KDE/heaptrack) - Traces all memory allocations and annotates these events with stack traces.
-* [ros2_tracing](https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing) - Tracing tools for ROS 2.
+* [ros2_tracing](https://gitlab.com/ros-tracing/ros2_tracing) - Tracing tools for ROS 2.
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) - Various Linux performance material.
 * [lptrace](https://github.com/khamidou/lptrace) - It lets you see in real-time what functions a Python program is running.
 * [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
