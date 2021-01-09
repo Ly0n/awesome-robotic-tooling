@@ -943,6 +943,7 @@ to successfully design systems architecture.
 * [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) - Defines a device hypervisor reference stack and an architecture for running multiple software subsystems, managed securely, on a consolidated system by means of a virtual machine manager.
 * [jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for Jetson and JetPack 4.4.
 
+
 ### Real-Time Kernel
 * [ELISA](https://elisa.tech/) -  Project is to make it easier for companies to build and certify Linux-based safety-critical applications – systems whose failure could result in loss of human life, significant property damage or environmental damage.
 * [PREEMPT_RT kernel patch](https://wiki.linuxfoundation.org/realtime/documentation/start) - Aim of the PREEMPT_RT kernel patch is to minimize the amount of kernel code that is non-preemptible.
@@ -961,6 +962,8 @@ to successfully design systems architecture.
 * [eCAL](https://github.com/continental/) - The enhanced communication abstraction layer (eCAL) is a middleware that enables scalable, high performance interprocess communication on a single computer node or between different nodes in a computer network.
 * [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11.
 * [ocpp](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
+* [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) - A experimental micro-ROS library for baremetal projects based on Arduino IDE or Arduino CLI.
+
 
 ### Ethernet and Wireless Networking
 * [SOES](https://github.com/OpenEtherCATsociety/SOES) - SOES is an EtherCAT slave stack written in C.
