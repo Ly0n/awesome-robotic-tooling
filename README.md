@@ -188,6 +188,7 @@ to successfully design systems architecture.
 * [makani](https://github.com/google/makani) - Contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - This is a community project to use the MiR Robots with ROS.
 * [COMPAS](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
+* [JdeRobot Academy](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy is an open source collection of exercises to learn robotics in a practical way.
 
 
 ## Development Environment
