@@ -133,6 +133,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - Open Source OCR Engine.
 * [mkdocs](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
+* [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 
 
 ## Requirements and Safety
