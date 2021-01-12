@@ -1,6 +1,6 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Robotic tooling for professional development in C++ or Python with a touch of ROS, autonomous driving and aerospace**
+**Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace**
 
 > To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development.
 
@@ -134,6 +134,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - Open Source OCR Engine.
 * [mkdocs](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
+* [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 
 ## Requirements and Safety
