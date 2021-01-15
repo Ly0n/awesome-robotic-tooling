@@ -1037,6 +1037,7 @@ to successfully design systems architecture.
 * [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - A ROS driver for Orbbec 3D cameras.
 * [spot_ros](https://github.com/clearpathrobotics/spot_ros) - ROS Driver for Spot.
 * [blickfeld-scanner-lib](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
+* [TauLidarCamera](https://github.com/OnionIoT/tau-LiDAR-camera) - The host-side API for building applications with the Tau LiDAR Camera.
 
 
 ## Security
