@@ -860,7 +860,6 @@ to successfully design systems architecture.
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon.
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes.
 * [collectd](https://github.com/collectd/collectd/) - A small daemon which collects system information periodically and provides mechanisms to store and monitor the values in a variety of ways.
-
 * [lnav](http://lnav.org/) - An enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.
 * [htop](https://github.com/hishamhm/htop) - An interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 * [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux with logging and replay function.
