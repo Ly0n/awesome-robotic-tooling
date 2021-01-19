@@ -818,6 +818,7 @@ to successfully design systems architecture.
 * [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) - URDF Loaders for Unity and THREE.js with example ATHLETE URDF File.
 * [obs-studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
 * [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
+* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
 
 ### Annotation
