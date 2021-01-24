@@ -647,6 +647,7 @@ to successfully design systems architecture.
 * [DH3D](https://github.com/JuanDuGit/DH3D) - Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DOF Relocalization.
 * [LaMa](https://github.com/iris-ua/iris_lama) - LaMa is a C++11 software library for robotic localization and mapping.
 * [Scan Context](https://github.com/irapkaist/scancontext) - Global LiDAR descriptor for place recognition and long-term localization.
+* [M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration.
 
 
 ### Visual
