@@ -1082,6 +1082,7 @@ to successfully design systems architecture.
 
 
 ## Datasets
+* [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
 * [KITTI-360](https://github.com/autonomousvision/kitti360Scripts) -  This large-scale dataset contains 320k images and 100k laser scans in a driving distance of 73.7km.
 * [waymo_ros](https://github.com/YonoHub/waymo_ros) - This is a ROS package to connect Waymo open dataset to ROS.
 * [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
