@@ -543,6 +543,7 @@ to successfully design systems architecture.
 * [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
 * [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
+* [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 
 ### Radar Processing
