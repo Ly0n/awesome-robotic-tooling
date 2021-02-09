@@ -424,6 +424,7 @@ to successfully design systems architecture.
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - An open-source framework for efficient multidisciplinary optimization.
 * [ODrive](https://github.com/madcowswe/ODrive) - The aim is to make it possible to use inexpensive brushless motors in high performance robotics projects.
 * [OpenTirePython](https://github.com/OpenTire/OpenTirePython) - An open-source mathematical tire modelling library.
+* [Inkscape Ray Optics](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 
 ## Sensor Processing
 ### Calibration and Transformation
