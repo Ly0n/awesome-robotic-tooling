@@ -135,6 +135,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [mkdocs](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+* [SVGrepo](https://www.svgrepo.com/) - Download free SVG Vectors for commercial use.
 
 
 ## Requirements and Safety
