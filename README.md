@@ -1,6 +1,6 @@
 # Awesome Robotic Tooling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace**
+**A curated list of tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace**
 
 > To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development.
 
