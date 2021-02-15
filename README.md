@@ -426,6 +426,7 @@ to successfully design systems architecture.
 * [ODrive](https://github.com/madcowswe/ODrive) - The aim is to make it possible to use inexpensive brushless motors in high performance robotics projects.
 * [OpenTirePython](https://github.com/OpenTire/OpenTirePython) - An open-source mathematical tire modelling library.
 * [Inkscape Ray Optics](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
+* [OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) -  A lightweight tool that performs aerostructural optimization using OpenMDAO.
 
 ## Sensor Processing
 ### Calibration and Transformation
