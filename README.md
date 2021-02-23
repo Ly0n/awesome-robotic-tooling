@@ -136,6 +136,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 * [SVGrepo](https://www.svgrepo.com/) - Download free SVG Vectors for commercial use.
+* [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 
 
 ## Requirements and Safety
