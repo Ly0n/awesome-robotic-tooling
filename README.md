@@ -352,6 +352,7 @@ to successfully design systems architecture.
 * [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity.
 * [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support.
 * [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo.
+* [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 * [highway-env](https://github.com/eleurent/highway-env) - A collection of environments for autonomous driving and tactical decision-making tasks.
 * [VREP Interface](http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm) - ROS Bridge for the VREP simulator.
 * [car_demo](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
