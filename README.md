@@ -137,6 +137,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 * [SVGrepo](https://www.svgrepo.com/) - Download free SVG Vectors for commercial use.
 * [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+* [GanttLab](https://gitlab.com/ganttlab/ganttlab) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
 
 
 ## Requirements and Safety
