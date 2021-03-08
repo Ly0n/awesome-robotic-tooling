@@ -978,6 +978,7 @@ to successfully design systems architecture.
 * [AUTOSAR-Adaptive](https://github.com/UmlautSoftwareDevelopmentAccount/AUTOSAR-Adaptive) - The implementation of AUTOSAR Adaptive Platform based on the R19-11.
 * [ocpp](https://github.com/NewMotion/ocpp) - The Open Charge Point Protocol (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system.
 * [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) - A experimental micro-ROS library for baremetal projects based on Arduino IDE or Arduino CLI.
+* [mqtt_bridge](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
 
 
 ### Ethernet and Wireless Networking
