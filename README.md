@@ -779,6 +779,7 @@ to successfully design systems architecture.
 * [NoiseTorch](https://github.com/lawl/NoiseTorch) - Creates a virtual microphone that suppresses noise, in any application.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - An open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
 * [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis.
+* [TTS](https://github.com/coqui-ai/TTS) - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
 
 
 ### Command Line Interface
