@@ -828,6 +828,7 @@ to successfully design systems architecture.
 * [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 * [ipygany](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
+* [Foxglove Studio](https://github.com/foxglove/studio) - Robotics visualization and debugging.
 
 
 ### Annotation
