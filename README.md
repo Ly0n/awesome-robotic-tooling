@@ -630,6 +630,7 @@ to successfully design systems architecture.
 * [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library.
 * [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) -  Implements common used trajectory evaluation methods for visual(-inertial) odometry.
 * [pymap3d](https://github.com/geospace-code/pymap3d) - Pure-Python (Numpy optional) 3D coordinate conversions for geospace ecef enu eci.
+* [libRSF](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
 
 ## Simultaneous Localization and Mapping
 ### Lidar
