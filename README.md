@@ -885,6 +885,8 @@ to successfully design systems architecture.
 * [gputil](https://github.com/anderskm/gputil) - A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python.
 * [gpustat](https://github.com/wookayin/gpustat) -  A simple command-line utility for querying and monitoring GPU status.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool.
+- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
+- [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web.
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
 * [ctop](https://github.com/bcicen/ctop) -  Top-like interface for container metrics.
 * [ntop](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
