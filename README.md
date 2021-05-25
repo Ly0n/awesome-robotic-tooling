@@ -831,7 +831,7 @@ to successfully design systems architecture.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 * [ipygany](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
 * [Foxglove Studio](https://github.com/foxglove/studio) - Robotics visualization and debugging.
-* [ROS-Mobile](https://github.com/ROS-Mobile/ROS-Mobile-Android) - Visualization and controlling application for Android
+* [ROS-Mobile](https://github.com/ROS-Mobile/ROS-Mobile-Android) - Visualization and controlling application for Android.
 
 
 ### Annotation
