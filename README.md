@@ -138,6 +138,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [SVGrepo](https://www.svgrepo.com/) - Download free SVG Vectors for commercial use.
 * [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [GanttLab](https://gitlab.com/ganttlab/ganttlab) - The easy to use, fully functional Gantt chart for GitLab and GitHub.
+* [Zotero](https://github.com/zotero/zotero) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 
 
 ## Requirements and Safety
@@ -448,6 +449,7 @@ to successfully design systems architecture.
 * [ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity.
 * [livox_camera_lidar_calibration](https://github.com/Livox-SDK/livox_camera_lidar_calibration) - Calibrate the extrinsic parameters between Livox LiDAR and camera.
 * [lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Camera LiDAR Calibration using ROS, OpenCV, and PCL.
+* [e2calib](https://github.com/uzh-rpg/e2calib) - Contains code that implements video reconstruction from event data for calibration.
 
 
 ### Perception Pipeline
