@@ -1124,6 +1124,7 @@ to successfully design systems architecture.
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 * [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
+* [ONCE dataset](https://once-for-auto-driving.github.io/index.html) - A large-scale autonomous driving dataset with 2D&3D object annotations.
 
 ## Footnotes
 
