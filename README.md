@@ -393,6 +393,7 @@ to successfully design systems architecture.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 * [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - The goal of BlueSky is to provide everybody who wants to visualize, analyze or simulate air traffic with a tool to do so without any restrictions, licenses or limitations.
 * [Cloe](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
+* [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses
 
 
 ## Electronics and Mechanics
