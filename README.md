@@ -436,6 +436,7 @@ to successfully design systems architecture.
 ## Sensor Processing
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - Transform library, which lets the user keep track of multiple coordinate frames over time.
+* [TriP](https://github.com/TriPed-Robot/TriP) - A Inverse Kinematics library for serial robots, parallel robots and hybrids of both.
 * [lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor.
 * [kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox.
 * [Calibnet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks.
