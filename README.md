@@ -260,6 +260,7 @@ to successfully design systems architecture.
 * [network_autoconfig](http://docs.ros.org/kinetic/api/network_autoconfig/html/) - Automatic configuration of ROS networking for most use cases without impacting usage that require manual configuration.
 * [rosbuild](https://roscon.ros.org/2016/presentations/ROSCon2016%20Build%20Farm.pdf) - The ROS build farm.
 * [cros](https://github.com/ros-industrial/cros) - A single thread pure C implementation of the ROS framework.
+* [ccws](https://github.com/asherikov/ccws) - ROS development environment for (cross-)compilation, testing, linting, documetation and binary package generation. Can be used interactively and in CI.
 
 
 ### Unit and Integration Test
