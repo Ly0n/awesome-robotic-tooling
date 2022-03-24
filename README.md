@@ -856,6 +856,7 @@ to successfully design systems architecture.
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 * [BMW-Labeltool-Lite](https://github.com/BMW-InnovationLab/BMW-Labeltool-Lite) - Provides you with a easy to use labeling tool for State-of-the-art Deep Learning training purposes.
+* [3d-annotation-tool](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
 
 
 ### Point Cloud 
