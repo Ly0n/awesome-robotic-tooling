@@ -4,10 +4,10 @@
 
 > To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development.
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes).
 
 <!--lint ignore double-link-->
-[<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://github.com/leggedrobotics/xpp) 
+[<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://github.com/leggedrobotics/xpp)
 <!--lint ignore double-link-->
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/intent/follow?screen_name=protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -464,6 +464,7 @@ to successfully design systems architecture.
 * [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) - A stack for the perception packages which are used in JSK lab.
 * [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents.
 * [morefusion](https://github.com/wkentaro/morefusion) - Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion.
+* [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking) - A package for 6D pose tracking of dynamic objects when object's CAD model is available.
 
 ### Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++.
@@ -550,7 +551,7 @@ to successfully design systems architecture.
 * [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
-* [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
+* [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms.
 * [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
 * [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -859,7 +860,7 @@ to successfully design systems architecture.
 * [3d-annotation-tool](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
 
 
-### Point Cloud 
+### Point Cloud
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - Makes viewing massive point clouds easy and convenient.
@@ -871,7 +872,7 @@ to successfully design systems architecture.
 * [ImmersivePoints](https://github.com/rmeertens/ImmersivePoints) - A web-application for virtual reality devices to explore 3D data in the most natural way possible.
 
 
-### RViz 
+### RViz
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz.
