@@ -618,6 +618,7 @@ to successfully design systems architecture.
 * [cuda-pcl](https://github.com/NVIDIA-AI-IOT/cuda-pcl) - Accelerating Lidar for Robotics with NVIDIA CUDA-based PCL.
 * [urban_road_filter](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles.
 * [Removert](https://github.com/irapkaist/removert) - Remove then revert. Static map construction in the wild and dynamic points removing tool by constructing a static map.
+* [KISS-ICP](https://github.com/PRBonn/kiss-icp) - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM.
@@ -643,6 +644,7 @@ to successfully design systems architecture.
 
 ## Simultaneous Localization and Mapping
 ### Lidar
+* [KISS-ICP](https://github.com/PRBonn/kiss-icp) - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
 * [loam_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
 * [lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping).
 * [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM.
