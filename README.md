@@ -1136,6 +1136,7 @@ to successfully design systems architecture.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 * [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
 * [ONCE dataset](https://once-for-auto-driving.github.io/index.html) - A large-scale autonomous driving dataset with 2D&3D object annotations.
+* [Race Against the Machine](https://github.com/tii-racing/drone-racing-dataset) - A Fully-annotated, Open-design Dataset of Autonomous and Piloted High-speed Flight
 
 ## Footnotes
 
