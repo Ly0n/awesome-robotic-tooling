@@ -198,7 +198,7 @@ to successfully design systems architecture.
 * [clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones.
 * [ArduPilot](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
 * [F Prime](https://github.com/nasa/fprime) - A component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications.
-
+* [dora-rs](https://github.com/dora-rs/dora) - Dataflow-Oriented Robotic Architecture ( dora-rs ) is a framework that makes creation of robotic applications fast and simple with the help of Rust.
 ## Development Environment
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development.
