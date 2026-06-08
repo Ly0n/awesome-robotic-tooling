@@ -1104,6 +1104,7 @@ to successfully design systems architecture.
 * [Vault](https://github.com/hashicorp/vault) - A tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more.
 * [legion](https://github.com/GoVanguard/legion) - An open source, easy-to-use, super-extensible and semi-automated network penetration testing framework that aids in discovery, reconnaissance and exploitation of information systems.
 * [openscap](https://github.com/OpenSCAP/openscap) - The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for autonomous robot agents. Verify agent wallet identity before accessing premium sensor data APIs or autonomous system coordination services via x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 ## Datasets
