@@ -200,6 +200,7 @@ to successfully design systems architecture.
 * [F Prime](https://github.com/nasa/fprime) - A component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications.
 
 ## Development Environment
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code for CNC/3D printers. MCP compatible, x402 micropayments on Base.
 ### Code and Run
 * [Vim-ros](https://github.com/taketwo/vim-ros) - Vim plugin for ROS development.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
