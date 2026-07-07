@@ -624,6 +624,7 @@ to successfully design systems architecture.
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM.
 * [robot_localization](https://github.com/cra-ros-pkg/robot_localization) - A package of nonlinear state estimation nodes.
 * [fuse](https://github.com/locusrobotics/fuse) - General architecture for performing sensor fusion live on a robot.
+* [FusionCore](https://github.com/manankharwar/fusioncore) - A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization.
 * [GeographicLib](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
