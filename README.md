@@ -271,6 +271,7 @@ to successfully design systems architecture.
 * [osrf_testing_tools_cpp](https://github.com/osrf/osrf_testing_tools_cpp) - Contains testing tools for C++, and is used in OSRF projects.
 * [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing.
 * [action-ros-ci](https://github.com/ros-tooling/action-ros-ci) - GitHub Action to build and test ROS 2 packages using colcon.
+* [Metriplane](https://github.com/Miko997/metriplane) - Open-source Python tooling that turns recorded robotics workcell state into incident reports, integrity-verifiable evidence bundles, and rerunnable regression checks.
 
 ### Lint and Format
 * [action-ros-lint](https://github.com/ros-tooling/action-ros-lint) - GitHub action to run linters on ROS 2 packages.
