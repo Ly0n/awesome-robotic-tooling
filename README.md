@@ -396,6 +396,7 @@ to successfully design systems architecture.
 * [Cloe](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
 * [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
 * [OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
+* [OmniSim](https://github.com/omnilink-tech/omnisim) - An open-source robotics simulator designed for programmatic agent workflows, with HTTP/JSON and MCP control, Newton/MuJoCo physics, URDF/STEP import, ROS 2 base topics, synthetic-data generation, and executed benchmark suites.
 
 
 ## Electronics and Mechanics
