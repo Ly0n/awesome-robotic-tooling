@@ -889,6 +889,7 @@ to successfully design systems architecture.
 ## Operation System
 ### Monitoring
 * [rosmon](https://github.com/xqms/rosmon) - ROS node launcher & monitoring daemon.
+* [ros2_pulse](https://github.com/TanayK07/ros2_pulse) - Per-topic message rates and node liveness for ROS 2, inter- and intra-process, from an LD_PRELOAD probe on stock binaries with no rebuild and no extra DDS traffic.
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes.
 * [collectd](https://github.com/collectd/collectd/) - A small daemon which collects system information periodically and provides mechanisms to store and monitor the values in a variety of ways.
 * [lnav](http://lnav.org/) - An enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.
