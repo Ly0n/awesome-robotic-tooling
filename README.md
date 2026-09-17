@@ -143,6 +143,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
+* [RoboSafe](https://github.com/elandros1/robo-safe) - Embodied AI safety harness for humanoid robots — intercepts, validates, and safeguards every action from the AI brain before physical execution.
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) - OAS is a fully open-source library of Voyage's safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
 * [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) - Create functional safety documents in this Udacity project.
 * [Automated Valet Parking Safety Documents](https://avp-project.uk/publication-of-safety-documents) - Created to support the safe testing of the Automated Valet Parking function using the StreetDrone test vehicle in a car park.
