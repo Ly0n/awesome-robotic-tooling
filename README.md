@@ -579,7 +579,7 @@ to successfully design systems architecture.
 * [pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) - Converts a 3D Point Cloud into a 2D laser scan.
 * [octomap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
 * [pptk](https://github.com/heremaps/pptk) - Point Processing Toolkit from HEREMaps.
-* [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
+* [gpu-voxels](https://github.com/fzi-forschungszentrum-informatik/gpu-voxels) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - A new voxel layer leveraging modern 3D graphics tools to modernize navigation environmental representations.
 * [LAStools](https://github.com/LAStools/LAStools) - Award-winning software for efficient LiDAR processing.
 * [PCDet](https://github.com/sshaoshuai/PCDet) - A general PyTorch-based codebase for 3D object detection from point cloud.
@@ -628,7 +628,7 @@ to successfully design systems architecture.
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) - A version of RTKLIB optimized for single and dual frequency low cost GPS receivers, especially u-blox receivers.
-* [gLAB](https://gage.upc.edu/gLAB/) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing standalone GPS positioning, PPP, SBAS and DGNSS.
+* [gLAB](https://gage.upc.edu/en/learning-materials/software-tools/glab-tool-suite) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing standalone GPS positioning, PPP, SBAS and DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - Contains the code of our novel accurate method for dead reckoning of wheeled vehicles based only on an IMU.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook.
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s).
@@ -847,7 +847,7 @@ to successfully design systems architecture.
 
 
 ### Annotation
-* [labelbox](https://github.com/Labelbox/labelbox) - The fastest way to annotate data to build and ship artificial intelligence applications.
+* [labelbox](https://github.com/Labelbox/labelbox-python) - The fastest way to annotate data to build and ship artificial intelligence applications.
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Annotate quickly images.
 * [LabelImg](https://github.com/tzutalin/labelImg) - A graphical image annotation tool and label object bounding boxes in images.
 * [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT).
@@ -964,7 +964,7 @@ to successfully design systems architecture.
 * [QEMU](https://www.qemu.org/) - A generic and open source machine emulator and virtualizer.
 * [qemu-xilinx](https://github.com/Xilinx/qemu) - A fork of Quick EMUlator (QEMU) with improved support and modelling for the Xilinx platforms.
 * [rosserial](https://github.com/ros-drivers/rosserial) - A ROS client library for small, embedded devices, such as Arduino.
-* [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - OpenEmbedded Layer for ROS Applications.
+* [meta-ros](https://github.com/ros/meta-ros) - OpenEmbedded Layer for ROS Applications.
 * [meta-balena](https://github.com/balena-os/meta-balena) - Run Docker containers on embedded devices.
 * [micro-ros](https://micro-ros.github.io/) - The major changes compared to "regular" ROS 2 is that micro-ROS uses a Real-Time Operating System (RTOS) instead of Linux, and DDS for eXtremely Resource Constrained Environments.
 * [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) - NVIDIA Container Runtime is a GPU aware container runtime, compatible with the Open Containers Initiative (OCI) specification used by Docker, CRI-O, and other popular container technologie.
@@ -1051,7 +1051,7 @@ to successfully design systems architecture.
 * [ti_mmwave_rospkg](https://github.com/radar-lab/ti_mmwave_rospkg) - TI mmWave radar ROS driver (with sensor fusion and hybrid).
 * [pacmod3](https://github.com/astuff/pacmod3) - This ROS node is designed to allow the user to control a vehicle with the PACMod drive-by-wire system, board revision 3.
 * [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - These are packages for using Intel RealSense cameras (D400 series) with ROS2.
-* [sick_scan](https://github.com/SICKAG/sick_scan) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
+* [sick_scan](https://github.com/SICKAG/sick_scan_xd) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
 * [ouster_example](https://github.com/ouster-lidar/ouster_example) - Sample code for connecting to and configuring the OS1, reading and visualizing data, and interfacing with ROS.
 * [ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 * [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver) - A new ROS package, specially used to connect LiDAR products produced by Livox.
@@ -1123,14 +1123,13 @@ to successfully design systems architecture.
 * [a2d2_to_ros](https://gitlab.com/MaplessAI/external/a2d2_to_ros) - Utilities for converting A2D2 data sets to ROS bags.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images.
-* [adas-dataset-form](https://www.flir.com/oem/adas/adas-dataset-form/) - Thermal Dataset for Algorithm Training.
 * [h3d](https://usa.honda-ri.com/h3d) - The H3D is a large scale full-surround 3D multi-object detection and tracking dataset from Honda.
 * [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) - A diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world.
 * [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview) - TensorFlow Datasets provides many public datasets as tf.data.Datasets.
 * [racetrack-database](https://github.com/TUMFTM/racetrack-database) - Contains center lines (x- and y-coordinates), track widths and race lines for over 20 race tracks (mainly F1 and DTM) all over the world.
 * [BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation.
 * [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation created from nothing but two cameras and GPS in downtown San Francisco.
-* [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/) - Level 5 is developing a self-driving system for the Lyft network. We're collecting and processing data from our autonomous fleet and sharing it with you.
+* [Lyft Level 5 Dataset](https://github.com/woven-planet/l5kit) - Level 5 is developing a self-driving system for the Lyft network. We're collecting and processing data from our autonomous fleet and sharing it with you.
 * [holicity](https://github.com/zhou13/holicity) - A City-Scale Data Platform for Learning Holistic 3D Structures.
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
