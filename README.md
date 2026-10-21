@@ -844,6 +844,7 @@ to successfully design systems architecture.
 * [ipygany](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
 * [Foxglove Studio](https://github.com/foxglove/studio) - Web and desktop app for robotics visualization and debugging; actively maintained fork of webviz.
 * [ROS-Mobile](https://github.com/ROS-Mobile/ROS-Mobile-Android) - Visualization and controlling application for Android.
+* [Styri](https://github.com/styri-dev/styri) - Open-source web operator panel for ROS 2 robots; runs fully offline on the robot's network, no cloud or account.
 
 
 ### Annotation
