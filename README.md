@@ -448,6 +448,7 @@ to successfully design systems architecture.
 * [pyquaternion](https://github.com/KieranWynn/pyquaternion) - A full-featured Python module for representing and using quaternions.
 * [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - This package offers calibration of a number of parameters of a robot, such as: 3D Camera intrinsics, extrinsics Joint angle offsets and robot frame offsets.
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - Contains a calibration tool to calibrate a sensor setup consisting of lidars, radars and cameras.
+* [OpenMVIS](https://github.com/openmvis/openmvis) - Multi-camera, multi-IMU calibration toolbox with rolling-shutter readout and camera-IMU time offset estimation.
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - A Real-Time Fiducial Tag using Point Clouds Lidar Data.
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - Extrinsic and intrinsic calbration of cameras.
 * [ikpy](https://github.com/Phylliade/ikpy) - An Inverse Kinematics library aiming performance and modularity.
